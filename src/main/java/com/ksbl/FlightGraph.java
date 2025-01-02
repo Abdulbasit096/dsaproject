@@ -13,14 +13,21 @@ public class FlightGraph {
     }
 
     // In FlightGraph.java
-    public void addFlight(Flight flight) {
+    public void addFlight(Flight flight,boolean cheapest) {
         adjacencyList.putIfAbsent(flight.source(), new HashMap<>());
         Map<String, Flight> destinations = adjacencyList.get(flight.source());
-
         Flight existingFlight = destinations.get(flight.destination());
-        if (existingFlight == null || flight.duration() < existingFlight.duration()) {
-            destinations.put(flight.destination(), flight);
+        if (cheapest){
+            if (existingFlight == null || flight.price() < existingFlight.price()){
+                destinations.put(flight.destination(),flight);
+            }
+        }else{
+            if (existingFlight == null || flight.duration() < existingFlight.duration()) {
+                destinations.put(flight.destination(), flight);
+            }
         }
+
+
     }
 
     public Route findShortestRoute(String source, String destination) {

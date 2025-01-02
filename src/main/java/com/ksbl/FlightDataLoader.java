@@ -12,11 +12,11 @@ public class FlightDataLoader {
         this.graph = new FlightGraph();
     }
 
-    public FlightGraph loadFlightData(String origin, String destination, LocalDate date,int routes) {
+    public FlightGraph loadFlightData(String origin, String destination, LocalDate date,int routes,boolean cheapest) {
         List<Flight> flights = apiService.searchFlights(origin, destination, date,routes);
 
         for (Flight flight : flights) {
-            graph.addFlight(flight);
+            graph.addFlight(flight,cheapest);
         }
 
         return graph;

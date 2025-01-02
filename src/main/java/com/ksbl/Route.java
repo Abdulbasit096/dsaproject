@@ -6,13 +6,11 @@ import java.util.ArrayList;
 public class Route {
     private List<Flight> flights;
     private double totalPrice;
-
     private int totalDuration;
 
     public Route() {
         this.flights = new ArrayList<>();
         this.totalPrice = 0;
-
         this.totalDuration = 0;
     }
 
@@ -20,6 +18,7 @@ public class Route {
         flights.add(flight);
         totalPrice += flight.price();
         totalDuration += flight.duration();
+
     }
 
     // Getters
@@ -30,18 +29,26 @@ public class Route {
 
     @Override
     public String toString() {
+        if (flights.isEmpty()){
+            return "";
+        }
         StringBuilder sb = new StringBuilder();
         sb.append("Route: ");
         for (int i = 0; i < flights.size(); i++) {
-            sb.append(flights.get(i).source());
+            sb.append(flights.get(i).airline())
+                    .append(" (")
+                    .append(flights.get(i).source())
+                    .append(" -> ")
+                    .append(flights.get(i).destination())
+                    .append(")");
             if (i < flights.size() - 1) {
                 sb.append(" -> ");
             }
         }
-        if (!flights.isEmpty()) {
-            sb.append(" -> ").append(flights.get(flights.size() - 1).destination());
-        }
-        sb.append("\nTotal Price: $").append(String.format("%.2f", totalPrice));
+        
+
+        sb.append("\nTotal Price: EUR").append(String.format("%.2f", totalPrice));
+
 
         // Format duration as HH:MM
         int hours = totalDuration / 60;

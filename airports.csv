@@ -161,7 +161,7 @@ Australia,Fukushima ,AU,Queensland,TSV,YBTL,Townsville Airport,-19.2525,146.765
 Australia,Sapporo ,AU,New South Wales,WGA,YSWG,Wagga Wagga Airport,-35.1653,147.466
 Australia,Ishigaki ,AU,Victoria,WMB,YWBL,Warrnambool Airport,-38.2953,142.447
 Australia,Miyako Jima (Ryuku Islands) ,AU,Queensland,WEI,YBWP,Weipa Airport,-12.6786,141.925
-Australia,"Okinawa, Ryukyo Island ",AU,Queensland,PPP,YBPN,Whitsunday Coast Airport,-20.495,148.552
+Australia,Okinawa: Ryukyo Island ,AU,Queensland,PPP,YBPN,Whitsunday Coast Airport,-20.495,148.552
 Australia,Osaka ,AU,South Australia,WYA,YWHA,Whyalla Airport,-33.0589,137.514
 Australia,Osaka ,AU,Western Australia,WUN,YWLU,Wiluna Airport,-26.6292,120.221
 Australia,Tokyo ,AU,Western Australia,WYN,YWYM,Wyndham Airport,-15.5114,128.153
@@ -197,7 +197,7 @@ Bolivia (Plurinational State of),Mexico City ,BO,Cochabamba,CBB,SLCB,Jorge Wilst
 Bolivia (Plurinational State of),Mexico City ,BO,El Beni,SRB,SLSR,Santa Rosa Airport (Bolivia),-14.0662,-66.7868
 Bolivia (Plurinational State of),Mexico City ,BO,La Paz,LPB,SLLP,El Alto International Airport,-16.5133,-68.1923
 Bolivia (Plurinational State of),Monterrey ,BO,Santa Cruz,SRZ,SLET,El Trompillo Airport,-17.8116,-63.1715
-"Bonaire, Sint Eustatius and Saba",Monterrey ,BQ,Bonaire,BON,TNCB,Flamingo International Airport,12.131,-68.2685
+Bonaire,Monterrey ,BQ,Bonaire,BON,TNCB,Flamingo International Airport,12.131,-68.2685
 Brazil,Oaxaca ,BR,Acre,RBR,SBRB,Placido de Castro International Airport,-9.86889,-67.8981
 Brazil,Hermosillo ,BR,Alagoas,MCZ,SBMO,Zumbi dos Palmares International Airport,-9.51081,-35.7917
 Brazil,Tampico ,BR,Amapa,MCP,SBMQ,Alberto Alcolumbre International Airport,0.050664,-51.0722
@@ -240,15 +240,15 @@ Brazil,Moscow ,BR,Sao Paulo,URB,SBUP,Castilho Airport (Urubupunga Airport),-20.7
 Brazil,Nizhny Novgorod ,BR,Sao Paulo,VCP,SBKP,Viracopos-Campinas International Airport,-23.0081,-47.1344
 Brazil,Novosibirsk ,BR,Sergipe,AJU,SBAR,Santa Maria Airport (Sergipe),-10.984,-37.0703
 Brazil,Rostov,BR,Tocantins,PMW,SBPJ,Palmas-Brigadeiro Lysias Rodrigues Airport,-10.2915,-48.357
-Bahamas (the),Rostov,BS,Central Andros,CCZ,MYBC,Chub Cay International Airport,25.4171,-77.8809
-Bahamas (the),Samara ,BS,East Grand Bahama,FPO,MYGF,Grand Bahama International Airport,26.5587,-78.6956
-Bahamas (the),Yekaterinburg ,BS,Harbour Island,ELH,MYEH,North Eleuthera Airport,25.4749,-76.6835
-Bahamas (the),Kazan ,BS,Hope Town,MHH,MYAM,Marsh Harbour Airport,26.5114,-77.0835
-Bahamas (the),Kigali ,BS,Hope Town,TCB,MYAT,Treasure Cay Airport,26.7453,-77.3913
-Bahamas (the),Madinah (Medina) ,BS,New Providence,NAS,MYNN,Lynden Pindling International Airport,25.039,-77.4662
-Bahamas (the),Riyadh ,BS,San Salvador,ZSA,MYSM,San Salvador Airport (Cockburn Town Airport),24.0633,-74.524
-Bahamas (the),Jeddah ,BS,South Eleuthera,GHB,MYEM,Governor's Harbour Airport,25.2847,-76.331
-Bahamas (the),Mahe ,BS,South Eleuthera,RSD,MYER,Rock Sound International Airport,24.8951,-76.1769
+Bahamas ,Rostov,BS,Central Andros,CCZ,MYBC,Chub Cay International Airport,25.4171,-77.8809
+Bahamas ,Samara ,BS,East Grand Bahama,FPO,MYGF,Grand Bahama International Airport,26.5587,-78.6956
+Bahamas ,Yekaterinburg ,BS,Harbour Island,ELH,MYEH,North Eleuthera Airport,25.4749,-76.6835
+Bahamas ,Kazan ,BS,Hope Town,MHH,MYAM,Marsh Harbour Airport,26.5114,-77.0835
+Bahamas ,Kigali ,BS,Hope Town,TCB,MYAT,Treasure Cay Airport,26.7453,-77.3913
+Bahamas ,Madinah (Medina) ,BS,New Providence,NAS,MYNN,Lynden Pindling International Airport,25.039,-77.4662
+Bahamas ,Riyadh ,BS,San Salvador,ZSA,MYSM,San Salvador Airport (Cockburn Town Airport),24.0633,-74.524
+Bahamas ,Jeddah ,BS,South Eleuthera,GHB,MYEM,Governor's Harbour Airport,25.2847,-76.331
+Bahamas ,Mahe ,BS,South Eleuthera,RSD,MYER,Rock Sound International Airport,24.8951,-76.1769
 Bhutan,Khartoum ,BT,Paro,PBH,VQPR,Paro International Airport,27.4032,89.4246
 Botswana,Jönköping (Jonkoping) ,BW,Central,PKW,FBSP,Selebi-Phikwe Airport,-22.0583,27.8288
 Botswana,Malmo (Malmö) ,BW,North East,FRW,FBFT,Francistown Airport,-21.1596,27.4745
@@ -301,7 +301,7 @@ Canada,Jefferson City (MO) ,CA,Nunavut,YRB,CYRB,Resolute Bay Airport,74.7169,-94
 Canada,Kansas City (MO) ,CA,Nunavut,YUX,CYUX,Hall Beach Airport,68.7761,-81.2425
 Canada,New York ,CA,Nunavut,YXN,CYXN,Whale Cove Airport,62.24,-92.5981
 Canada,Johnson City (NY) ,CA,Ontario,YAT,CYAT,Attawapiskat Airport,52.9275,-82.4319
-Canada,"Long Island, Islip (NY) ",CA,Ontario,YFA,CYFA,Fort Albany Airport,52.2014,-81.6969
+Canada,Long Island: Islip (NY) ,CA,Ontario,YFA,CYFA,Fort Albany Airport,52.2014,-81.6969
 Canada,New York ,CA,Ontario,YHM,CYHM,John C. Munro Hamilton International Airport,43.1736,-79.935
 Canada,New York ,CA,Ontario,YOW,CYOW,Ottawa Macdonald-Cartier International Airport,45.3225,-75.6692
 Canada,Rocky Mount ,CA,Ontario,YQG,CYQG,Windsor International Airport,42.2756,-82.9556
@@ -313,7 +313,7 @@ Canada,Myrtle Beach (SC) ,CA,Ontario,ZKE,CZKE,Kashechewan Airport,52.2825,-81.67
 Canada,Myrtle Beach (SC) ,CA,Quebec,YGL,CYGL,La Grande Riviere Airport,53.6253,-77.7042
 Canada,Jackson (TN) ,CA,Quebec,YGW,CYGW,Kuujjuarapik Airport,55.2819,-77.7653
 Canada,Tri,CA,Quebec,YHR,CYHR,Chevery Airport,50.4689,-59.6367
-Canada,"Houston, TX ",CA,Quebec,YIF,CYIF,Saint-Augustin Airport,51.2117,-58.6583
+Canada,Houston: TX ,CA,Quebec,YIF,CYIF,Saint-Augustin Airport,51.2117,-58.6583
 Canada,Washington DC ,CA,Quebec,YMX,CYMX,MontrÃ©al-Mirabel International Airport,45.6702,-74.0324
 Canada,Washington DC ,CA,Quebec,YPN,CYPN,Port-Menier Airport,49.8364,-64.2886
 Canada,Janesville (WI) ,CA,Quebec,YQB,CYQB,Quebec City Jean Lesage International Airport,46.7911,-71.3933
@@ -330,16 +330,16 @@ Congo (the Democratic Republic of the),Sanaa (Sana'a) ,CD,Haut-Katanga,FBM,FZQA,
 Congo (the Democratic Republic of the),Johannesburg ,CD,Kinshasa,FIH,FZAA,N'djili Airport,-4.38575,15.4446
 Congo (the Democratic Republic of the),Pretoria ,CD,Mongala,LIQ,FZGA,Lisala Airport,2.17066,21.4969
 Congo (the Democratic Republic of the),Nelspruit ,CD,Tshopo,FKI,FZIC,Bangoka International Airport,0.481639,25.338
-Central African Republic (the),Lusaka ,CF,Bangui,BGF,FEFF,Bangui M'Poko International Airport,4.39848,18.5188
-Central African Republic (the),Harare ,CF,Haute-Kotto,BIV,FEFR,Bria Airport,6.52778,21.9894
-Central African Republic (the),Ouadda,CF,Haute-Kotto,ODA,FEFW,Ouadda Airport,8.01056,22.3986
-Central African Republic (the),Guatemala City ,CF,Mambere-Kadei,BBT,FEFT,Berberati Airport,4.22158,15.7864
-Central African Republic (the),Macapa ,CF,Mambere-Kadei,CRF,FEFC,Carnot Airport,4.937,15.894
-Central African Republic (the),Dallas/Ft. Worth (TX) ,CF,Mbomou,BGU,FEFG,Bangassou Airport,4.785,22.781
-Central African Republic (the),Curacao ,CF,Ouaka,BBY,FEFM,Bambari Airport,5.84694,20.6475
-Central African Republic (the),Innsbruck ,CF,Vakaga,IRO,FEFI,Birao Airport,10.2364,22.7169
-Congo (the),Joao Pessoa ,CG,Brazzaville,BZV,FCBB,Maya-Maya Airport,-4.2517,15.253
-Congo (the),Pointe Noire,CG,Pointe-Noire,PNR,FCPP,Pointe Noire Airport,-4.81603,11.8866
+Central African Republic ,Lusaka ,CF,Bangui,BGF,FEFF,Bangui M'Poko International Airport,4.39848,18.5188
+Central African Republic ,Harare ,CF,Haute-Kotto,BIV,FEFR,Bria Airport,6.52778,21.9894
+Central African Republic ,Ouadda,CF,Haute-Kotto,ODA,FEFW,Ouadda Airport,8.01056,22.3986
+Central African Republic ,Guatemala City ,CF,Mambere-Kadei,BBT,FEFT,Berberati Airport,4.22158,15.7864
+Central African Republic ,Macapa ,CF,Mambere-Kadei,CRF,FEFC,Carnot Airport,4.937,15.894
+Central African Republic ,Dallas/Ft. Worth (TX) ,CF,Mbomou,BGU,FEFG,Bangassou Airport,4.785,22.781
+Central African Republic ,Curacao ,CF,Ouaka,BBY,FEFM,Bambari Airport,5.84694,20.6475
+Central African Republic ,Innsbruck ,CF,Vakaga,IRO,FEFI,Birao Airport,10.2364,22.7169
+Congo ,Joao Pessoa ,CG,Brazzaville,BZV,FCBB,Maya-Maya Airport,-4.2517,15.253
+Congo ,Pointe Noire,CG,Pointe-Noire,PNR,FCPP,Pointe Noire Airport,-4.81603,11.8866
 Switzerland,Dushanbe (Duschanbe) ,CH,Basel-City,BSL,LFSB,EuroAirport Basel Mulhouse Freiburg,47.59,7.52916
 Switzerland,Havana ,CH,Bern,BRN,LSZB,Bern Airport,46.9141,7.49715
 Switzerland,Geneva ,CH,Geneve,GVA,LSGG,Geneva Airport,46.2381,6.10895
@@ -355,7 +355,7 @@ Côte d'Ivoire,Quebec ,CI,Sassandra-Marahoue,DJO,DIDL,Daloa Airport,6.79281,-6.4
 Côte d'Ivoire,Korhogo,CI,Savanes,HGO,DIKO,Korhogo Airport,9.38718,-5.55666
 Côte d'Ivoire,Jerez de la Frontera/Cadiz ,CI,Vallee du Bandama,BYK,DIBK,Bouake Airport,7.7388,-5.07367
 Côte d'Ivoire,Yamoussoukro,CI,Yamoussoukro,ASK,DIYO,Yamoussoukro International Airport,6.90317,-5.36558
-Cook Islands (the),Rarotonga,CK,Cook Islands,RAR,NCRG,Rarotonga International Airport,-21.2027,-159.806
+Cook Islands ,Rarotonga,CK,Cook Islands,RAR,NCRG,Rarotonga International Airport,-21.2027,-159.806
 Chile,Linz ,CL,Antofagasta,CJC,SCCF,El Loa Airport,-22.4982,-68.9036
 Chile,Punta Arenas ,CL,Magallanes,PUQ,SCCI,Presidente Carlos Ibanez del Campo International Airport,-53.0026,-70.8546
 Chile,Santiago de Chile ,CL,Region Metropolitana de Santiago,SCL,SCEL,Arturo Merino BenÃ­tez International Airport,-33.3928,-70.7856
@@ -408,7 +408,7 @@ Colombia,Duesseldorf ,CO,Atlantico,BAQ,SKBQ,Ernesto Cortissoz International Airp
 Colombia,Mahe ,CO,Bolivar,CTG,SKCG,Rafael Nunez International Airport,10.4424,-75.513
 Colombia,Jakarta ,CO,Distrito Capital de Bogota,BOG,SKBO,El Dorado International Airport,4.70159,-74.1469
 Colombia,Pereira,CO,Risaralda,PEI,SKPE,Matecana International Airport,4.81267,-75.7395
-Colombia,San Andres,CO,"San Andres, Providencia y Santa Catalina",ADZ,SKSP,Gustavo Rojas Pinilla International Airport,12.5836,-81.7112
+Colombia,San Andres,CO,San Andres,ADZ,SKSP,Gustavo Rojas Pinilla International Airport,12.5836,-81.7112
 Colombia,Kharga ,CO,Santander,BGA,SKBG,Palonegro International Airport,7.1265,-73.1848
 Colombia,London ,CO,Valle del Cauca,CLO,SKCL,Alfonso Bonilla Aragon International Airport,3.54322,-76.3816
 Colombia,Santa Rosalia,CO,Vichada,SSL,SKSL,Santa Rosalia Airport,5.1309,-70.8682
@@ -441,7 +441,7 @@ Germany,Managua ,DE,Brandenburg,CBU,EDCD,Cottbus-Drewitz Airport,51.8894,14.5319
 Germany,Jönköping (Jonkoping) ,DE,Bremen,BRE,EDDW,Bremen Airport,53.0475,8.78667
 Germany,Hamburg ,DE,Hamburg,HAM,EDDH,Hamburg Airport,53.6304,9.98823
 Germany,Frankfurt/Main ,DE,Hessen,FRA,EDDF,Frankfurt Airport,50.0333,8.57056
-Germany,"Wiesbaden, Air Base",DE,Hessen,WIE,ETOU,Wiesbaden Army Airfield,50.0498,8.3254
+Germany,Wiesbaden: Air Base,DE,Hessen,WIE,ETOU,Wiesbaden Army Airfield,50.0498,8.3254
 Germany,Guettin,DE,Mecklenburg-Vorpommern,GTI,EDCG,Rugen Airport (Guttin Airfield),54.3833,13.3256
 Germany,Hannover,DE,Niedersachsen,HAJ,EDDV,Hannover Airport,52.4611,9.68508
 Germany,Juist (island),DE,Niedersachsen,JUI,EDWJ,Juist Airport,53.6811,7.05583
@@ -454,7 +454,7 @@ Germany,Frankfurt/Hahn,DE,Rheinland-Pfalz,HHN,EDFH,Frankfurt-Hahn Airport,49.948
 Germany,Saarbruecken,DE,Saarland,SCN,EDDR,Saarbrucken Airport,49.2146,7.10951
 Germany,Seoul ,DE,Sachsen,DRS,EDDC,Dresden Airport,51.1328,13.7672
 Germany,Leipzig,DE,Sachsen,LEJ,EDDP,Leipzig/Halle Airport,51.4239,12.2364
-Germany,"Westerland, Sylt Airport",DE,Schleswig-Holstein,GWT,EDXW,Sylt Airport (Westerland Airport),54.9132,8.34047
+Germany,Westerland: Sylt Airport,DE,Schleswig-Holstein,GWT,EDXW,Sylt Airport (Westerland Airport),54.9132,8.34047
 Germany,Kiel ,DE,Schleswig-Holstein,KEL,EDHK,Kiel Airport,54.3794,10.1453
 Germany,Uberlandia ,DE,Thuringen,ERF,EDDE,Erfurt-Weimar Airport,50.9798,10.9581
 Djibouti,Sao Paulo ,DJ,Djibouti,JIB,HDAM,Djibouti-Ambouli International Airport,11.5473,43.1595
@@ -470,10 +470,10 @@ Denmark,Odense,DK,Syddanmark,ODE,EKOD,Hans Christian Andersen Airport,55.4767,10
 Denmark,Soenderborg,DK,Syddanmark,SGD,EKSB,Sonderborg Airport,54.9644,9.79173
 Denmark,Skrydstrup,DK,Syddanmark,SKS,EKSP,Vojens Airport (Skrydstrup Airport),55.221,9.26702
 Dominica,Melville Hall,DM,Saint Andrew,DOM,TDPD,Douglas-Charles Airport,15.547,-61.3
-Dominican Republic (the),Punta Cana ,DO,La Altagracia,PUJ,MDPC,Punta Cana International Airport,18.5674,-68.3634
-Dominican Republic (the),Santo Domingo,DO,Monte Plata,SDQ,MDSD,Las Americas International Airport,18.4297,-69.6689
-Dominican Republic (the),Puerto Plata,DO,Puerto Plata,POP,MDPP,Gregorio Luperon International Airport,19.7579,-70.57
-Dominican Republic (the),Tekirdag ,DO,Samana,AZS,MDCY,Samana El Catey International Airport,19.267,-69.742
+Dominican Republic ,Punta Cana ,DO,La Altagracia,PUJ,MDPC,Punta Cana International Airport,18.5674,-68.3634
+Dominican Republic ,Santo Domingo,DO,Monte Plata,SDQ,MDSD,Las Americas International Airport,18.4297,-69.6689
+Dominican Republic ,Puerto Plata,DO,Puerto Plata,POP,MDPP,Gregorio Luperon International Airport,19.7579,-70.57
+Dominican Republic ,Tekirdag ,DO,Samana,AZS,MDCY,Samana El Catey International Airport,19.267,-69.742
 Algeria,Bamako ,DZ,Alger,ALG,DAAG,Houari Boumediene Airport,36.691,3.21541
 Algeria,Bodrum ,DZ,Annaba,AAE,DABB,Rabah Bitat Airport (Les Salines Airport),36.8222,7.80917
 Algeria,Osaka ,DZ,Constantine,CZL,DABC,Mohamed Boudiaf International Airport,36.276,6.62039
@@ -501,7 +501,7 @@ Egypt,Santa Katarina ,EG,Janub Sina',SKV,HESC,St. Catherine International Airpor
 Egypt,Sharm El Sheikh,EG,Janub Sina',SSH,HESH,Sharm el-Sheikh International Airport,27.9773,34.395
 Egypt,Marsa Matrah (Marsa Matruh),EG,Matruh,MUH,HEMM,Marsa Matruh International Airport,31.3254,27.2217
 Egypt,Siwa,EG,Matruh,SEW,,Siwa Oasis North Airport,29.3455,25.5067
-Egypt,"Aspen, (CO) ",EG,Shamal Sina',AAC,HEAR,El Arish International Airport,31.0733,33.8358
+Egypt,Aspen: (CO) ,EG,Shamal Sina',AAC,HEAR,El Arish International Airport,31.0733,33.8358
 Eritrea,Cape Town ,ER,Al Awsat,ASM,HHAS,Asmara International Airport,15.2919,38.9107
 Spain,Malaga,ES,Andalucia,AGP,LEMG,Malaga Airport,36.6749,-4.49911
 Spain,Granada,ES,Andalucia,GRX,LEGR,Federico Garcia Lorca Airport (Granada Jaen Airport),37.1887,-3.77736
@@ -510,7 +510,7 @@ Spain,Panama City ,ES,Andalucia,ODB,LEBA,Cordoba Airport,37.842,-4.84888
 Spain,Sevilla,ES,Andalucia,SVQ,LEZL,Seville Airport,37.418,-5.89311
 Spain,Jerez de la Frontera/Cadiz ,ES,Andalucia,XRY,LEJR,Jerez Airport (La Parra Airport),36.7446,-6.06011
 Spain,Zaragoza,ES,Aragon,ZAZ,LEZG,Zaragoza Airport,41.6662,-1.04155
-Spain,Oviedo,ES,"Asturias, Principado de",OVD,LEAS,Asturias Airport (Oviedo Airport),43.5636,-6.03462
+Spain,Oviedo,ES,Asturias,OVD,LEAS,Asturias Airport (Oviedo Airport),43.5636,-6.03462
 Spain,Calcutta (Kolkata) ,ES,Canarias,ACE,GCRR,Lanzarote Airport,28.9455,-13.6052
 Spain,Fuerteventura,ES,Canarias,FUE,GCFV,Fuerteventura Airport,28.4527,-13.8638
 Spain,Las Palmas,ES,Canarias,LPA,GCLP,Gran Canaria Airport,27.9319,-15.3866
@@ -530,13 +530,13 @@ Spain,Vigo,ES,Galicia,VGO,LEVX,Vigo-Peinador Airport,42.2318,-8.62677
 Spain,Ibiza,ES,Illes Balears,IBZ,LEIB,Ibiza Airport,38.8729,1.37312
 Spain,Mahon,ES,Illes Balears,MAH,LEMH,Menorca Airport (Mahon Airport),39.8626,4.21865
 Spain,Palma de Mallorca,ES,Illes Balears,PMI,LEPA,Palma de Mallorca Airport,39.5517,2.73881
-Spain,Madrid ,ES,"Madrid, Comunidad de",MAD,LEMD,Adolfo Suarez Madrid-Barajas Airport,40.4719,-3.56264
-Spain,Murcia,ES,"Murcia, Region de",MJV,LELC,Murcia-San Javier Airport,37.775,-0.812389
+Spain,Madrid ,ES,Madrid,MAD,LEMD,Adolfo Suarez Madrid-Barajas Airport,40.4719,-3.56264
+Spain,Murcia,ES,Murcia,MJV,LELC,Murcia-San Javier Airport,37.775,-0.812389
 Spain,Honolulu (HI) ,ES,Pais Vasco,BIO,LEBB,Bilbao Airport,43.3011,-2.91061
 Spain,San Sebastian,ES,Pais Vasco,EAS,LESO,San Sebastian Airport,43.3565,-1.79061
 Spain,Vitoria,ES,Pais Vasco,VIT,LEVT,Vitoria Airport,42.8828,-2.72447
-Spain,Bandung ,ES,"Valenciana, Comunidad",ALC,LEAL,Alicante-Elche Airport,38.2822,-0.558156
-Spain,Valencia,ES,"Valenciana, Comunidad",VLC,LEVC,Valencia Airport,39.4893,-0.481625
+Spain,Bandung ,ES,Valenciana,ALC,LEAL,Alicante-Elche Airport,38.2822,-0.558156
+Spain,Valencia,ES,Valenciana,VLC,LEVC,Valencia Airport,39.4893,-0.481625
 Ethiopia,Alexander Bay ,ET,Addis Ababa,ADD,HAAB,Addis Ababa Bole International Airport,8.97778,38.7994
 Ethiopia,Jimma,ET,Oromiya,JIM,HAJM,Aba Segud Airport,7.66609,36.8166
 Ethiopia,Jijiga,ET,Sumale,JIJ,HAJJ,Wilwal International Airport,9.3325,42.9121
@@ -569,7 +569,7 @@ Finland,Turku,FI,Varsinais-Suomi,TKU,EFTU,Turku Airport,60.5141,22.2628
 Fiji,Nadi,FJ,Central,NAN,NFFN,Nadi International Airport,-17.7554,177.443
 Fiji,Nausori,FJ,Central,SUV,NFNA,Nausori International Airport,-18.0433,178.559
 Fiji,Madrid ,FJ,Western,CST,NFCS,Castaway Island Seaplane Base,-17.7358,177.129
-Falkland Islands (the) [Malvinas],Washington DC ,FK,Falkland Islands (Malvinas),FAE,EKVG,Vagar Airport,62.0636,-7.27722
+Falkland Islands  [Malvinas],Washington DC ,FK,Falkland Islands (Malvinas),FAE,EKVG,Vagar Airport,62.0636,-7.27722
 Micronesia (Federated States of),Pohnpei,FM,Pohnpei,PNI,PTPN,Pohnpei International Airport,6.9851,158.209
 France,Sapporo ,FR,Auvergne-Rhone-Alpes,AUR,LFLW,Aurillac - Tronquieres Airport,44.8914,2.42194
 France,Naples ,FR,Auvergne-Rhone-Alpes,CFE,LFLC,Clermont-Ferrand Auvergne Airport,45.7867,3.16917
@@ -623,58 +623,58 @@ Gabon,Lambarene,GA,Moyen-Ogooue,LBQ,FOGR,Lambarene Airport,-0.704389,10.2457
 Gabon,Foula (Shetland),GA,Ngounie,FOU,FOGF,Fougamou Airport,-1.283,10.617
 Gabon,Mouila,GA,Ngounie,MJL,FOGM,Mouila Airport,-1.84514,11.0567
 Gabon,Port Gentil,GA,Ogooue-Maritime,POG,FOOG,Port-Gentil International Airport,-0.711739,8.75438
-United Kingdom of Great Britain and Northern Ireland (the),Ishigaki ,GB,England,BHX,EGBB,Birmingham Airport,52.4539,-1.74803
-United Kingdom of Great Britain and Northern Ireland (the),Jackson (MI) ,GB,England,BLK,EGNH,Blackpool Airport,53.7717,-3.02861
-United Kingdom of Great Britain and Northern Ireland (the),Jessore ,GB,England,BOH,EGHH,Bournemouth Airport,50.78,-1.8425
-United Kingdom of Great Britain and Northern Ireland (the),Juneau (AK) ,GB,England,BRS,EGGD,Bristol Airport,51.3827,-2.71909
-United Kingdom of Great Britain and Northern Ireland (the),London ,GB,England,CBG,EGSC,Cambridge Airport,52.205,0.175
-United Kingdom of Great Britain and Northern Ireland (the),Philadelphia (PA) ,GB,England,CVT,EGBE,Coventry Airport,52.3697,-1.47972
-United Kingdom of Great Britain and Northern Ireland (the),Sapporo ,GB,England,DSA,EGCN,Robin Hood Airport Doncaster Sheffield,53.4805,-1.01066
-United Kingdom of Great Britain and Northern Ireland (the),Nottingham ,GB,England,EMA,EGNX,East Midlands Airport,52.8311,-1.32806
-United Kingdom of Great Britain and Northern Ireland (the),Utica (NY) ,GB,England,EXT,EGTE,Exeter International Airport,50.7344,-3.41389
-United Kingdom of Great Britain and Northern Ireland (the),Humberside,GB,England,HUY,EGNJ,Humberside Airport,53.5744,-0.350833
-United Kingdom of Great Britain and Northern Ireland (the),Isle of Man,GB,England,IOM,EGNS,Isle of Man Airport,54.0833,-4.62333
-United Kingdom of Great Britain and Northern Ireland (the),Leeds/Bradford,GB,England,LBA,EGNM,Leeds Bradford Airport,53.8659,-1.66057
-United Kingdom of Great Britain and Northern Ireland (the),London ,GB,England,LCY,EGLC,London City Airport,51.5053,0.055278
-United Kingdom of Great Britain and Northern Ireland (the),Land's End,GB,England,LEQ,EGHC,Land's End Airport,50.1028,-5.67056
-United Kingdom of Great Britain and Northern Ireland (the),London ,GB,England,LGW,EGKK,Gatwick Airport,51.1481,-0.190278
-United Kingdom of Great Britain and Northern Ireland (the),London ,GB,England,LHR,EGLL,Heathrow Airport,51.4775,-0.461389
-United Kingdom of Great Britain and Northern Ireland (the),Liverpool,GB,England,LPL,EGGP,Liverpool John Lennon Airport,53.3336,-2.84972
-United Kingdom of Great Britain and Northern Ireland (the),London ,GB,England,LTN,EGGW,London Luton Airport,51.8747,-0.368333
-United Kingdom of Great Britain and Northern Ireland (the),Lydd ,GB,England,LYX,EGMD,Lydd Airport (London Ashford Airport),50.9561,0.939167
-United Kingdom of Great Britain and Northern Ireland (the),Manchester,GB,England,MAN,EGCC,Manchester Airport,53.3537,-2.27495
-United Kingdom of Great Britain and Northern Ireland (the),"Teesside, Durham Tees Valley",GB,England,MME,EGNV,Teesside International Airport,54.5092,-1.42941
-United Kingdom of Great Britain and Northern Ireland (the),Newcastle,GB,England,NCL,EGNT,Newcastle Airport,55.0375,-1.69167
-United Kingdom of Great Britain and Northern Ireland (the),Newquay,GB,England,NQY,EGHQ,Cornwall Airport Newquay,50.4406,-4.99541
-United Kingdom of Great Britain and Northern Ireland (the),Norwich,GB,England,NWI,EGSH,Norwich International Airport,52.6758,1.28278
-United Kingdom of Great Britain and Northern Ireland (the),Southend (London),GB,England,SEN,EGMC,London Southend Airport,51.5703,0.693333
-United Kingdom of Great Britain and Northern Ireland (the),Southampton ,GB,England,SOU,EGHI,Southampton Airport,50.9503,-1.3568
-United Kingdom of Great Britain and Northern Ireland (the),London ,GB,England,STN,EGSS,London Stansted Airport,51.885,0.235
-United Kingdom of Great Britain and Northern Ireland (the),Guernsey,GB,Great Britain,GCI,EGJB,Guernsey Airport,49.4347,-2.60194
-United Kingdom of Great Britain and Northern Ireland (the),Augsburg ,GB,Guernsey,ACI,EGJA,Alderney Airport,49.7067,-2.21444
-United Kingdom of Great Britain and Northern Ireland (the),Kent (Manston) Kent International,GB,Kent,MSE,EGMH,Manston Airport,51.3422,1.34611
-United Kingdom of Great Britain and Northern Ireland (the),Gaborone ,GB,Northern Ireland,BFS,EGAA,Belfast International Airport,54.6575,-6.21583
-United Kingdom of Great Britain and Northern Ireland (the),Fukushima ,GB,Northern Ireland,BHD,EGAC,George Best Belfast City Airport,54.6181,-5.8725
-United Kingdom of Great Britain and Northern Ireland (the),Saint Denis ,GB,Northern Ireland,LDY,EGAE,City of Derry Airport,55.0428,-7.16111
-United Kingdom of Great Britain and Northern Ireland (the),Aberdeen,GB,Scotland,ABZ,EGPD,Aberdeen Airport,57.2019,-2.19778
-United Kingdom of Great Britain and Northern Ireland (the),Groningen ,GB,Scotland,BEB,EGPL,Benbecula Airport,57.4811,-7.36278
-United Kingdom of Great Britain and Northern Ireland (the),Dublin ,GB,Scotland,BRR,EGPR,Barra Airport,57.0228,-7.44306
-United Kingdom of Great Britain and Northern Ireland (the),Londonderry ,GB,Scotland,CAL,EGEC,Campbeltown Airport / RAF Machrihanish,55.4372,-5.68639
-United Kingdom of Great Britain and Northern Ireland (the),St. Petersburg (Leningrad) ,GB,Scotland,DND,EGPN,Dundee Airport,56.4525,-3.02583
-United Kingdom of Great Britain and Northern Ireland (the),Tampa ,GB,Scotland,EDI,EGPH,Edinburgh Airport,55.95,-3.3725
-United Kingdom of Great Britain and Northern Ireland (the),Vancouver ,GB,Scotland,FIE,EGEF,Fair Isle Airport,59.5358,-1.62806
-United Kingdom of Great Britain and Northern Ireland (the),Glasgow,GB,Scotland,GLA,EGPF,Glasgow Airport,55.8719,-4.43306
-United Kingdom of Great Britain and Northern Ireland (the),Islay,GB,Scotland,ILY,EGPI,Islay Airport (Glenegedale Airport),55.6819,-6.25667
-United Kingdom of Great Britain and Northern Ireland (the),Inverness,GB,Scotland,INV,EGPE,Inverness Airport,57.5425,-4.0475
-United Kingdom of Great Britain and Northern Ireland (the),Kirkwall (Orkney),GB,Scotland,KOI,EGPA,Kirkwall Airport,58.9578,-2.905
-United Kingdom of Great Britain and Northern Ireland (the),Sumburgh (Shetland),GB,Scotland,LSI,EGPB,Sumburgh Airport,59.8814,-1.29389
-United Kingdom of Great Britain and Northern Ireland (the),Lerwick/Tingwall (Shetland Islands),GB,Scotland,LWK,EGET,Tingwall Airport,60.1919,-1.24361
-United Kingdom of Great Britain and Northern Ireland (the),Out Skerries (Shetland),GB,Scotland,OUK,,Out Skerries Airport,60.4252,-0.75
-United Kingdom of Great Britain and Northern Ireland (the),"Glasgow, Prestwick",GB,Scotland,PIK,EGPK,Glasgow Prestwick Airport,55.5094,-4.58667
-United Kingdom of Great Britain and Northern Ireland (the),Stornway,GB,Scotland,SYY,EGPO,Stornoway Airport,58.2156,-6.33111
-United Kingdom of Great Britain and Northern Ireland (the),Unst (Shetland Island) ,GB,Scotland,UNT,EGPW,Baltasound Airport,60.7469,-0.854722
-United Kingdom of Great Britain and Northern Ireland (the),Wick,GB,Scotland,WIC,EGPC,Wick Airport,58.4589,-3.09306
-United Kingdom of Great Britain and Northern Ireland (the),Lydd ,GB,Wales,CWL,EGFF,Cardiff Airport,51.3967,-3.34333
+United Kingdom of Great Britain and Northern Ireland ,Ishigaki ,GB,England,BHX,EGBB,Birmingham Airport,52.4539,-1.74803
+United Kingdom of Great Britain and Northern Ireland ,Jackson (MI) ,GB,England,BLK,EGNH,Blackpool Airport,53.7717,-3.02861
+United Kingdom of Great Britain and Northern Ireland ,Jessore ,GB,England,BOH,EGHH,Bournemouth Airport,50.78,-1.8425
+United Kingdom of Great Britain and Northern Ireland ,Juneau (AK) ,GB,England,BRS,EGGD,Bristol Airport,51.3827,-2.71909
+United Kingdom of Great Britain and Northern Ireland ,London ,GB,England,CBG,EGSC,Cambridge Airport,52.205,0.175
+United Kingdom of Great Britain and Northern Ireland ,Philadelphia (PA) ,GB,England,CVT,EGBE,Coventry Airport,52.3697,-1.47972
+United Kingdom of Great Britain and Northern Ireland ,Sapporo ,GB,England,DSA,EGCN,Robin Hood Airport Doncaster Sheffield,53.4805,-1.01066
+United Kingdom of Great Britain and Northern Ireland ,Nottingham ,GB,England,EMA,EGNX,East Midlands Airport,52.8311,-1.32806
+United Kingdom of Great Britain and Northern Ireland ,Utica (NY) ,GB,England,EXT,EGTE,Exeter International Airport,50.7344,-3.41389
+United Kingdom of Great Britain and Northern Ireland ,Humberside,GB,England,HUY,EGNJ,Humberside Airport,53.5744,-0.350833
+United Kingdom of Great Britain and Northern Ireland ,Isle of Man,GB,England,IOM,EGNS,Isle of Man Airport,54.0833,-4.62333
+United Kingdom of Great Britain and Northern Ireland ,Leeds/Bradford,GB,England,LBA,EGNM,Leeds Bradford Airport,53.8659,-1.66057
+United Kingdom of Great Britain and Northern Ireland ,London ,GB,England,LCY,EGLC,London City Airport,51.5053,0.055278
+United Kingdom of Great Britain and Northern Ireland ,Land's End,GB,England,LEQ,EGHC,Land's End Airport,50.1028,-5.67056
+United Kingdom of Great Britain and Northern Ireland ,London ,GB,England,LGW,EGKK,Gatwick Airport,51.1481,-0.190278
+United Kingdom of Great Britain and Northern Ireland ,London ,GB,England,LHR,EGLL,Heathrow Airport,51.4775,-0.461389
+United Kingdom of Great Britain and Northern Ireland ,Liverpool,GB,England,LPL,EGGP,Liverpool John Lennon Airport,53.3336,-2.84972
+United Kingdom of Great Britain and Northern Ireland ,London ,GB,England,LTN,EGGW,London Luton Airport,51.8747,-0.368333
+United Kingdom of Great Britain and Northern Ireland ,Lydd ,GB,England,LYX,EGMD,Lydd Airport (London Ashford Airport),50.9561,0.939167
+United Kingdom of Great Britain and Northern Ireland ,Manchester,GB,England,MAN,EGCC,Manchester Airport,53.3537,-2.27495
+United Kingdom of Great Britain and Northern Ireland ,Teesside: Durham Tees Valley,GB,England,MME,EGNV,Teesside International Airport,54.5092,-1.42941
+United Kingdom of Great Britain and Northern Ireland ,Newcastle,GB,England,NCL,EGNT,Newcastle Airport,55.0375,-1.69167
+United Kingdom of Great Britain and Northern Ireland ,Newquay,GB,England,NQY,EGHQ,Cornwall Airport Newquay,50.4406,-4.99541
+United Kingdom of Great Britain and Northern Ireland ,Norwich,GB,England,NWI,EGSH,Norwich International Airport,52.6758,1.28278
+United Kingdom of Great Britain and Northern Ireland ,Southend (London),GB,England,SEN,EGMC,London Southend Airport,51.5703,0.693333
+United Kingdom of Great Britain and Northern Ireland ,Southampton ,GB,England,SOU,EGHI,Southampton Airport,50.9503,-1.3568
+United Kingdom of Great Britain and Northern Ireland ,London ,GB,England,STN,EGSS,London Stansted Airport,51.885,0.235
+United Kingdom of Great Britain and Northern Ireland ,Guernsey,GB,Great Britain,GCI,EGJB,Guernsey Airport,49.4347,-2.60194
+United Kingdom of Great Britain and Northern Ireland ,Augsburg ,GB,Guernsey,ACI,EGJA,Alderney Airport,49.7067,-2.21444
+United Kingdom of Great Britain and Northern Ireland ,Kent (Manston) Kent International,GB,Kent,MSE,EGMH,Manston Airport,51.3422,1.34611
+United Kingdom of Great Britain and Northern Ireland ,Gaborone ,GB,Northern Ireland,BFS,EGAA,Belfast International Airport,54.6575,-6.21583
+United Kingdom of Great Britain and Northern Ireland ,Fukushima ,GB,Northern Ireland,BHD,EGAC,George Best Belfast City Airport,54.6181,-5.8725
+United Kingdom of Great Britain and Northern Ireland ,Saint Denis ,GB,Northern Ireland,LDY,EGAE,City of Derry Airport,55.0428,-7.16111
+United Kingdom of Great Britain and Northern Ireland ,Aberdeen,GB,Scotland,ABZ,EGPD,Aberdeen Airport,57.2019,-2.19778
+United Kingdom of Great Britain and Northern Ireland ,Groningen ,GB,Scotland,BEB,EGPL,Benbecula Airport,57.4811,-7.36278
+United Kingdom of Great Britain and Northern Ireland ,Dublin ,GB,Scotland,BRR,EGPR,Barra Airport,57.0228,-7.44306
+United Kingdom of Great Britain and Northern Ireland ,Londonderry ,GB,Scotland,CAL,EGEC,Campbeltown Airport / RAF Machrihanish,55.4372,-5.68639
+United Kingdom of Great Britain and Northern Ireland ,St. Petersburg (Leningrad) ,GB,Scotland,DND,EGPN,Dundee Airport,56.4525,-3.02583
+United Kingdom of Great Britain and Northern Ireland ,Tampa ,GB,Scotland,EDI,EGPH,Edinburgh Airport,55.95,-3.3725
+United Kingdom of Great Britain and Northern Ireland ,Vancouver ,GB,Scotland,FIE,EGEF,Fair Isle Airport,59.5358,-1.62806
+United Kingdom of Great Britain and Northern Ireland ,Glasgow,GB,Scotland,GLA,EGPF,Glasgow Airport,55.8719,-4.43306
+United Kingdom of Great Britain and Northern Ireland ,Islay,GB,Scotland,ILY,EGPI,Islay Airport (Glenegedale Airport),55.6819,-6.25667
+United Kingdom of Great Britain and Northern Ireland ,Inverness,GB,Scotland,INV,EGPE,Inverness Airport,57.5425,-4.0475
+United Kingdom of Great Britain and Northern Ireland ,Kirkwall (Orkney),GB,Scotland,KOI,EGPA,Kirkwall Airport,58.9578,-2.905
+United Kingdom of Great Britain and Northern Ireland ,Sumburgh (Shetland),GB,Scotland,LSI,EGPB,Sumburgh Airport,59.8814,-1.29389
+United Kingdom of Great Britain and Northern Ireland ,Lerwick/Tingwall (Shetland Islands),GB,Scotland,LWK,EGET,Tingwall Airport,60.1919,-1.24361
+United Kingdom of Great Britain and Northern Ireland ,Out Skerries (Shetland),GB,Scotland,OUK,,Out Skerries Airport,60.4252,-0.75
+United Kingdom of Great Britain and Northern Ireland ,Glasgow: Prestwick,GB,Scotland,PIK,EGPK,Glasgow Prestwick Airport,55.5094,-4.58667
+United Kingdom of Great Britain and Northern Ireland ,Stornway,GB,Scotland,SYY,EGPO,Stornoway Airport,58.2156,-6.33111
+United Kingdom of Great Britain and Northern Ireland ,Unst (Shetland Island) ,GB,Scotland,UNT,EGPW,Baltasound Airport,60.7469,-0.854722
+United Kingdom of Great Britain and Northern Ireland ,Wick,GB,Scotland,WIC,EGPC,Wick Airport,58.4589,-3.09306
+United Kingdom of Great Britain and Northern Ireland ,Lydd ,GB,Wales,CWL,EGFF,Cardiff Airport,51.3967,-3.34333
 Grenada,Grenada ,GD,Saint George,GND,TGPY,Maurice Bishop International Airport,12.0042,-61.7862
 Georgia,Tbilisi ,GE,Tbilisi,TBS,UGTB,Tbilisi International Airport,41.6692,44.9547
 French Guiana,Malmo (Malmö) ,GF,Guyane,CAY,SOCA,Cayenne - Felix Eboue Airport,4.81981,-52.3604
@@ -685,7 +685,7 @@ Greenland,Upernavik ,GL,Avannaata Kommunia,JUV,BGUK,Upernavik Airport,72.7902,-5
 Greenland,Uummannaq,GL,Avannaata Kommunia,UMD,BGUM,Uummannaq Heliport,70.6804,-52.1116
 Greenland,Narsarsuaq,GL,Kommune Kujalleq,UAK,BGBW,Narsarsuaq Airport,61.1605,-45.426
 Greenland,Soendre Stroemfjord,GL,Qeqqata Kommunia,SFJ,BGSF,Kangerlussuaq Airport,67.0122,-50.7116
-Gambia (the),Des Moines (IA) ,GM,Banjul,BJL,GBYD,Banjul International Airport,13.338,-16.6522
+Gambia ,Des Moines (IA) ,GM,Banjul,BJL,GBYD,Banjul International Airport,13.338,-16.6522
 Guinea,Oranjestad ,GN,Conakry,CKY,GUCY,Ahmed SÃ©kou TourÃ© International Airport,9.57689,-13.612
 Guinea,Labe,GN,Labe,LEK,GULB,Tata Airport,11.3261,-12.2868
 Guadeloupe,El Paso (TX) ,GP,Guadeloupe,PTP,TFFR,Pointe-a-Pitre International Airport (Le Raizet Airport),16.2653,-61.5318
@@ -714,7 +714,7 @@ Guatemala,Guatemala City ,GT,Guatemala,GUA,MGGT,La Aurora International Airport,
 Guam,Guam,GU,Barrigada,GUM,PGUM,Antonio B. Won Pat International Airport (Guam Int'l),13.4834,144.796
 Guyana,Georgetown ,GY,Demerara-Mahaica,GEO,SYCJ,Cheddi Jagan International Airport,6.49855,-58.2541
 Hong Kong,Hong Kong ,HK,Hong Kong,HKG,VHHH,Hong Kong International Airport (Chek Lap Kok Airport),22.3089,113.915
-Honduras,"Santa Rosa, Copan",HN,Copan,SDH,MHSR,Santa Rosa de Copan Airport,14.7779,-88.775
+Honduras,Santa Rosa: Copan,HN,Copan,SDH,MHSR,Santa Rosa de Copan Airport,14.7779,-88.775
 Honduras,San Pedro Sula,HN,Cortes,SAP,MHLM,Ramon Villeda Morales International Airport,15.4526,-87.9236
 Honduras,Tegucigalpa,HN,Francisco Morazan,TGU,MHTG,Toncontin International Airport,14.0609,-87.2172
 Honduras,Roatan,HN,Islas de la Bahia,RTB,MHRO,Juan Manuel Galvez International Airport,16.3168,-86.523
@@ -862,7 +862,7 @@ Japan,Hakodate,JP,Hokkaido,HKD,RJCH,Hakodate Airport,41.77,140.822
 Japan,Kushiro,JP,Hokkaido,KUH,RJCK,Kushiro Airport,43.041,144.193
 Japan,Sapporo ,JP,Hokkaido,OKD,RJCO,Sapporo Okadama Airport,43.1157,141.38
 Japan,Komatsu,JP,Ishikawa,KMQ,RJNK,Komatsu Airport (Kanazawa Airport),36.3946,136.407
-Japan,"Morioka, Hanamaki",JP,Iwate,HNA,RJSI,Hanamaki Airport,39.4286,141.135
+Japan,Morioka: Hanamaki,JP,Iwate,HNA,RJSI,Hanamaki Airport,39.4286,141.135
 Japan,Takamatsu,JP,Kagawa,TAK,RJOT,Takamatsu Airport,34.2142,134.016
 Japan,Belfast ,JP,Kagoshima,ASJ,RJKA,Amami Airport,28.4306,129.713
 Japan,Kagoshima,JP,Kagoshima,KOJ,RJFK,Kagoshima Airport,31.8034,130.719
@@ -871,7 +871,7 @@ Japan,Kochi,JP,Kochi,KCZ,RJOK,Kochi Ryoma Airport,33.5461,133.669
 Japan,Kumamoto,JP,Kumamoto,KMJ,RJFT,Kumamoto Airport,32.8373,130.855
 Japan,Sendai,JP,Miyagi,SDJ,RJSS,Sendai Airport,38.1397,140.917
 Japan,Miyazaki,JP,Miyazaki,KMI,RJFM,Miyazaki Airport,31.8772,131.449
-Japan,"Matsumoto, Nagano",JP,Nagano,MMJ,RJAF,Matsumoto Airport,36.1668,137.923
+Japan,Matsumoto: Nagano,JP,Nagano,MMJ,RJAF,Matsumoto Airport,36.1668,137.923
 Japan,Nagasaki,JP,Nagasaki,NGS,RJFU,Nagasaki Airport,32.9169,129.914
 Japan,Niigata,JP,Niigata,KIJ,RJSN,Niigata Airport,37.9559,139.121
 Japan,Sado Shima,JP,Niigata,SDS,RJSD,Sado Airport,38.0602,138.414
@@ -879,7 +879,7 @@ Japan,Oita,JP,Oita,OIT,RJFO,Oita Airport,33.4794,131.737
 Japan,Okayama,JP,Okayama,OKJ,RJOB,Okayama Airport,34.7569,133.855
 Japan,Ishigaki ,JP,Okinawa,ISG,ROIG,New Ishigaki Airport,24.3964,124.245
 Japan,Miyako Jima (Ryuku Islands) ,JP,Okinawa,MMY,ROMY,Miyako Airport,24.7828,125.295
-Japan,"Okinawa, Ryukyo Island ",JP,Okinawa,OKA,ROAH,Naha Airport,26.1958,127.646
+Japan,Okinawa: Ryukyo Island ,JP,Okinawa,OKA,ROAH,Naha Airport,26.1958,127.646
 Japan,Osaka ,JP,Osaka,KIX,RJBB,Kansai International Airport,34.4305,135.23
 Japan,Osaka ,JP,Osaka,ITM,RJOO,Osaka Itami International Airport,34.7868,135.4387
 Japan,Tokushima,JP,Tokushima,TKS,RJOS,Tokushima Airport,34.1328,134.607
@@ -887,7 +887,7 @@ Japan,Hachijo Jima,JP,Tokyo,HAC,RJTH,Hachijojima Airport,33.115,139.786
 Japan,Tokyo ,JP,Tokyo,HND,RJTT,Haneda Airport,35.5533,139.781
 Japan,Tokyo ,JP,Tokyo,NRT,RJAA,Narita International Airport,35.7653,140.386
 Japan,Toyama,JP,Toyama,TOY,RJNT,Toyama Airport,36.6483,137.188
-Japan,"Yamagata, Junmachi",JP,Yamagata,GAJ,RJSC,Yamagata Airport (Junmachi Airport),38.4119,140.371
+Japan,Yamagata: Junmachi,JP,Yamagata,GAJ,RJSC,Yamagata Airport (Junmachi Airport),38.4119,140.371
 Japan,Ube,JP,Yamaguchi,UBJ,RJDC,Yamaguchi Ube Airport,33.93,131.279
 Kenya,Nairobi,KE,Elgeyo/Marakwet,NBO,HKJK,Jomo Kenyatta International Airport,-1.31924,36.9278
 Kenya,Malindi,KE,Kilifi,MYD,HKML,Malindi Airport,-3.22931,40.1017
@@ -895,18 +895,18 @@ Kenya,Mombasa ,KE,Mombasa,MBA,HKMO,Moi International Airport,-4.03483,39.5942
 Kyrgyzstan,Istanbul ,KG,Chuy,FRU,UAFM,Manas International Airport,43.0613,74.4776
 Cambodia,Phnom Penh ,KH,Phnom Penh,PNH,VDPP,Phnom Penh International Airport,11.5466,104.844
 Kiribati,Kiritimati (island) ,KI,Line Islands,CXI,PLCH,Cassidy International Airport,1.98616,-157.35
-Comoros (the),Bissau ,KM,Anjouan,AJN,FMCV,Ouani Airport,-12.1317,44.4303
-Comoros (the),Moroni ,KM,Grande Comore,HAH,FMCH,Prince Said Ibrahim International Airport,-11.5337,43.2719
+Comoros ,Bissau ,KM,Anjouan,AJN,FMCV,Ouani Airport,-12.1317,44.4303
+Comoros ,Moroni ,KM,Grande Comore,HAH,FMCH,Prince Said Ibrahim International Airport,-11.5337,43.2719
 Saint Kitts and Nevis,Entebbe ,KN,Saint John Figtree,SKB,TKPK,Robert L. Bradshaw International Airport,17.3112,-62.7187
 Saint Kitts and Nevis,Nevis,KN,Saint Paul Charlestown,NEV,TKPN,Vance W. Amory International Airport,17.2057,-62.5899
 Korea (the Democratic People's Republic of),Pyongyang ,KP,P'yongyang,FNJ,ZKPY,Pyongyang Sunan International Airport,39.2241,125.67
 Korea (the Republic of),Pu San (Busan) ,KR,Busan-gwangyeoksi,PUS,RKPK,Gimhae International Airport,35.1795,128.938
-Korea (the Republic of),"Incheon, Incheon International Airport",KR,Gyeonggi-do,ICN,RKSI,Incheon International Airport,37.4633,126.44
+Korea (the Republic of),Incheon: Incheon International Airport,KR,Gyeonggi-do,ICN,RKSI,Incheon International Airport,37.4633,126.44
 Korea (the Republic of),Ulsan,KR,Gyeongsangnam-do,USN,RKPU,Ulsan Airport,35.5935,129.352
 Kuwait,Kuwait ,KW,Al Farwaniyah,KWI,OKBK,Kuwait International Airport,29.2266,47.9689
-Cayman Islands (the),Grand Cayman ,KY,Cayman Islands,GCM,MWCR,Owen Roberts International Airport,19.2928,-81.3577
+Cayman Islands ,Grand Cayman ,KY,Cayman Islands,GCM,MWCR,Owen Roberts International Airport,19.2928,-81.3577
 Kazakhstan,Basseterre ,KZ,Almaty,ALA,UAAA,Almaty International Airport,43.3521,77.0405
-Lao People's Democratic Republic (the),Vientiane ,LA,Viangchan,VTE,VLVT,Wattay International Airport,17.9883,102.563
+Lao People's Democratic Republic ,Vientiane ,LA,Viangchan,VTE,VLVT,Wattay International Airport,17.9883,102.563
 Lebanon,Freetown ,LB,Beyrouth,BEY,OLBA,Beirut-Rafic Hariri International Airport / Beirut Air Base,33.8209,35.4884
 Saint Lucia,St. Martin,LC,Castries,SFG,TFFG,L'Esperance Airport (Grand Case Airport),18.0999,-63.0472
 Saint Lucia,Malabo ,LC,Castries,SLU,TLPC,George F. L. Charles Airport,14.0202,-60.9929
@@ -936,7 +936,7 @@ Montenegro,Podgorica,ME,Podgorica,TGD,LYPG,Podgorica Airport,42.3594,19.2519
 Montenegro,Tivat,ME,Tivat,TIV,LYTV,Tivat Airport,42.4047,18.7233
 Madagascar,Boston (MA) ,MG,Antananarivo,TNR,FMMI,Ivato International Airport,-18.7969,47.4788
 Madagascar,Majunga,MG,Mahajanga,MJN,FMNM,Amborovy Airport (Philibert Tsiranana Airport),-15.6668,46.3512
-Marshall Islands (the),Jaluit Island  ,MH,Jaluit,UIT,,Jaluit Airport,5.90924,169.637
+Marshall Islands ,Jaluit Island  ,MH,Jaluit,UIT,,Jaluit Airport,5.90924,169.637
 Republic of North Macedonia,Ohrid,MK,Ohrid,OHD,LWOH,Ohrid St. Paul the Apostle Airport,41.18,20.7423
 Republic of North Macedonia,Skopje,MK,Skopje,SKP,LWSK,Skopje Alexander the Great Airport,41.9616,21.6214
 Mali,Cuiaba ,ML,Bamako,BKO,GABS,Bamako-Senou International Airport,12.5335,-7.94994
@@ -945,7 +945,7 @@ Myanmar,Mandalay ,MM,Mandalay,MDL,VYMD,Mandalay International Airport,21.7022,95
 Myanmar,Rangoon (Yangon) ,MM,Yangon,RGN,VYYY,Yangon International Airport,16.9073,96.1332
 Mongolia,Ulaanbaatar ,MN,Ulaanbaatar,ULN,ZMUB,Chinggis Khaan International Airport,47.8431,106.767
 Macao,Macau ,MO,Macau,MFM,VMMC,Macau International Airport,22.1496,113.592
-Northern Mariana Islands (the),Saipan,MP,Northern Mariana Islands,SPN,PGSN,Saipan International Airport (Francisco C. Ada Int'l),15.119,145.729
+Northern Mariana Islands ,Saipan,MP,Northern Mariana Islands,SPN,PGSN,Saipan International Airport (Francisco C. Ada Int'l),15.119,145.729
 Martinique,Fort de France ,MQ,Martinique,FDF,TFFF,Martinique Aime Cesaire International Airport,14.591,-61.0032
 Mauritania,Nouadhibou,MR,Dakhlet Nouadhibou,NDB,GQPP,Nouadhibou International Airport,20.9331,-17.03
 Mauritania,Nouakchott,MR,Nouakchott Nord,NKC,GQNO,Nouakchott-Oumtounsy International Airport,18.31,-15.9697
@@ -1038,11 +1038,11 @@ New Caledonia,Noumea,NC,Province Sud,NOU,NWWW,La Tontouta International Airport,
 New Caledonia,Lifou,NC,Province des iles Loyaute,LIF,NWWL,Ouanaham Airport,-20.7748,167.24
 New Caledonia,Mare,NC,Province des iles Loyaute,MEE,NWWR,Mare Airport,-21.4817,168.038
 New Caledonia,Oyem,NC,Province des iles Loyaute,UVE,NWWV,Ouvea Airport (Ouloup Airp,-20.6406,166.573
-Niger (the),Amman ,NE,Agadez,AJY,DRZA,Mano Dayak International Airport,16.966,8.00011
-Niger (the),Calama ,NE,Agadez,RLT,DRZL,Arlit Airport,18.7904,7.36595
-Niger (the),Maradi,NE,Maradi,MFQ,DRRM,Maradi Airport,13.5025,7.12675
-Niger (the),Niamey,NE,Niamey,NIM,DRRN,Diori Hamani International Airport,13.4815,2.18361
-Niger (the),Zinder,NE,Zinder,ZND,DRZR,Zinder Airport,13.779,8.98376
+Niger ,Amman ,NE,Agadez,AJY,DRZA,Mano Dayak International Airport,16.966,8.00011
+Niger ,Calama ,NE,Agadez,RLT,DRZL,Arlit Airport,18.7904,7.36595
+Niger ,Maradi,NE,Maradi,MFQ,DRRM,Maradi Airport,13.5025,7.12675
+Niger ,Niamey,NE,Niamey,NIM,DRRN,Diori Hamani International Airport,13.4815,2.18361
+Niger ,Zinder,NE,Zinder,ZND,DRZR,Zinder Airport,13.779,8.98376
 Norfolk Island,Norfolk Island,NF,Norfolk Island,NLK,YSNF,Norfolk Island Airport,-29.0416,167.939
 Nigeria,Abuja ,NG,Abuja Federal Capital Territory,ABV,DNAA,Nnamdi Azikiwe International Airport,9.00679,7.26317
 Nigeria,Jos,NG,Abuja Federal Capital Territory,JOS,DNJO,Yakubu Gowon Airport,9.63983,8.86905
@@ -1050,13 +1050,13 @@ Nigeria,Kano,NG,Kano,KAN,DNKN,Mallam Aminu Kano International Airport,12.0476,8.
 Nigeria,Lagos ,NG,Lagos,LOS,DNMM,Murtala Muhammed International Airport,6.57737,3.32116
 Nigeria,Port Harcourt,NG,Rivers,PHC,DNPO,Port Harcourt International Airport,5.01549,6.94959
 Nicaragua,Managua ,NI,Managua,MGA,MNMG,Augusto C. Sandino International Airport,12.1415,-86.1682
-Netherlands (the),Groningen ,NL,Drenthe,GRQ,EHGG,Groningen Airport Eelde,53.1197,6.57944
-Netherlands (the),Lelystad,NL,Flevoland,LEY,EHLE,Lelystad Airport,52.4603,5.52722
-Netherlands (the),Maastricht/Aachen,NL,Limburg,MST,EHBK,Maastricht Aachen Airport,50.9117,5.77014
-Netherlands (the),Tehran (Teheran) ,NL,Noord-Brabant,EIN,EHEH,Eindhoven Airport,51.4501,5.37453
-Netherlands (the),Uden ,NL,Noord-Brabant,UDE,EHVK,Volkel Air Base,51.6564,5.70861
-Netherlands (the),Bergerac ,NL,Noord-Holland,AMS,EHAM,Amsterdam Airport Schiphol,52.3086,4.76389
-Netherlands (the),Rotterdam,NL,Zuid-Holland,RTM,EHRD,Rotterdam The Hague Airport,51.9569,4.43722
+Netherlands ,Groningen ,NL,Drenthe,GRQ,EHGG,Groningen Airport Eelde,53.1197,6.57944
+Netherlands ,Lelystad,NL,Flevoland,LEY,EHLE,Lelystad Airport,52.4603,5.52722
+Netherlands ,Maastricht/Aachen,NL,Limburg,MST,EHBK,Maastricht Aachen Airport,50.9117,5.77014
+Netherlands ,Tehran (Teheran) ,NL,Noord-Brabant,EIN,EHEH,Eindhoven Airport,51.4501,5.37453
+Netherlands ,Uden ,NL,Noord-Brabant,UDE,EHVK,Volkel Air Base,51.6564,5.70861
+Netherlands ,Bergerac ,NL,Noord-Holland,AMS,EHAM,Amsterdam Airport Schiphol,52.3086,4.76389
+Netherlands ,Rotterdam,NL,Zuid-Holland,RTM,EHRD,Rotterdam The Hague Airport,51.9569,4.43722
 Norway,Oslo ,NO,Akershus,OSL,ENGM,Oslo Airport,60.1939,11.1004
 Norway,Bayreuth ,NO,Finnmark,ALF,ENAT,Alta Airport,69.9761,23.3717
 Norway,Hammerfest,NO,Finnmark,HFT,ENHF,Hammerfest Airport,70.6797,23.6686
@@ -1126,10 +1126,10 @@ Papua New Guinea,Ankara ,PG,Eastern Highlands,AYU,AYAY,Aiyura Airport,-6.33806,1
 Papua New Guinea,Lae ,PG,Morobe,LAE,AYNZ,Lae Nadzab Airport,-6.5698,146.726
 Papua New Guinea,Belgrad (Beograd) ,PG,National Capital District (Port Moresby),AZB,,Amazon Bay Airport,-10.2992,149.338
 Papua New Guinea,Port Moresby ,PG,National Capital District (Port Moresby),POM,AYPY,Jacksons International Airport,-9.44338,147.22
-Philippines (the),Manaus ,PH,Cebu,CEB,RPVM,Mactan-Cebu International Airport,10.3075,123.979
-Philippines (the),Manila ,PH,National Capital Region,MNL,RPLL,Ninoy Aquino International Airport / Villamor Air Base,14.5086,121.02
-Philippines (the),Prague ,PH,Palawan,CYU,RPLO,Cuyo Airport,10.8581,121.069
-Philippines (the),Jolo,PH,Sulu,JOL,RPMJ,Jolo Airport,6.05367,121.011
+Philippines ,Manaus ,PH,Cebu,CEB,RPVM,Mactan-Cebu International Airport,10.3075,123.979
+Philippines ,Manila ,PH,National Capital Region,MNL,RPLL,Ninoy Aquino International Airport / Villamor Air Base,14.5086,121.02
+Philippines ,Prague ,PH,Palawan,CYU,RPLO,Cuyo Airport,10.8581,121.069
+Philippines ,Jolo,PH,Sulu,JOL,RPMJ,Jolo Airport,6.05367,121.011
 Pakistan,Muzaffarabad,PK,Azad Jammu and Kashmir,MFG,OPMF,Muzaffarabad Airport,34.339,73.5086
 Pakistan,Rawala Kot,PK,Azad Jammu and Kashmir,RAZ,OPRT,Rawalakot Airport,33.8497,73.7981
 Pakistan,Gwadar,PK,Balochistan,GWD,OPGD,Gwadar International Airport,25.2333,62.3295
@@ -1166,12 +1166,12 @@ Pakistan,Nawab Shah,PK,Sindh,WNS,OPNH,Nawabshah Airport,26.2194,68.3901
 Poland,Krakow (Cracow) ,PL,Malopolskie,KRK,EPKK,John Paul II International Airport Krakow-Balice,50.0777,19.7848
 Poland,Warsaw ,PL,Mazowieckie,WAW,EPWA,Warsaw Chopin Airport,52.1657,20.9671
 Poland,Gdansk,PL,Pomorskie,GDN,EPGD,Gdansk Lech Walesa Airport,54.3776,18.4662
-Poland,"Poznan, Lawica",PL,Wielkopolskie,POZ,EPPO,PoznaÅ„â€“Åawica Henryk Wieniawski Airport,52.421,16.8263
+Poland,Poznan: Lawica,PL,Wielkopolskie,POZ,EPPO,PoznaÅ„â€“Åawica Henryk Wieniawski Airport,52.421,16.8263
 Poland,Stettin,PL,Zachodniopomorskie,SZZ,EPSC,Solidarity Szczecin-Goleniow Airport,53.5847,14.9022
-Saint Pierre and Miquelon,"St. Pierre, NF",PM,Saint Pierre and Miquelon,FSP,LFVP,Saint-Pierre Airport,46.7629,-56.1731
+Saint Pierre and Miquelon,St. Pierre: NF,PM,Saint Pierre and Miquelon,FSP,LFVP,Saint-Pierre Airport,46.7629,-56.1731
 Puerto Rico,San Juan ,PR,Carolina,SJU,TJSJ,Luis Munoz Marin International Airport,18.4394,-66.0018
 Puerto Rico,Ponce,PR,Ponce,PSE,TJPS,Mercedita Airport,18.0083,-66.563
-"Palestine, State of",Gaza City ,PS,Gaza,GZA,LVGZ,Yasser Arafat International Airport,31.2464,34.2761
+Palestine,Gaza City ,PS,Gaza,GZA,LVGZ,Yasser Arafat International Airport,31.2464,34.2761
 Portugal,Warsaw ,PT,Faro,FAO,LPFR,Faro Airport,37.0144,-7.96591
 Portugal,Lisbon ,PT,Lisboa,LIS,LPPT,Lisbon Portela Airport,38.7813,-9.13592
 Portugal,Porto,PT,Porto,OPO,LPPR,Francisco SÃ¡ Carneiro Airport,41.2356,-8.67806
@@ -1188,31 +1188,31 @@ Romania,Osaka ,RO,Constanta,CND,LRCK,Mihail Kogalniceanu International Airport,4
 Romania,Kiel ,RO,Ilfov,OTP,LROP,Bucharest Henri CoandÄƒ International Airport,44.5711,26.085
 Serbia,Geneva ,RS,Beograd,BEG,LYBE,Belgrade Nikola Tesla Airport,44.8184,20.3091
 Serbia,Nis,RS,Nisavski okrug,INI,LYNI,Nis Constantine the Great Airport,43.3373,21.8537
-Russian Federation (the),Budapest ,RU,Arkhangel'skaya oblast',ARH,ULAA,Talagi Airport,64.6003,40.7167
-Russian Federation (the),Ufa,RU,"Bashkortostan, Respublika",UFA,UWUU,Ufa International Airport,54.5575,55.8744
-Russian Federation (the),Ulan,RU,"Buryatiya, Respublika",UUD,UIUU,Baikal International Airport,51.8078,107.438
-Russian Federation (the),Irkutsk,RU,Irkutskaya oblast',IKT,UIII,International Airport Irkutsk,52.268,104.389
-Russian Federation (the),Kaliningrad,RU,Kaliningradskaya oblast',KGD,UMKK,Khrabrovo Airport,54.89,20.5926
-Russian Federation (the),Maracaibo ,RU,Khabarovskiy kray,KHV,UHHH,Khabarovsk Novy Airport,48.528,135.188
-Russian Federation (the),Ukhta,RU,"Komi, Respublika",UCT,UUYH,Ukhta Airport,63.5669,53.8047
-Russian Federation (the),Almaty (Alma Ata) ,RU,Krasnodarskiy kray,AER,URSS,Sochi International Airport,43.4499,39.9566
-Russian Federation (the),St. Petersburg (Leningrad) ,RU,Leningradskaya oblast',LED,ULLI,Pulkovo Airport,59.8003,30.2625
-Russian Federation (the),Saransk ,RU,"Mordoviya, Respublika",SKX,UWPS,Saransk Airport,54.1251,45.2123
-Russian Federation (the),Moscow ,RU,Moskovskaya Oblast,DME,UUDD,Domodedovo Airport,55.4102,37.902
-Russian Federation (the),Moscow ,RU,Moskovskaya oblast,SVO,UUEE,Sheremetyevo Alexander S. Pushkin International Airport,55.9728,37.4147
-Russian Federation (the),Moscow ,RU,Moskva,VKO,UUWW,Vnukovo International Airport,55.5979,37.2709
-Russian Federation (the),Murmansk,RU,Murmanskaya oblast',MMK,ULMM,Murmansk Airport,68.7817,32.7508
-Russian Federation (the),Nizhny Novgorod ,RU,Nizhegorodskaya oblast',GOJ,UWGG,Nizhny Novgorod International Airport (Strigino Airport),56.2301,43.784
-Russian Federation (the),Novosibirsk ,RU,Novosibirskaya oblast',OVB,UNNT,Tolmachevo Airport,55.0126,82.6507
-Russian Federation (the),Velikiye Luki (Welikije Luki),RU,Pskovskaya oblast',VLU,ULOL,Velikiye Luki Airport,56.3811,30.6081
-Russian Federation (the),Rostov,RU,Rostovskaya Oblast,RVI,URRR,Rostov-on-Don Airport,47.2583,39.8183
-Russian Federation (the),Rostov,RU,Rostovskaya oblast',ROV,URRP,Platov International Airport,47.4939,39.9247
-Russian Federation (the),Yakutsk,RU,"Saha, Respublika",YKS,UEEE,Yakutsk Airport,62.0933,129.771
-Russian Federation (the),Samara ,RU,Samarskaya oblast',KUF,UWWW,Kurumoch International Airport,53.5049,50.1643
-Russian Federation (the),Mineralnye Vody,RU,Stavropol'skiy kray,MRV,URMM,Mineralnye Vody Airport,44.2251,43.0819
-Russian Federation (the),Yekaterinburg ,RU,Sverdlovskaya oblast',SVX,USSS,Koltsovo International Airport,56.7431,60.8027
-Russian Federation (the),Kazan ,RU,"Tatarstan, Respublika",KZN,UWKD,Kazan International Airport,55.6062,49.2787
-Russian Federation (the),Monterrey ,RU,Zabaykal'skiy kray,HTA,UIAA,Chita International Airport (Kadala Airport),52.0263,113.306
+Russian Federation ,Budapest ,RU,Arkhangel'skaya oblast',ARH,ULAA,Talagi Airport,64.6003,40.7167
+Russian Federation ,Ufa,RU,Bashkortostan,UFA,UWUU,Ufa International Airport,54.5575,55.8744
+Russian Federation ,Ulan,RU,Buryatiya,UUD,UIUU,Baikal International Airport,51.8078,107.438
+Russian Federation ,Irkutsk,RU,Irkutskaya oblast',IKT,UIII,International Airport Irkutsk,52.268,104.389
+Russian Federation ,Kaliningrad,RU,Kaliningradskaya oblast',KGD,UMKK,Khrabrovo Airport,54.89,20.5926
+Russian Federation ,Maracaibo ,RU,Khabarovskiy kray,KHV,UHHH,Khabarovsk Novy Airport,48.528,135.188
+Russian Federation ,Ukhta,RU,Komi,UCT,UUYH,Ukhta Airport,63.5669,53.8047
+Russian Federation ,Almaty (Alma Ata) ,RU,Krasnodarskiy kray,AER,URSS,Sochi International Airport,43.4499,39.9566
+Russian Federation ,St. Petersburg (Leningrad) ,RU,Leningradskaya oblast',LED,ULLI,Pulkovo Airport,59.8003,30.2625
+Russian Federation ,Saransk ,RU,Mordoviya,SKX,UWPS,Saransk Airport,54.1251,45.2123
+Russian Federation ,Moscow ,RU,Moskovskaya Oblast,DME,UUDD,Domodedovo Airport,55.4102,37.902
+Russian Federation ,Moscow ,RU,Moskovskaya oblast,SVO,UUEE,Sheremetyevo Alexander S. Pushkin International Airport,55.9728,37.4147
+Russian Federation ,Moscow ,RU,Moskva,VKO,UUWW,Vnukovo International Airport,55.5979,37.2709
+Russian Federation ,Murmansk,RU,Murmanskaya oblast',MMK,ULMM,Murmansk Airport,68.7817,32.7508
+Russian Federation ,Nizhny Novgorod ,RU,Nizhegorodskaya oblast',GOJ,UWGG,Nizhny Novgorod International Airport (Strigino Airport),56.2301,43.784
+Russian Federation ,Novosibirsk ,RU,Novosibirskaya oblast',OVB,UNNT,Tolmachevo Airport,55.0126,82.6507
+Russian Federation ,Velikiye Luki (Welikije Luki),RU,Pskovskaya oblast',VLU,ULOL,Velikiye Luki Airport,56.3811,30.6081
+Russian Federation ,Rostov,RU,Rostovskaya Oblast,RVI,URRR,Rostov-on-Don Airport,47.2583,39.8183
+Russian Federation ,Rostov,RU,Rostovskaya oblast',ROV,URRP,Platov International Airport,47.4939,39.9247
+Russian Federation ,Yakutsk,RU,Saha,YKS,UEEE,Yakutsk Airport,62.0933,129.771
+Russian Federation ,Samara ,RU,Samarskaya oblast',KUF,UWWW,Kurumoch International Airport,53.5049,50.1643
+Russian Federation ,Mineralnye Vody,RU,Stavropol'skiy kray,MRV,URMM,Mineralnye Vody Airport,44.2251,43.0819
+Russian Federation ,Yekaterinburg ,RU,Sverdlovskaya oblast',SVX,USSS,Koltsovo International Airport,56.7431,60.8027
+Russian Federation ,Kazan ,RU,Tatarstan,KZN,UWKD,Kazan International Airport,55.6062,49.2787
+Russian Federation ,Monterrey ,RU,Zabaykal'skiy kray,HTA,UIAA,Chita International Airport (Kadala Airport),52.0263,113.306
 Rwanda,Kigali ,RW,Ville de Kigali,KGL,HRYR,Kigali International Airport (Kanombe Airport),-1.96863,30.1395
 Saudi Arabia,Jouf,SA,Al Jawf,AJF,OESK,Al-Jawf Domestic Airport,29.7851,40.1
 Saudi Arabia,Madinah (Medina) ,SA,Al Madinah al Munawwarah,MED,OEMA,Prince Mohammad bin Abdulaziz Airport,24.5534,39.7051
@@ -1226,8 +1226,8 @@ Saudi Arabia,Taif,SA,Makkah al Mukarramah,TIF,OETF,Ta'if Regional Airport,21.483
 Saudi Arabia,Tabuk,SA,Tabuk,TUU,OETB,Tabuk Regional Airport,28.3654,36.6189
 Solomon Islands,Honiara Henderson International,SB,Guadalcanal,HIR,AGGH,Honiara International Airport,-9.428,160.055
 Seychelles,Mahe ,SC,English River,SEZ,FSIA,Seychelles International Airport,-4.67434,55.5218
-Sudan (the),Kassala,SD,Kassala,KSL,HSKA,Kassala Airport,15.3875,36.3288
-Sudan (the),Khartoum ,SD,Khartoum,KRT,HSSK,Khartoum International Airport,15.5895,32.5532
+Sudan ,Kassala,SD,Kassala,KSL,HSKA,Kassala Airport,15.3875,36.3288
+Sudan ,Khartoum ,SD,Khartoum,KRT,HSSK,Khartoum International Airport,15.5895,32.5532
 Sweden,Ronneby,SE,Blekinge lan,RNB,ESDF,Ronneby Airport,56.2667,15.265
 Sweden,Visby,SE,Gotlands lan,VBY,ESSV,Visby Airport,57.6628,18.3462
 Sweden,Jönköping (Jonkoping) ,SE,Jonkopings lan,JKG,ESGJ,Jonkoping Airport,57.7576,14.0687
@@ -1319,470 +1319,470 @@ Trinidad and Tobago,Scarborough ,TT,Tobago,TAB,TTCP,Arthur Napoleon Raymond Robi
 Taiwan (Province of China),Kaohsiung International,TW,Kaohsiung,KHH,RCKH,Kaohsiung International Airport,22.5771,120.35
 Taiwan (Province of China),Makung,TW,Penghu,MZG,RCQC,Magong Airport,23.5687,119.628
 Taiwan (Province of China),Taipei ,TW,Taoyuan,TPE,RCTP,Taiwan Taoyuan International Airport,25.0777,121.233
-"Tanzania, United Republic of",Bujumbura ,TZ,Arusha,ARK,HTAR,Arusha Airport,-3.36779,36.6333
-"Tanzania, United Republic of",Rangoon (Yangon) ,TZ,Dar es Salaam,DAR,HTDA,Julius Nyerere International Airport,-6.87811,39.2026
-"Tanzania, United Republic of",Sao Paulo ,TZ,Dodoma,DOD,HTDO,Dodoma Airport,-6.17044,35.7526
-"Tanzania, United Republic of",Kilimadjaro,TZ,Kilimanjaro,JRO,HTKJ,Kilimanjaro International Airport,-3.42941,37.0745
+Tanzania,Bujumbura ,TZ,Arusha,ARK,HTAR,Arusha Airport,-3.36779,36.6333
+Tanzania,Rangoon (Yangon) ,TZ,Dar es Salaam,DAR,HTDA,Julius Nyerere International Airport,-6.87811,39.2026
+Tanzania,Sao Paulo ,TZ,Dodoma,DOD,HTDO,Dodoma Airport,-6.17044,35.7526
+Tanzania,Kilimadjaro,TZ,Kilimanjaro,JRO,HTKJ,Kilimanjaro International Airport,-3.42941,37.0745
 Ukraine,Simferopol,UA,Avtonomna Respublika Krym,SIP,UKFF,Simferopol International Airport,45.0522,33.9751
 Ukraine,Kharkov,UA,Kharkivska oblast,HRK,UKHH,Kharkiv International Airport (Osnova Airport),49.9248,36.29
 Ukraine,Kiev ,UA,Kyiv,IEV,UKKK,Kyiv International Airport (Zhuliany),50.4019,30.4519
 Ukraine,Kiev ,UA,Kyiv,KBP,UKBB,Boryspil International Airport,50.345,30.8947
-Ukraine,"Lvov (Lwow, Lemberg)",UA,Lvivska oblast,LWO,UKLL,Lviv Danylo Halytskyi International Airport,49.8125,23.9561
+Ukraine,Lvov (Lwow: Lemberg),UA,Lvivska oblast,LWO,UKLL,Lviv Danylo Halytskyi International Airport,49.8125,23.9561
 Ukraine,Nikolaev,UA,Mykolaivska oblast,NLV,UKON,Mykolaiv International Airport,47.0579,31.9198
 Ukraine,Odessa,UA,Odeska oblast,ODS,UKOO,Odessa International Airport,46.4268,30.6765
 Ukraine,Uzhgorod,UA,Zakarpatska oblast,UDJ,UKLU,Uzhhorod International Airport,48.6343,22.2634
 Uganda,Gulu,UG,Gulu,ULU,HUGU,Gulu Airport,2.80556,32.2718
 Uganda,Jinja,UG,Jinja,JIN,HUJI,Jinja Airport,0.45,33.2
 Uganda,Tunis ,UG,Kampala,EBB,HUEN,Entebbe International Airport,0.042386,32.4435
-United States of America (the),Bombay (Mumbai) ,US,Alabama,ANB,KANB,Anniston Regional Airport,33.5882,-85.8581
-United States of America (the),Islamabad ,US,Alabama,BHM,KBHM,Birmingham-Shuttlesworth International Airport,33.5629,-86.7535
-United States of America (the),Scarborough ,US,Alabama,DHN,KDHN,Dothan Regional Airport,31.3213,-85.4496
-United States of America (the),Gadsden (AL),US,Alabama,GAD,KGAD,Northeast Alabama Regional Airport,33.9726,-86.089
-United States of America (the),Huntsville (AL),US,Alabama,HSV,KHSV,Huntsville International Airport (Carl T. Jones Field),34.6372,-86.7751
-United States of America (the),Montgomery (AL) ,US,Alabama,MGM,KMGM,Montgomery Regional Airport (Dannelly Field),32.3006,-86.394
-United States of America (the),Mobile (AL) ,US,Alabama,MOB,KMOB,Mobile Regional Airport,30.6912,-88.2428
-United States of America (the),Muscle Shoals (AL),US,Alabama,MSL,KMSL,Northwest Alabama Regional Airport,34.7453,-87.6102
-United States of America (the),Tuscaloosa (AL),US,Alabama,TCL,KTCL,Tuscaloosa Regional Airport,33.2206,-87.6114
-United States of America (the),Kodiak (AK),US,Alaska,ADQ,PADQ,Kodiak Airport,57.75,-152.494
-United States of America (the),King Salomon (AK),US,Alaska,AKN,PAKN,King Salmon Airport,58.6768,-156.649
-United States of America (the),"Berne, Bern",US,Alaska,ANC,PANC,Ted Stevens Anchorage International Airport,61.1744,-149.996
-United States of America (the),Hermosillo ,US,Alaska,BET,PABE,Bethel Airport,60.7798,-161.838
-United States of America (the),Papeete ,US,Alaska,CDV,PACV,Merle K. (Mudhole) Smith Airport,60.4918,-145.478
-United States of America (the),Phoenix (AZ) ,US,Alaska,CGA,,Craig Seaplane Base,55.4788,-133.148
-United States of America (the),Santa Katarina ,US,Alaska,DLG,PADL,Dillingham Airport,59.0447,-158.505
-United States of America (the),Suva ,US,Alaska,DUT,PADU,Unalaska Airport,53.9001,-166.544
-United States of America (the),Kenai (AK),US,Alaska,ENA,PAEN,Kenai Municipal Airport,60.5731,-151.245
-United States of America (the),Van ,US,Alaska,FAI,PAFA,Fairbanks International Airport,64.8151,-147.856
-United States of America (the),Bagdad ,US,Alaska,HBH,,Entrance Island Seaplane Base (Hobart Bay),57.4122,-133.438
-United States of America (the),Hoonah (AK),US,Alaska,HNH,PAOH,Hoonah Airport,58.0961,-135.41
-United States of America (the),Haines (AK),US,Alaska,HNS,PAHN,Haines Airport,59.2438,-135.524
-United States of America (the),Homer (AK),US,Alaska,HOM,PAHO,Homer Airport,59.6456,-151.477
-United States of America (the),Hydaburg (AK),US,Alaska,HYG,PAHY,Hydaburg Seaplane Base,55.2063,-132.828
-United States of America (the),Iliamna (AK),US,Alaska,ILI,PAIL,Iliamna Airport,59.7544,-154.911
-United States of America (the),Juneau (AK) ,US,Alaska,JNU,PAJN,Juneau International Airport,58.355,-134.576
-United States of America (the),New York ,US,Alaska,KCC,,Coffman Cove Seaplane Base,56.0032,-132.842
-United States of America (the),Klawock (AK),US,Alaska,KLW,PAKW,Klawock Airport,55.5792,-133.076
-United States of America (the),Thorne Bay (AK),US,Alaska,KTB,,Thorne Bay Seaplane Base,55.688,-132.537
-United States of America (the),Ketchikan (AK),US,Alaska,KTN,PAKT,Ketchikan International Airport,55.3556,-131.714
-United States of America (the),Mt. McKinley (AK),US,Alaska,MCL,PAIN,McKinley National Park Airport,63.7326,-148.911
-United States of America (the),Metlakatla (AK),US,Alaska,MTM,PAMM,Metlakatla Seaplane Base,55.131,-131.578
-United States of America (the),Nome (AK),US,Alaska,OME,PAOM,Nome Airport,64.5122,-165.445
-United States of America (the),Kotzbue (AK),US,Alaska,OTZ,PAOT,Ralph Wien Memorial Airport,66.8847,-162.599
-United States of America (the),Petersburg (AK),US,Alaska,PSG,PAPG,Petersburg James A. Johnson Airport,56.8017,-132.945
-United States of America (the),Prudhoe Bay (AK),US,Alaska,SCC,PASC,Deadhorse Airport,70.1947,-148.465
-United States of America (the),Skagway (AK),US,Alaska,SGY,PAGY,Skagway Airport,59.4601,-135.316
-United States of America (the),Sitka (AK),US,Alaska,SIT,PASI,Sitka Rocky Gutierrez Airport,57.0471,-135.362
-United States of America (the),Talkeetna (AK),US,Alaska,TKA,PATK,Talkeetna Airport,62.3205,-150.094
-United States of America (the),Unalakleet (AK),US,Alaska,UNK,PAUN,Unalakleet Airport,63.8884,-160.799
-United States of America (the),Valdez (AK),US,Alaska,VDZ,PAVD,Valdez Airport (Pioneer Field),61.1339,-146.248
-United States of America (the),Wrangell (AK),US,Alaska,WRG,PAWG,Wrangell Airport,56.4843,-132.37
-United States of America (the),Yakutat (AK),US,Alaska,YAK,PAYA,Yakutat Airport,59.5033,-139.66
-United States of America (the),Fort Huachuca/Sierra Vista (AZ),US,Arizona,FHU,KFHU,Sierra Vista Municipal Airport (Libby Army Airfield),31.5885,-110.344
-United States of America (the),Windhoek ,US,Arizona,FLG,KFLG,Flagstaff Pulliam Airport,35.1385,-111.671
-United States of America (the),Grand Canyon (AZ),US,Arizona,GCN,KGCN,Grand Canyon National Park Airport,35.9524,-112.147
-United States of America (the),Lake Havasu City (AZ),US,Arizona,HII,KHII,Lake Havasu City Airport,34.5711,-114.358
-United States of America (the),Page/Lake Powell (AZ),US,Arizona,PGA,KPGA,Page Municipal Airport,36.9261,-111.448
-United States of America (the),Phoenix (AZ) ,US,Arizona,PHX,KPHX,Phoenix Sky Harbor International Airport,33.4343,-112.012
-United States of America (the),Scottsdale (AZ),US,Arizona,SCF,KSDL,Scottsdale Airport,33.6229,-111.911
-United States of America (the),Tucson (AZ),US,Arizona,TUS,KTUS,Tucson International Airport,32.1161,-110.941
-United States of America (the),Yuma (AZ),US,Arizona,YUM,KNYL,Yuma International Airport / MCAS Yuma,32.6566,-114.606
-United States of America (the),Fort Smith (AR),US,Arkansas,FSM,KFSM,Fort Smith Regional Airport,35.3366,-94.3674
-United States of America (the),Washington DC ,US,Arkansas,FYV,KFYV,Drake Field (Fayetteville Executive Airport),36.0051,-94.1701
-United States of America (the),Jonesboro (AR)  Jonesboro Airport,US,Arkansas,JBR,KJBR,Jonesboro Municipal Airport,35.8317,-90.6464
-United States of America (the),Little Rock (AR),US,Arkansas,LIT,KLIT,Clinton National Airport (Adams Field),34.7294,-92.2243
-United States of America (the),Jacksonville (AR)  Little Rock AFB   ,US,Arkansas,LRF,KLRF,Little Rock Air Force Base,34.9169,-92.1497
-United States of America (the),Texarkana (AR),US,Arkansas,TXK,KTXK,Texarkana Regional Airport (Webb Field),33.4537,-93.991
-United States of America (the),Urubupunga ,US,California,ACV,KACV,Arcata-Eureka Airport,40.9781,-124.109
-United States of America (the),Concord (NH) ,US,California,BFL,KBFL,Meadows Field Airport,35.4336,-119.057
-United States of America (the),Kuala Lumpur ,US,California,BUR,KBUR,Bob Hope Airport,34.2007,-118.359
-United States of America (the),Jefferson City (MO) ,US,California,BXS,,Borrego Valley Airport,33.259,-116.321
-United States of America (the),Orkney ,US,California,CCR,KCCR,Buchanan Field Airport,37.9897,-122.057
-United States of America (the),Pisa ,US,California,CEC,KCEC,Del Norte County Airport (Jack McNamara Field),41.7802,-124.237
-United States of America (the),Mombasa ,US,California,CIC,KCIC,Chico Municipal Airport,39.7954,-121.858
-United States of America (the),Lyon ,US,California,CLD,KCRQ,McClellan-Palomar Airport,33.1283,-117.28
-United States of America (the),Fresno (CA),US,California,FAT,KFAT,Fresno Yosemite International Airport,36.7762,-119.718
-United States of America (the),Imperial (CA),US,California,IPL,KIPL,Imperial County Airport (Boley Field),32.8342,-115.579
-United States of America (the),Inykern (CA),US,California,IYK,KIYK,Inyokern Airport,35.6588,-117.83
-United States of America (the),Los Angeles (CA) ,US,California,LAX,KLAX,Los Angeles International Airport,33.9425,-118.408
-United States of America (the),Long Beach (CA),US,California,LGB,KLGB,Long Beach Airport,33.8177,-118.152
-United States of America (the),Merced (CA),US,California,MCE,KMCE,Merced Regional Airport (MacReady Field),37.2847,-120.514
-United States of America (the),Modesto (CA),US,California,MOD,KMOD,Modesto City-County Airport (Harry Sham Field),37.6258,-120.954
-United States of America (the),Monterey (CA),US,California,MRY,KMRY,Monterey Regional Airport,36.587,-121.843
-United States of America (the),Oakland (CA),US,California,OAK,KOAK,Oakland International Airport,37.7213,-122.221
-United States of America (the),Ontario (CA),US,California,ONT,KONT,Ontario International Airport,34.056,-117.601
-United States of America (the),Oxnard (CA),US,California,OXR,KOXR,Oxnard Airport,34.2008,-119.207
-United States of America (the),Palmdale/Lancaster (CA),US,California,PMD,KPMD,Palmdale Regional Airport,34.6294,-118.085
-United States of America (the),Palm Springs (CA),US,California,PSP,KPSP,Palm Springs International Airport,33.8297,-116.507
-United States of America (the),Redding (CA),US,California,RDD,KRDD,Redding Municipal Airport,40.509,-122.293
-United States of America (the),San Diego ,US,California,SAN,KSAN,San Diego International Airport,32.7336,-117.19
-United States of America (the),Santa Barbara (CA),US,California,SBA,KSBA,Santa Barbara Municipal Airport,34.4262,-119.84
-United States of America (the),San Luis Obisco (CA),US,California,SBP,KSBP,San Luis Obispo County Regional Airport (McChesney Field),35.2368,-120.642
-United States of America (the),Stockton (CA),US,California,SCK,KSCK,Stockton Metropolitan Airport,37.8942,-121.238
-United States of America (the),San Francisco ,US,California,SFO,KSFO,San Francisco International Airport,37.619,-122.375
-United States of America (the),San Jose (CA),US,California,SJC,KSJC,San Jose International Airport,37.3626,-121.929
-United States of America (the),Sacramento (CA),US,California,SMF,KSMF,Sacramento International Airport,38.6954,-121.591
-United States of America (the),Santa Maria (CA),US,California,SMX,KSMX,Santa Maria Public Airport (Capt. G. Allan Hancock Field),34.8989,-120.457
-United States of America (the),Orange County (Santa Ana) (CA),US,California,SNA,KSNA,John Wayne Airport (Orange County Airport),33.6757,-117.868
-United States of America (the),Salinas (CA),US,California,SNS,KSNS,Salinas Municipal Airport,36.6628,-121.606
-United States of America (the),Santa Rosa (CA),US,California,STS,KSTS,Charles M. Schulz-Sonoma County A,38.509,-122.813
-United States of America (the),Amsterdam ,US,California,SUM,KSMS,Sumter Airport,33.995,-80.3613
-United States of America (the),Lake Tahoe (CA),US,California,TVL,KTVL,Lake Tahoe Airport,38.8939,-119.995
-United States of America (the),Ukiah (CA),US,California,UKI,KUKI,Ukiah Municipal Airport,39.126,-123.201
-United States of America (the),Visalia (CA),US,California,VIS,KVIS,Visalia Municipal Airport,36.3187,-119.393
-United States of America (the),Caracas ,US,Colorado,ASE,KASE,Aspen-Pitkin County Airport (Sardy Field),39.2232,-106.869
-United States of America (the),Nuku'alofa ,US,Colorado,COS,KCOS,Colorado Springs Airport,38.8058,-104.701
-United States of America (the),Rostov,US,Colorado,DEN,KDEN,Denver International Airport,39.8617,-104.673
-United States of America (the),Strasbourg ,US,Colorado,DRO,KDRO,Durango-La Plata County Airport,37.1515,-107.754
-United States of America (the),Vail (CO),US,Colorado,EGE,KEGE,Eagle County Regional Airport,39.6426,-106.918
-United States of America (the),Grand Junction (CO),US,Colorado,GJT,KGJT,Grand Junction Regional Airport (Walker Field),39.1224,-108.527
-United States of America (the),Gunnison/Crested Butte (CO),US,Colorado,GUC,KGUC,Gunnison-Crested Butte Regional Airport,38.5339,-106.933
-United States of America (the),Steamboat Springs (CO),US,Colorado,HDN,KHDN,Yampa Valley Airport,40.4812,-107.218
-United States of America (the),Montrose/Tellruide (CO),US,Colorado,MTJ,KMTJ,Montrose Regional Airport,38.5098,-107.894
-United States of America (the),Pueblo (CO),US,Colorado,PUB,KPUB,Pueblo Memorial Airport,38.2891,-104.497
-United States of America (the),Telluride (CO),US,Colorado,TEX,KTEX,Telluride Regional Airport,37.9538,-107.908
-United States of America (the),Hartford (CT) /Springfield (MA),US,Connecticut,BDL,KBDL,Bradley International Airport,41.9392,-72.6833
-United States of America (the),Joinville ,US,Connecticut,BDR,KBDR,Igor I. Sikorsky Memorial Airport,41.1635,-73.1262
-United States of America (the),Groton/New London (CT),US,Connecticut,GON,KGON,Groton-New London Airport,41.3301,-72.0451
-United States of America (the),New Haven (CT),US,Connecticut,HVN,KHVN,Tweed New Haven Airport,41.2637,-72.8868
-United States of America (the),Naples (FL),US,Florida,APF,KAPF,Naples Municipal Airport,26.1526,-81.7753
-United States of America (the),Jacksonville (FL) ,US,Florida,CRG,KCRG,Jacksonville Executive at Craig Airport,30.3363,-81.5144
-United States of America (the),Rio Branco ,US,Florida,DAB,KDAB,Daytona Beach International Airport,29.1799,-81.0581
-United States of America (the),Key West (FL),US,Florida,EYW,KEYW,Key West International Airport,24.5561,-81.7596
-United States of America (the),Fort Lauderdale/Hollywood (FL),US,Florida,FLL,KFLL,Fort Lauderdale-Hollywood International Airport,26.0726,-80.1527
-United States of America (the),"Fort Myers, Metropolitan Area (FL)",US,Florida,FMY,KFMY,Page Field,26.5866,-81.8633
-United States of America (the),Gainesville (FL),US,Florida,GNV,KGNV,Gainesville Regional Airport,29.6901,-82.2718
-United States of America (the),Jacksonville (FL) ,US,Florida,JAX,KJAX,Jacksonville International Airport,30.4941,-81.6879
-United States of America (the),Orlando ,US,Florida,MCO,KMCO,Orlando International Airport,28.4294,-81.309
-United States of America (the),Miami (FL),US,Florida,MIA,KMIA,Miami International Airport,25.7932,-80.2906
-United States of America (the),Melbourne (FL),US,Florida,MLB,KMLB,Orlando Melbourne International Airport,28.1028,-80.6453
-United States of America (the),Marathon (FL),US,Florida,MTH,KMTH,Florida Keys Marathon Airport,24.7261,-81.0514
-United States of America (the),Jacksonville (FL) Jacksonville NAS   ,US,Florida,NIP,KNIP,NAS Jacksonville (Towers Field),30.2358,-81.6806
-United States of America (the),Orlando Metropolitan Area (FL),US,Florida,ORL,KORL,Orlando Executive Airport,28.5455,-81.3329
-United States of America (the),West Palm Beach (FL),US,Florida,PBI,KPBI,Palm Beach International Airport,26.6832,-80.0956
-United States of America (the),Pensacola (FL),US,Florida,PNS,KPNS,Pensacola International Airport,30.4734,-87.1866
-United States of America (the),"Fort Myers, Southwest Florida Reg (FL)",US,Florida,RSW,KRSW,Southwest Florida International Airport,26.5362,-81.7552
-United States of America (the),Sarasota/Bradenton (FL),US,Florida,SRQ,KSRQ,Sarasota-Bradenton International Airport,27.3954,-82.5544
-United States of America (the),Tallahassee (FL),US,Florida,TLH,KTLH,Tallahassee International Airport,30.3965,-84.3503
-United States of America (the),Tampa ,US,Florida,TPA,KTPA,Tampa International Airport,27.9755,-82.5332
-United States of America (the),Fort Walton Beach (FL),US,Florida,VPS,KVPS,Destin-Fort Walton Beach Airport / Eglin Air Force Base,30.4832,-86.5254
-United States of America (the),Vero Beach/Ft. Pierce (FL),US,Florida,VRB,KVRB,Vero Beach Regional Airport,27.6556,-80.4179
-United States of America (the),Asuncion ,US,Georgia,ABY,KABY,Southwest Georgia Regional Airport,31.5355,-84.1945
-United States of America (the),Chihuahua ,US,Georgia,AGS,KAGS,Augusta Regional Airport at Bush Field,33.3699,-81.9645
-United States of America (the),Cebu City ,US,Georgia,AHN,KAHN,Athens Ben Epps Airport,33.9486,-83.3263
-United States of America (the),"Chaoyang, Beijing ",US,Georgia,ATL,KATL,Hartsfield-Jackson Atlanta International Airport,33.6367,-84.4281
-United States of America (the),Kathmandu ,US,Georgia,BQK,KBQK,Brunswick Golden Isles Airport,31.2588,-81.4665
-United States of America (the),"Okinawa, Ryukyo Island ",US,Georgia,CSG,KCSG,Columbus Airport,32.5163,-84.9389
-United States of America (the),Macon (GA),US,Georgia,MCN,KMCN,Middle Georgia Regional Airport,32.6928,-83.6492
-United States of America (the),Savannah (GA),US,Georgia,SAV,KSAV,Savannah/Hilton Head International Airport,32.1276,-81.2021
-United States of America (the),Valdosta (GA),US,Georgia,VLD,KVLD,Valdosta Regional Airport,30.7825,-83.2767
-United States of America (the),Honolulu (HI) ,US,Hawaii,HNL,PHNL,Daniel K. Inouye International Airport,21.3206,-157.924
-United States of America (the),Hilo (HI),US,Hawaii,ITO,PHTO,Hilo International Airport,19.7214,-155.048
-United States of America (the),Kapalua West (HI),US,Hawaii,JHM,PHJH,Kapalua Airport,20.9629,-156.673
-United States of America (the),Kona (HI),US,Hawaii,KOA,PHKO,Kona International Airport at Keahole,19.7388,-156.046
-United States of America (the),Lihue (HI),US,Hawaii,LIH,PHLI,Lihue Airport,21.976,-159.339
-United States of America (the),Lanai City (HI),US,Hawaii,LNY,PHNY,Lanai Airport,20.7856,-156.951
-United States of America (the),Midway Island ,US,Hawaii,MDY,PMDY,Henderson Field,28.2017,-177.381
-United States of America (the),Kaunakakai (HI),US,Hawaii,MKK,PHMK,Molokai Airport,21.1529,-157.096
-United States of America (the),Kamuela (HI),US,Hawaii,MUE,PHMU,Waimea-Kohala Airport,20.0013,-155.668
-United States of America (the),Kahului (HI),US,Hawaii,OGG,PHOG,Kahului Airport,20.8986,-156.43
-United States of America (the),Upolu Point (HI),US,Hawaii,UPP,PHUP,Upolu Airport,20.2653,-155.86
-United States of America (the),Jambi ,US,Idaho,BOI,KBOI,Boise Air Terminal (Gowen Field),43.5644,-116.223
-United States of America (the),Idaho Falls (ID),US,Idaho,IDA,KIDA,Idaho Falls Regional Airport,43.5136,-112.071
-United States of America (the),Lewiston (ID),US,Idaho,LWS,KLWS,Lewiston-Nez Perce County Airport,46.3745,-117.015
-United States of America (the),Pocatello (ID),US,Idaho,PIH,KPIH,Pocatello Regional Airport,42.9098,-112.596
-United States of America (the),Sun Valley (ID),US,Idaho,SUN,KSUN,Friedman Memorial Airport,43.5044,-114.296
-United States of America (the),Twin Falls (ID),US,Idaho,TWF,KTWF,Magic Valley Regional Airport (Joslin Field),42.4818,-114.488
-United States of America (the),Jacksonville (FL) ,US,Illinois,BMI,KBMI,Central Illinois Regional Airport,40.4771,-88.9159
-United States of America (the),Marseille ,US,Illinois,CMI,KCMI,University of Illinois Willard Airport,40.0392,-88.2781
-United States of America (the),Rio de Janeiro ,US,Illinois,DEC,KDEC,Decatur Airport,39.8346,-88.8657
-United States of America (the),Jacksonville (IL) ,US,Illinois,IJX,KIJX,Jacksonville Municipal Airport,39.7707,-90.238
-United States of America (the),Milan ,US,Illinois,MDW,KMDW,Chicago Midway International Airport,41.7861,-87.7525
-United States of America (the),Moline/Quad Cities (IL),US,Illinois,MLI,KMLI,Quad City International Airport,41.4485,-90.5075
-United States of America (the),Mattoon (IL),US,Illinois,MTO,KMTO,Coles County Memorial Airport,39.4779,-88.2792
-United States of America (the),Minneapolis ,US,Illinois,ORD,KORD,Chicago O'Hare International Airport,41.9786,-87.9047
-United States of America (the),Peoria/Bloomington (IL),US,Illinois,PIA,KPIA,General Wayne A. Downing Peoria International Airport,40.6642,-89.6933
-United States of America (the),Rockford (IL),US,Illinois,RFD,KRFD,Chicago Rockford International Airport,42.1953,-89.0972
-United States of America (the),Springfield (IL),US,Illinois,SPI,KSPI,Abraham Lincoln Capital Airport,39.8441,-89.6779
-United States of America (the),Quincy (IL),US,Illinois,UIN,KUIN,Quincy Regional Airport (Baldwin Field),39.9427,-91.1946
-United States of America (the),Jacksonville (FL) ,US,Indiana,BMG,KBMG,Monroe County Airport,39.146,-86.6167
-United States of America (the),Thessaloniki ,US,Indiana,EKI,KEKM,Elkhart Municipal Airport,41.7194,-86.0032
-United States of America (the),Uruguaiana ,US,Indiana,EVV,KEVV,Evansville Regional Airport,38.037,-87.5324
-United States of America (the),Fort Wayne (IN),US,Indiana,FWA,KFWA,Fort Wayne International Airport,40.9785,-85.1951
-United States of America (the),Indianapolis (IN) International,US,Indiana,IND,KIND,Indianapolis International Airport,39.7173,-86.2944
-United States of America (the),Lafayette (IN),US,Indiana,LAF,KLAF,Purdue University Airport,40.4123,-86.9369
-United States of America (the),South Bend (IN),US,Indiana,SBN,KSBN,South Bend International Airport,41.7087,-86.3173
-United States of America (the),Waterloo IA,US,Iowa,ALO,KALO,Waterloo Regional Airport,42.5571,-92.4003
-United States of America (the),Kuwait ,US,Iowa,BRL,KBRL,Southeast Iowa Regional Airport,40.7832,-91.1255
-United States of America (the),Manila ,US,Iowa,CID,KCID,The Eastern Iowa Airport,41.8847,-91.7108
-United States of America (the),Singapore ,US,Iowa,DBQ,KDBQ,Dubuque Regional Airport,42.402,-90.7095
-United States of America (the),Salvador ,US,Iowa,DSM,KDSM,Des Moines International Airport,41.534,-93.6631
-United States of America (the),Fort Dodge IA,US,Iowa,FOD,KFOD,Fort Dodge Regional Airport,42.5515,-94.1926
-United States of America (the),Mason City IA,US,Iowa,MCW,KMCW,Mason City Municipal Airport,43.1578,-93.3313
-United States of America (the),Omaha (NE),US,Iowa,OMA,KOMA,Eppley Airfield,41.3032,-95.8941
-United States of America (the),Sioux City IA,US,Iowa,SUX,KSUX,Sioux Gateway Airport (Colonel Bud Day Field),42.4026,-96.3844
-United States of America (the),Fort Riley (KS) ,US,Kansas,FRI,KFRI,Marshall Army Airfield,39.0553,-96.7645
-United States of America (the),Wichita (KS),US,Kansas,ICT,KICT,Wichita Dwight D. Eisenhower National Airport,37.6499,-97.4331
-United States of America (the),Lyons (KS) ,US,Kansas,LYO,KLYO,Lyons-Rice County Municipal Airport,38.3428,-98.2269
-United States of America (the),Moscow ,US,Kentucky,CVG,KCVG,Cincinnati/Northern Kentucky International Airport,39.0488,-84.6678
-United States of America (the),Lexington (KY),US,Kentucky,LEX,KLEX,Blue Grass Airport,38.0365,-84.6059
-United States of America (the),Owensboro (KY),US,Kentucky,OWB,KOWB,Owensboro-Daviess County Airport,37.7401,-87.1668
-United States of America (the),Paducah (KY),US,Kentucky,PAH,KPAH,Barkley Regional Airport,37.0608,-88.7738
-United States of America (the),Louisville (KY),US,Kentucky,SDF,KSDF,Louisville International Airport (Standiford Field),38.1744,-85.736
-United States of America (the),Faroer ,US,Louisiana,BTR,KBTR,Baton Rouge Metropolitan Airport (Ryan Field),30.5332,-91.1496
-United States of America (the),Bahrain ,US,Louisiana,ESF,KESF,Esler Airfield (Esler Regional Airport),31.3949,-92.2958
-United States of America (the),Lake Charles (LA),US,Louisiana,LCH,KLCH,Lake Charles Regional Airport,30.1261,-93.2233
-United States of America (the),"Lafayette, La",US,Louisiana,LFT,KLFT,Lafayette Regional Airport,30.2053,-91.9876
-United States of America (the),Monroe (LA),US,Louisiana,MLU,KMLU,Monroe Regional Airport,32.5109,-92.0377
-United States of America (the),"New Orleans, La",US,Louisiana,MSY,KMSY,Louis Armstrong New Orleans International Airport,29.9934,-90.258
-United States of America (the),"Shreveport, La",US,Louisiana,SHV,KSHV,Shreveport Regional Airport,32.4466,-93.8256
-United States of America (the),Chisinau ,US,Maine,AUG,KAUG,Augusta State Airport,44.3206,-69.7973
-United States of America (the),Denver (CO) ,US,Maine,BGR,KBGR,Bangor International Airport,44.8074,-68.8281
-United States of America (the),Presque Island (ME),US,Maine,PQI,KPQI,Northern Maine Regional Airport at Presque Isle,46.689,-68.0448
-United States of America (the),Portland (ME),US,Maine,PWM,KPWM,Portland International Jetport,43.6462,-70.3093
-United States of America (the),Rockland (ME),US,Maine,RKD,KRKD,Knox County Regional Airport,44.0601,-69.0992
-United States of America (the),Cotonou ,US,Maryland,BWI,KBWI,Baltimore/Washington International Airport,39.1753,-76.6683
-United States of America (the),Salisbury (MD),US,Maryland,SBY,KSBY,Salisbury-Ocean City-Wicomico Regional Airport,38.3405,-75.5103
-United States of America (the),Nantucket (MA),US,Massachusetts,ACK,KACK,Nantucket Memorial Airport,41.2531,-70.0602
-United States of America (the),Jeremie ,US,Massachusetts,BOS,KBOS,Logan International Airport,42.3643,-71.0052
-United States of America (the),Ancona ,US,Massachusetts,BQN,TJBQ,Rafael Hernandez Airport,18.4949,-67.1294
-United States of America (the),Hyannis (MA),US,Massachusetts,HYA,KHYA,Barnstable Municipal Airport (Boardman/Polando Field),41.6693,-70.2804
-United States of America (the),Mayaguez,US,Massachusetts,MAZ,TJMZ,Eugenio Maria de Hostos Airport,18.2557,-67.1485
-United States of America (the),Martha's Vineyard (MA),US,Massachusetts,MVY,KMVY,Martha's Vineyard Airport,41.3931,-70.6143
-United States of America (the),Worcester (MA),US,Massachusetts,ORH,KORH,Worcester Regional Airport,42.2673,-71.8757
-United States of America (the),Bogota ,US,Michigan,ARB,KARB,Ann Arbor Municipal Airport,42.223,-83.7456
-United States of America (the),Kalamazoo/Battle Creek (MI),US,Michigan,AZO,KAZO,Kalamazoo/Battle Creek International Airport,42.2349,-85.5521
-United States of America (the),Sao Paulo ,US,Michigan,BEH,KBEH,Southwest Michigan Regional Airport,42.1286,-86.4285
-United States of America (the),Hancock (MI),US,Michigan,CMX,KCMX,Houghton County Memorial Airport,47.1684,-88.4891
-United States of America (the),Samara ,US,Michigan,DTW,KDTW,Detroit Metro Wayne County Airport,42.2125,-83.3533
-United States of America (the),Ulan,US,Michigan,ESC,KESC,Delta County Airport,45.7227,-87.0937
-United States of America (the),Yangon (Rangoon) ,US,Michigan,FNT,KFNT,Bishop International Airport,42.9654,-83.7436
-United States of America (the),Grand Rapids (MI),US,Michigan,GRR,KGRR,Gerald R. Ford International Airport,42.8808,-85.5228
-United States of America (the),Jackson (MI) ,US,Michigan,JXN,KJXN,Jackson County Airport (Reynolds Field),42.2598,-84.4594
-United States of America (the),Lansing (MI),US,Michigan,LAN,KLAN,Capital Region International Airport,42.7787,-84.5874
-United States of America (the),Saginaw/Bay City/Midland (MI),US,Michigan,MBS,KMBS,MBS International Airport,43.5329,-84.0796
-United States of America (the),Muskegon (MI),US,Michigan,MKG,KMKG,Muskegon County Airport,43.1695,-86.2382
-United States of America (the),Marquette (MI),US,Michigan,MQT,KSAW,Sawyer International Airport,46.3536,-87.3954
-United States of America (the),Pellston (MI),US,Michigan,PLN,KPLN,Pellston Regional Airport (Emmet County),45.5709,-84.7967
-United States of America (the),Traverse City (MI),US,Michigan,TVC,KTVC,Cherry Capital Airport,44.7414,-85.5822
-United States of America (the),Grenada ,US,Minnesota,BJI,KBJI,Bemidji Regional Airport,47.5094,-94.9337
-United States of America (the),Jinghong ,US,Minnesota,BRD,KBRD,Brainerd Lakes Regional Airport,46.3983,-94.1381
-United States of America (the),Southampton ,US,Minnesota,DLH,KDLH,Duluth International Airport,46.8421,-92.1936
-United States of America (the),Grand Rapids (MN),US,Minnesota,GPZ,KGPZ,Grand Rapids-Itasca County Airport (Gordon Newstrom Field),47.2111,-93.5098
-United States of America (the),Hibbing (MN),US,Minnesota,HIB,KHIB,Range Regional Airport,47.3866,-92.839
-United States of America (the),International Falls (MN),US,Minnesota,INL,KINL,Falls International Airport,48.5662,-93.4031
-United States of America (the),"Jackson,  MN  ",US,Minnesota,MJQ,KMJQ,Jackson Municipal Airport,43.65,-94.9867
-United States of America (the),Minneapolis ,US,Minnesota,MSP,KMSP,Minneapolis-Saint Paul International Airport (Wold-Chamberlain Field),44.882,-93.2218
-United States of America (the),Rochester (MN),US,Minnesota,RST,KRST,Rochester International Airport,43.9083,-92.5
-United States of America (the),Thief River Falls (MN),US,Minnesota,TVF,KTVF,Thief River Falls Regional Airport,48.0657,-96.185
-United States of America (the),Greenville (MS),US,Mississippi,GLH,KGLH,Mid-Delta Regional Airport,33.4829,-90.9856
-United States of America (the),Gulfport/Biloxi (MS),US,Mississippi,GPT,KGPT,Gulfport-Biloxi International Airport,30.4073,-89.0701
-United States of America (the),Jackson (MS) ,US,Mississippi,HKS,KHKS,Hawkins Field,32.3345,-90.2222
-United States of America (the),Jackson (MS) ,US,Mississippi,JAN,KJAN,Jackson-Evers International Airport,32.3112,-90.0759
-United States of America (the),Meridian (MS),US,Mississippi,MEI,KMEI,Meridian Regional Airport (Key Field),32.3326,-88.7519
-United States of America (the),Laurel/Hattisburg (MS),US,Mississippi,PIB,KPIB,Hattiesburg-Laurel Regional Airport,31.4671,-89.3371
-United States of America (the),Tulepo (MS),US,Mississippi,TUP,KTUP,Tupelo Regional Airport,34.2681,-88.7699
-United States of America (the),Jefferson City (MO) ,US,Missouri,JEF,KJEF,Jefferson City Memorial Airport,38.5912,-92.1561
-United States of America (the),Joplin (MO),US,Missouri,JLN,KJLN,Joplin Regional Airport,37.1518,-94.4983
-United States of America (the),Kansas City (MO) ,US,Missouri,MCI,KMCI,Kansas City International Airport,39.2976,-94.7139
-United States of America (the),Springfield (MO),US,Missouri,SGF,KSGF,Springfield-Branson National Airport,37.2457,-93.3886
-United States of America (the),St. Louis (MO) Lambert–St. Louis International Airport,US,Missouri,STL,KSTL,Lambert-St. Louis International Airport,38.7487,-90.37
-United States of America (the),"Houston, TX ",US,Montana,BIL,KBIL,Billings Logan International Airport,45.8077,-108.543
-United States of America (the),La Paz ,US,Montana,BTM,KBTM,Bert Mooney Airport,45.9548,-112.497
-United States of America (the),Jiamusi ,US,Montana,BZN,KBZN,Bozeman Yellowstone International Airport (Gallatin Field),45.7775,-111.153
-United States of America (the),Kalispell (MT),US,Montana,FCA,KGPI,Glacier Park International Airport,48.3105,-114.256
-United States of America (the),Glendive (MT),US,Montana,GDV,KGDV,Dawson Community Airport,47.1387,-104.807
-United States of America (the),Glasgow (MT),US,Montana,GGW,KGGW,Glasgow Airport (Wokal Field),48.2125,-106.615
-United States of America (the),Great Falls (MT),US,Montana,GTF,KGTF,Great Falls International Airport,47.482,-111.371
-United States of America (the),Helena (MT),US,Montana,HLN,KHLN,Helena Regional Airport,46.6068,-111.983
-United States of America (the),Havre (MT),US,Montana,HVR,KHVR,Havre City-County Airport,48.543,-109.762
-United States of America (the),Lewistown (MT),US,Montana,LWT,KLWT,Lewistown Municipal Airport,47.0493,-109.467
-United States of America (the),Miles City (MT),US,Montana,MLS,KMLS,Miles City Airport (Frank Wiley Field),46.428,-105.886
-United States of America (the),Missula (MT),US,Montana,MSO,KMSO,Missoula International Airport,46.9163,-114.091
-United States of America (the),Wolf Point (MT),US,Montana,OLF,KOLF,L. M. Clayton Airport,48.0945,-105.575
-United States of America (the),Sidney (MT),US,Montana,SDY,KSDY,Sidney-Richland Municipal Airport,47.7069,-104.193
-United States of America (the),West Yellowstone (MT),US,Montana,WYS,KWYS,Yellowstone Airport,44.6884,-111.118
-United States of America (the),Lincoln (NE),US,Nebraska,LNK,KLNK,Lincoln Airport,40.851,-96.7592
-United States of America (the),Macau ,US,Nevada,CSN,KCXP,Carson Airport,39.1922,-119.734
-United States of America (the),Tijuana ,US,Nevada,EKO,KEKO,Elko Regional Airport,40.8249,-115.792
-United States of America (the),Toronto ,US,Nevada,ELY,KELY,Ely Airport,39.2997,-114.842
-United States of America (the),Las Vegas (NV),US,Nevada,LAS,KLAS,Harry Reid International Airport,36.0801,-115.152
-United States of America (the),Reno (NV),US,Nevada,RNO,KRNO,Reno-Tahoe International Airport,39.4991,-119.768
-United States of America (the),Orlando ,US,New Hampshire,CON,KCON,Concord Municipal Airport,43.2027,-71.5023
-United States of America (the),Lebanon (NH),US,New Hampshire,LEB,KLEB,Lebanon Municipal Airport,43.6261,-72.3042
-United States of America (the),Manchester (NH),US,New Hampshire,MHT,KMHT,Manchester-Boston Regional Airport,42.9326,-71.4357
-United States of America (the),Charleston (WV) ,US,New Jersey,ACY,KACY,Atlantic City International Airport,39.4576,-74.5772
-United States of America (the),New York ,US,New Jersey,EWR,KEWR,Newark Liberty International Airport,40.6925,-74.1686
-United States of America (the),Trenton/Princeton (NJ),US,New Jersey,TTN,KTTN,Trenton-Mercer Airport,40.2767,-74.8135
-United States of America (the),Atlantic City (NJ) ,US,New Mexico,ABQ,KABQ,Albuquerque International Sunport,35.0402,-106.609
-United States of America (the),Vitoria ,US,New Mexico,FMN,KFMN,Four Corners Regional Airport,36.7412,-108.23
-United States of America (the),Aswan ,US,New York,ALB,KALB,Albany International Airport,42.7483,-73.8017
-United States of America (the),Johnson City (NY) ,US,New York,BGM,KBGM,Greater Binghamton Airport (Edwin A. Link Field),42.2087,-75.9798
-United States of America (the),Kinshasa ,US,New York,BUF,KBUF,Buffalo Niagara International Airport,42.9405,-78.7322
-United States of America (the),Tokyo ,US,New York,ELM,KELM,Elmira/Corning Regional Airport,42.1599,-76.8916
-United States of America (the),White Plains (NY),US,New York,HPN,KHPN,Westchester County Airport,41.067,-73.7076
-United States of America (the),Niagara Falls International,US,New York,IAG,KIAG,Niagara Falls International Airport,43.1073,-78.9462
-United States of America (the),"Long Island, Islip (NY) ",US,New York,ISP,KISP,Long Island MacArthur Airport,40.7952,-73.1002
-United States of America (the),Ithaca/Cortland (NY),US,New York,ITH,KITH,Ithaca Tompkins Regional Airport,42.491,-76.4584
-United States of America (the),New York ,US,New York,JFK,KJFK,John F. Kennedy International Airport,40.6397,-73.7789
-United States of America (the),Jamestown (NY),US,New York,JHW,KJHW,Chautauqua County-Jamestown Airport,42.1534,-79.258
-United States of America (the),New York ,US,New York,LGA,KLGA,LaGuardia Airport,40.775,-73.875
-United States of America (the),Poughkeepsie (NY),US,New York,POU,KPOU,Dutchess County Airport,41.6266,-73.8842
-United States of America (the),Rochester (NY),US,New York,ROC,KROC,Greater Rochester International Airport,43.1189,-77.6724
-United States of America (the),Newburgh (NY),US,New York,SWF,KSWF,New York Stewart International Airport,41.5042,-74.1047
-United States of America (the),Syracuse (NY),US,New York,SYR,KSYR,Syracuse Hancock International Airport,43.1112,-76.1063
-United States of America (the),Canberra ,US,North Carolina,AVL,KAVL,Asheville Regional Airport,35.4362,-82.5418
-United States of America (the),Metz ,US,North Carolina,CLT,KCLT,Charlotte Douglas International Airport,35.214,-80.9431
-United States of America (the),New Bern (NC),US,North Carolina,EWN,KEWN,Coastal Carolina Regional Airport,35.073,-77.0429
-United States of America (the),Washington DC ,US,North Carolina,FAY,KFAY,Fayetteville Regional Airport (Grannis Field),34.9912,-78.8803
-United States of America (the),Greensboro/Winston Salem (NC),US,North Carolina,GSO,KGSO,Piedmont Triad International Airport,36.0978,-79.9373
-United States of America (the),Hickory (NC),US,North Carolina,HKY,KHKY,Hickory Regional Airport,35.7411,-81.3895
-United States of America (the),Wilmington (NC),US,North Carolina,ILM,KILM,Wilmington International Airport,34.2706,-77.9026
-United States of America (the),Kingston (NC),US,North Carolina,ISO,KISO,Kinston Regional Jetport (Stallings Field),35.3314,-77.6088
-United States of America (the),Jacksonville (NC),US,North Carolina,OAJ,KOAJ,Albert J. Ellis Airport,34.8292,-77.6121
-United States of America (the),Greenville (NC),US,North Carolina,PGV,KPGV,Pitt-Greenville Airport,35.6352,-77.3853
-United States of America (the),Raleigh/Durham (NC),US,North Carolina,RDU,KRDU,Raleigh-Durham International Airport,35.8776,-78.7875
-United States of America (the),Rocky Mount ,US,North Carolina,RWI,KRWI,Rocky Mount-Wilson Regional Airport,35.8563,-77.8919
-United States of America (the),Istanbul ,US,North Dakota,BIS,KBIS,Bismarck Municipal Airport,46.7727,-100.746
-United States of America (the),San Diego ,US,North Dakota,DVL,KDVL,Devils Lake Regional Airport (Devils Lake Municipal Airport),48.1142,-98.9088
-United States of America (the),Vientiane ,US,North Dakota,FAR,KFAR,Hector International Airport,46.9207,-96.8158
-United States of America (the),Grand Forks (ND),US,North Dakota,GFK,KGFK,Grand Forks International Airport,47.9493,-97.1761
-United States of America (the),Jamestown (ND),US,North Dakota,JMS,KJMS,Jamestown Regional Airport,46.9297,-98.6782
-United States of America (the),Minot (ND),US,North Dakota,MOT,KMOT,Minot International Airport,48.2594,-101.28
-United States of America (the),Chandigarh ,US,Ohio,ATO,KUNI,Ohio University Airport (Snyder Field),39.211,-82.2314
-United States of America (the),Natal ,US,Ohio,BKL,KBKL,Cleveland Burke Lakefront Airport,41.5175,-81.6833
-United States of America (the),Aruba ,US,Ohio,CAK,KCAK,Akron-Canton Airport,40.9161,-81.4422
-United States of America (the),Naxos ,US,Ohio,CLE,KCLE,Cleveland Hopkins International Airport,41.4117,-81.8498
-United States of America (the),Oklahoma City (OK) ,US,Ohio,CMH,KCMH,John Glenn Columbus International Airport,39.998,-82.8919
-United States of America (the),Reykjavik ,US,Ohio,DAY,KDAY,Dayton International Airport,39.9024,-84.2194
-United States of America (the),Toledo (OH),US,Ohio,TOL,KTOL,Toledo Express Airport,41.5868,-83.8078
-United States of America (the),Belem ,US,Oklahoma,AXS,KAXS,Altus/Quartz Mountain Regional Airport,34.698,-99.3385
-United States of America (the),Lawton (OK),US,Oklahoma,LAW,KLAW,Lawton-Fort Sill Regional Airport,34.5677,-98.4166
-United States of America (the),Oklahoma City (OK) ,US,Oklahoma,OKC,KOKC,Will Rogers World Airport,35.3931,-97.6007
-United States of America (the),Tulsa (OK),US,Oklahoma,TUL,KTUL,Tulsa International Airport,36.1984,-95.8881
-United States of America (the),Upernavik ,US,Oregon,EUG,KEUG,Eugene Airport (Mahlon Sweet Airport),44.1246,-123.212
-United States of America (the),Klamath Fall (OR),US,Oregon,LMT,KLMT,Klamath Falls Airport,42.1561,-121.733
-United States of America (the),Medford (OR),US,Oregon,MFR,KMFR,Rogue Valley International-Medford Airport,42.3742,-122.873
-United States of America (the),North Bend (OR),US,Oregon,OTH,KOTH,Southwest Oregon Regional Airport,43.4171,-124.246
-United States of America (the),Pendelton (OR),US,Oregon,PDT,KPDT,Eastern Oregon Regional Airport,45.6951,-118.841
-United States of America (the),Portland International (OR),US,Oregon,PDX,KPDX,Portland International Airport,45.5887,-122.598
-United States of America (the),Redmond (OR),US,Oregon,RDM,KRDM,Roberts Field,44.2541,-121.15
-United States of America (the),Salem (OR),US,Oregon,SLE,KSLE,McNary Field,44.9095,-123.003
-United States of America (the),Basse,US,Pennsylvania,ABE,KABE,Lehigh Valley International Airport,40.6521,-75.4408
-United States of America (the),Beirut ,US,Pennsylvania,AOO,KAOO,Altoona-Blair County Airport,40.2964,-78.32
-United States of America (the),Wilkes Barre/Scranton (PA),US,Pennsylvania,AVP,KAVP,Wilkes-Barre/Scranton International Airport,41.3385,-75.7234
-United States of America (the),Jiayuguan ,US,Pennsylvania,BFD,KBFD,Bradford Regional Airport,41.8031,-78.6401
-United States of America (the),Singapore ,US,Pennsylvania,DUJ,KDUJ,DuBois Regional Airport,41.1783,-78.8987
-United States of America (the),Ubon Ratchathani ,US,Pennsylvania,ERI,KERI,Erie International Airport (Tom Ridge Field),42.0831,-80.1739
-United States of America (the),Franklin/Oil City (PA),US,Pennsylvania,FKL,KFKL,Venango Regional Airport (Chess Lamberton Field),41.3779,-79.8604
-United States of America (the),Harrisburg (PA) ,US,Pennsylvania,HAR,KCXY,Capital City Airport,40.2171,-76.8515
-United States of America (the),Williamsport (PA),US,Pennsylvania,IPT,KIPT,Williamsport Regional Airport,41.2418,-76.9211
-United States of America (the),Johnstown (PA),US,Pennsylvania,JST,KJST,John Murtha Johnstown-Cambria County Airport,40.3161,-78.8339
-United States of America (the),Latrobe (PA),US,Pennsylvania,LBE,KLBE,Arnold Palmer Regional Airport,40.2759,-79.4048
-United States of America (the),Lancaster (PA),US,Pennsylvania,LNS,KLNS,Lancaster Airport,40.1217,-76.2961
-United States of America (the),Harrisburg (PA) ,US,Pennsylvania,MDT,KMDT,Harrisburg International Airport,40.1935,-76.7634
-United States of America (the),Philadelphia (PA) ,US,Pennsylvania,PHL,KPHL,Philadelphia International Airport,39.8719,-75.2411
-United States of America (the),Pittsburgh International Airport (PA),US,Pennsylvania,PIT,KPIT,Pittsburgh International Airport,40.4915,-80.2329
-United States of America (the),Reading (PA),US,Pennsylvania,RDG,KRDG,Reading Regional Airport (Carl A. Spaatz Field),40.3785,-75.9652
-United States of America (the),State College/Belefonte (PA),US,Pennsylvania,SCE,KUNV,University Park Airport,40.8493,-77.8487
-United States of America (the),Providence (RI),US,Rhode Island,PVD,KPVD,Theodore Francis Green State Airport,41.7326,-71.4204
-United States of America (the),Oaxaca ,US,South Carolina,CAE,KCAE,Columbia Metropolitan Airport,33.9388,-81.1195
-United States of America (the),Medellin ,US,South Carolina,CHS,KCHS,Charleston International Airport / Charleston Air Force Base,32.8986,-80.0405
-United States of America (the),Myrtle Beach (SC) ,US,South Carolina,CRE,KCRE,Grand Strand Airport,33.8117,-78.7239
-United States of America (the),Zagreb ,US,South Carolina,FLO,KFLO,Florence Regional Airport,34.1854,-79.7239
-United States of America (the),Greenville/Spartanburg (SC),US,South Carolina,GSP,KGSP,Greenville-Spartanburg International Airport,34.8957,-82.2189
-United States of America (the),Hilton Head Island (SC),US,South Carolina,HHH,KHXD,Hilton Head Airport,32.2244,-80.6975
-United States of America (the),Myrtle Beach (SC) ,US,South Carolina,MYR,KMYR,Myrtle Beach International Airport,33.6797,-78.9283
-United States of America (the),Aberdeen (SD),US,South Dakota,ABR,KABR,Aberdeen Regional Airport,45.4491,-98.4218
-United States of America (the),Watertown (SD),US,South Dakota,ATY,KATY,Watertown Regional Airport,44.914,-97.1547
-United States of America (the),Karachi ,US,South Dakota,BKX,KBKX,Brookings Regional Airport,44.3048,-96.8169
-United States of America (the),Sioux Falls (SD),US,South Dakota,FSD,KFSD,Sioux Falls Regional Airport (Joe Foss Field),43.582,-96.7419
-United States of America (the),Huron (SD),US,South Dakota,HON,KHON,Huron Regional Airport,44.3852,-98.2285
-United States of America (the),Mitchell (SD),US,South Dakota,MHE,KMHE,Mitchell Municipal Airport,43.7748,-98.0386
-United States of America (the),Pierre (SD),US,South Dakota,PIR,KPIR,Pierre Regional Airport,44.3827,-100.286
-United States of America (the),Rapid City (SD),US,South Dakota,RAP,KRAP,Rapid City Regional Airport,44.0453,-103.057
-United States of America (the),Nashville (TN),US,Tennessee,BNA,KBNA,Nashville International Airport,36.1245,-86.6782
-United States of America (the),Mexico City ,US,Tennessee,CHA,KCHA,Chattanooga Metropolitan Airport (Lovell Field),35.0353,-85.2038
-United States of America (the),Memphis (TN),US,Tennessee,MEM,KMEM,Memphis International Airport,35.0424,-89.9767
-United States of America (the),Jackson (TN) ,US,Tennessee,MKL,KMKL,McKellar-Sipes Regional Airport,35.5999,-88.9156
-United States of America (the),Tri,US,Tennessee,TRI,KTRI,Tri-Cities Regional Airport,36.4752,-82.4074
-United States of America (the),Knoxville (TN),US,Tennessee,TYS,KTYS,McGhee Tyson Airport,35.811,-83.994
-United States of America (the),Abilene (TX),US,Texas,ABI,KABI,Abilene Regional Airport,32.4113,-99.6819
-United States of America (the),Waco (TX),US,Texas,ACT,KACT,Waco Regional Airport,31.6113,-97.2305
-United States of America (the),Belfast ,US,Texas,AMA,KAMA,Rick Husband Amarillo International Airport,35.2194,-101.706
-United States of America (the),Chongqing ,US,Texas,AUS,KAUS,Austin-Bergstrom International Airport,30.1945,-97.6699
-United States of America (the),Fortaleza ,US,Texas,BPT,KBPT,Jack Brooks Regional Airport,29.9508,-94.0207
-United States of America (the),Nice ,US,Texas,CLL,KCLL,Easterwood Airport (Easterwood Field),30.5886,-96.3638
-United States of America (the),Paris ,US,Texas,CRP,KCRP,Corpus Christi International Airport,27.7704,-97.5012
-United States of America (the),Pu San (Busan) ,US,Texas,DAL,KDAL,Dallas Love Field,32.8471,-96.8518
-United States of America (the),Pyongyang ,US,Texas,DFW,KDFW,Dallas/Fort Worth International Airport,32.8968,-97.038
-United States of America (the),Toronto ,US,Texas,ELP,KELP,El Paso International Airport,31.8072,-106.378
-United States of America (the),Longview/Kilgore (TX),US,Texas,GGG,KGGG,East Texas Regional Airport,32.384,-94.7115
-United States of America (the),"Houston (TX) , Hobby",US,Texas,HOU,KHOU,William P. Hobby Airport,29.6454,-95.2789
-United States of America (the),Harlingen/South Padre Island (TX),US,Texas,HRL,KHRL,Valley International Airport,26.2285,-97.6544
-United States of America (the),"Houston, TX ",US,Texas,IAH,KIAH,George Bush Intercontinental Airport,29.9844,-95.3414
-United States of America (the),Killeem (TX),US,Texas,ILE,KILE,Skylark Field,31.0858,-97.6865
-United States of America (the),Jacksonville (TX),US,Texas,JKV,KJSO,Cherokee County Airport,31.8693,-95.2174
-United States of America (the),Lubbock (TX),US,Texas,LBB,KLBB,Lubbock Preston Smith International Airport,33.6636,-101.823
-United States of America (the),Laredo (TX),US,Texas,LRD,KLRD,Laredo International Airport,27.5438,-99.4616
-United States of America (the),Midland/Odessa (TX),US,Texas,MAF,KMAF,Midland International Air and Space Port,31.9425,-102.202
-United States of America (the),McAllen (TX),US,Texas,MFE,KMFE,McAllen Miller International Airport,26.1758,-98.2386
-United States of America (the),San Antonio (TX),US,Texas,SAT,KSAT,San Antonio International Airport,29.5337,-98.4698
-United States of America (the),San Angelo (TX),US,Texas,SJT,KSJT,San Angelo Regional Airport (Mathis Field),31.3577,-100.496
-United States of America (the),Wichita Falls (TX),US,Texas,SPS,KSPS,Sheppard Air Force Base / Wichita Falls Municipal Airport,33.9888,-98.4919
-United States of America (the),Tyler (TX),US,Texas,TYR,KTYR,Tyler Pounds Regional Airport,32.3541,-95.4024
-United States of America (the),Mandalay ,US,Utah,CDC,KCDC,Cedar City Regional Airport,37.701,-113.099
-United States of America (the),St. George (UT),US,Utah,SGU,KSGU,St. George Regional Airport,37.0364,-113.51
-United States of America (the),Salt Lake City (UT),US,Utah,SLC,KSLC,Salt Lake City International Airport,40.7884,-111.978
-United States of America (the),Vernal (UT),US,Utah,VEL,KVEL,Vernal Regional Airport,40.4409,-109.51
-United States of America (the),Lae ,US,Vermont,BTV,KBTV,Burlington International Airport,44.4719,-73.1533
-United States of America (the),Metz/Nancy Metz,US,Virginia,CHO,KCHO,Charlottesville-Albemarle Airport,38.1386,-78.4529
-United States of America (the),Rahim Yar Khan ,US,Virginia,DAN,KDAN,Danville Regional Airport,36.5729,-79.3361
-United States of America (the),Washington DC ,US,Virginia,DCA,KDCA,Ronald Reagan Washington National Airport,38.8522,-77.0378
-United States of America (the),Washington DC ,US,Virginia,IAD,KIAD,Washington Dulles International Airport,38.9445,-77.4558
-United States of America (the),Lynchburg (VA),US,Virginia,LYH,KLYH,Lynchburg Regional Airport (Preston Glenn Field),37.3267,-79.2004
-United States of America (the),Norfolk/Virginia Beach (VA),US,Virginia,ORF,KORF,Norfolk International Airport,36.8946,-76.2012
-United States of America (the),Newport News/Williamsburg (VA),US,Virginia,PHF,KPHF,Newport News/Williamsburg International Airport,37.1319,-76.493
-United States of America (the),Richmond (VA),US,Virginia,RIC,KRIC,Richmond International Airport,37.5052,-77.3197
-United States of America (the),Roanoke (VA),US,Virginia,ROA,KROA,Roanoke-Blacksburg Regional Airport (Woodrum Field),37.3255,-79.9754
-United States of America (the),Shenandoah Valley/Stauton (VA),US,Virginia,SHD,KSHD,Shenandoah Valley Regional Airport,38.2638,-78.8964
-United States of America (the),Walla Walla (WA),US,Washington,ALW,KALW,Walla Walla Regional Airport,46.0949,-118.288
-United States of America (the),Gothenburg (Göteborg) ,US,Washington,BLI,KBLI,Bellingham International Airport,48.7928,-122.538
-United States of America (the),Port Angeles (WA),US,Washington,CLM,KCLM,William R. Fairchild International Airport,48.1202,-123.5
-United States of America (the),Wenatchee (WA),US,Washington,EAT,KEAT,Pangborn Memorial Airport,47.3989,-120.207
-United States of America (the),Spokane (WA),US,Washington,GEG,KGEG,Spokane International Airport,47.6199,-117.534
-United States of America (the),Moses Lake (WA),US,Washington,MWH,KMWH,Grant County International Airport,47.2077,-119.32
-United States of America (the),Pasco (WA),US,Washington,PSC,KPSC,Tri-Cities Airport,46.2647,-119.119
-United States of America (the),Pullman (WA),US,Washington,PUW,KPUW,Pullman-Moscow Regional Airport,46.7439,-117.11
-United States of America (the),Seattle/Tacoma (WA),US,Washington,SEA,KSEA,Seattle-Tacoma International Airport,47.449,-122.309
-United States of America (the),Yakima (WA),US,Washington,YKM,KYKM,Yakima Air Terminal (McAllister Field),46.5682,-120.544
-United States of America (the),Fort de France ,US,West Virginia,BKW,KBKW,Raleigh County Memorial Airport,37.7873,-81.1242
-United States of America (the),Jacksonville (IL) ,US,West Virginia,BLF,KBLF,Mercer County Airport,37.2958,-81.2077
-United States of America (the),Nagoya ,US,West Virginia,CKB,KCKB,North Central West Virginia Airport,39.2966,-80.2281
-United States of America (the),Melbourne ,US,West Virginia,CRW,KCRW,Yeager Airport,38.3731,-81.5932
-United States of America (the),Huntington (WV),US,West Virginia,HTS,KHTS,Tri-State Airport (Milton J. Ferguson Field),38.3667,-82.558
-United States of America (the),Greenbrier/Lewisburg (WV),US,West Virginia,LWB,KLWB,Greenbrier Valley Airport,37.8583,-80.3995
-United States of America (the),Morgantown (WV),US,West Virginia,MGW,KMGW,Morgantown Municipal Airport (Walter L. Bill Hart Field),39.6429,-79.9163
-United States of America (the),Martinsburg (WV),US,West Virginia,MRB,KMRB,Eastern WV Regional Airport (Shepherd Field),39.4019,-77.9846
-United States of America (the),Pakersburg (WV) /Marietta (OH),US,West Virginia,PKB,KPKB,Mid-Ohio Valley Regional Airport,39.3451,-81.4392
-United States of America (the),Bridgetown ,US,Wisconsin,ATW,KATW,Appleton International Airport,44.2581,-88.5191
-United States of America (the),Wausau/Stevens Point (WI),US,Wisconsin,CWA,KCWA,Central Wisconsin Airport,44.7776,-89.6668
-United States of America (the),Tallinn ,US,Wisconsin,EAU,KEAU,Chippewa Valley Regional Airport,44.8658,-91.4843
-United States of America (the),Green Bay (WI),US,Wisconsin,GRB,KGRB,Austin Straubel International Airport,44.4851,-88.1296
-United States of America (the),Janesville (WI) ,US,Wisconsin,JVL,KJVL,Southern Wisconsin Regional Airport,42.6203,-89.0416
-United States of America (the),La Crosse (WI),US,Wisconsin,LSE,KLSE,La Crosse Regional Airport,43.879,-91.2567
-United States of America (the),Milwaukee (WI),US,Wisconsin,MKE,KMKE,General Mitchell International Airport,42.9472,-87.8966
-United States of America (the),Madison (WI) ,US,Wisconsin,MSN,KMSN,Dane County Regional Airport (Truax Field),43.1399,-89.3375
-United States of America (the),Oshkosh (WI),US,Wisconsin,OSH,KOSH,Wittman Regional Airport,43.9844,-88.557
-United States of America (the),Rhinelander (WI),US,Wisconsin,RHI,KRHI,Rhinelander-Oneida County Airport,45.6312,-89.4675
-United States of America (the),New York ,US,Wyoming,COD,KCOD,Yellowstone Regional Airport,44.5202,-109.024
-United States of America (the),Madras (Chennai) ,US,Wyoming,CPR,KCPR,Casper-Natrona County International Airport,42.908,-106.464
-United States of America (the),Midway Island ,US,Wyoming,CYS,KCYS,Cheyenne Regional Airport (Jerry Olson Field),41.1557,-104.812
-United States of America (the),Gilette (WY),US,Wyoming,GCC,KGCC,Gillette-Campbell County Airport,44.3489,-105.539
-United States of America (the),Jackson Hole (WY),US,Wyoming,JAC,KJAC,Jackson Hole Airport,43.6073,-110.738
-United States of America (the),Laramie (WY),US,Wyoming,LAR,KLAR,Laramie Regional Airport,41.3121,-105.675
-United States of America (the),Rock Springs (WY),US,Wyoming,RKS,KRKS,Southwest Wyoming Regional Airport,41.5942,-109.065
-United States of America (the),Sheridan (WY),US,Wyoming,SHR,KSHR,Sheridan County Airport,44.7692,-106.98
-United States of America (the),Worland (WY),US,Wyoming,WRL,KWRL,Worland Municipal Airport,43.9657,-107.951
+United States of America ,Bombay (Mumbai) ,US,Alabama,ANB,KANB,Anniston Regional Airport,33.5882,-85.8581
+United States of America ,Islamabad ,US,Alabama,BHM,KBHM,Birmingham-Shuttlesworth International Airport,33.5629,-86.7535
+United States of America ,Scarborough ,US,Alabama,DHN,KDHN,Dothan Regional Airport,31.3213,-85.4496
+United States of America ,Gadsden (AL),US,Alabama,GAD,KGAD,Northeast Alabama Regional Airport,33.9726,-86.089
+United States of America ,Huntsville (AL),US,Alabama,HSV,KHSV,Huntsville International Airport (Carl T. Jones Field),34.6372,-86.7751
+United States of America ,Montgomery (AL) ,US,Alabama,MGM,KMGM,Montgomery Regional Airport (Dannelly Field),32.3006,-86.394
+United States of America ,Mobile (AL) ,US,Alabama,MOB,KMOB,Mobile Regional Airport,30.6912,-88.2428
+United States of America ,Muscle Shoals (AL),US,Alabama,MSL,KMSL,Northwest Alabama Regional Airport,34.7453,-87.6102
+United States of America ,Tuscaloosa (AL),US,Alabama,TCL,KTCL,Tuscaloosa Regional Airport,33.2206,-87.6114
+United States of America ,Kodiak (AK),US,Alaska,ADQ,PADQ,Kodiak Airport,57.75,-152.494
+United States of America ,King Salomon (AK),US,Alaska,AKN,PAKN,King Salmon Airport,58.6768,-156.649
+United States of America ,Berne: Bern,US,Alaska,ANC,PANC,Ted Stevens Anchorage International Airport,61.1744,-149.996
+United States of America ,Hermosillo ,US,Alaska,BET,PABE,Bethel Airport,60.7798,-161.838
+United States of America ,Papeete ,US,Alaska,CDV,PACV,Merle K. (Mudhole) Smith Airport,60.4918,-145.478
+United States of America ,Phoenix (AZ) ,US,Alaska,CGA,,Craig Seaplane Base,55.4788,-133.148
+United States of America ,Santa Katarina ,US,Alaska,DLG,PADL,Dillingham Airport,59.0447,-158.505
+United States of America ,Suva ,US,Alaska,DUT,PADU,Unalaska Airport,53.9001,-166.544
+United States of America ,Kenai (AK),US,Alaska,ENA,PAEN,Kenai Municipal Airport,60.5731,-151.245
+United States of America ,Van ,US,Alaska,FAI,PAFA,Fairbanks International Airport,64.8151,-147.856
+United States of America ,Bagdad ,US,Alaska,HBH,,Entrance Island Seaplane Base (Hobart Bay),57.4122,-133.438
+United States of America ,Hoonah (AK),US,Alaska,HNH,PAOH,Hoonah Airport,58.0961,-135.41
+United States of America ,Haines (AK),US,Alaska,HNS,PAHN,Haines Airport,59.2438,-135.524
+United States of America ,Homer (AK),US,Alaska,HOM,PAHO,Homer Airport,59.6456,-151.477
+United States of America ,Hydaburg (AK),US,Alaska,HYG,PAHY,Hydaburg Seaplane Base,55.2063,-132.828
+United States of America ,Iliamna (AK),US,Alaska,ILI,PAIL,Iliamna Airport,59.7544,-154.911
+United States of America ,Juneau (AK) ,US,Alaska,JNU,PAJN,Juneau International Airport,58.355,-134.576
+United States of America ,New York ,US,Alaska,KCC,,Coffman Cove Seaplane Base,56.0032,-132.842
+United States of America ,Klawock (AK),US,Alaska,KLW,PAKW,Klawock Airport,55.5792,-133.076
+United States of America ,Thorne Bay (AK),US,Alaska,KTB,,Thorne Bay Seaplane Base,55.688,-132.537
+United States of America ,Ketchikan (AK),US,Alaska,KTN,PAKT,Ketchikan International Airport,55.3556,-131.714
+United States of America ,Mt. McKinley (AK),US,Alaska,MCL,PAIN,McKinley National Park Airport,63.7326,-148.911
+United States of America ,Metlakatla (AK),US,Alaska,MTM,PAMM,Metlakatla Seaplane Base,55.131,-131.578
+United States of America ,Nome (AK),US,Alaska,OME,PAOM,Nome Airport,64.5122,-165.445
+United States of America ,Kotzbue (AK),US,Alaska,OTZ,PAOT,Ralph Wien Memorial Airport,66.8847,-162.599
+United States of America ,Petersburg (AK),US,Alaska,PSG,PAPG,Petersburg James A. Johnson Airport,56.8017,-132.945
+United States of America ,Prudhoe Bay (AK),US,Alaska,SCC,PASC,Deadhorse Airport,70.1947,-148.465
+United States of America ,Skagway (AK),US,Alaska,SGY,PAGY,Skagway Airport,59.4601,-135.316
+United States of America ,Sitka (AK),US,Alaska,SIT,PASI,Sitka Rocky Gutierrez Airport,57.0471,-135.362
+United States of America ,Talkeetna (AK),US,Alaska,TKA,PATK,Talkeetna Airport,62.3205,-150.094
+United States of America ,Unalakleet (AK),US,Alaska,UNK,PAUN,Unalakleet Airport,63.8884,-160.799
+United States of America ,Valdez (AK),US,Alaska,VDZ,PAVD,Valdez Airport (Pioneer Field),61.1339,-146.248
+United States of America ,Wrangell (AK),US,Alaska,WRG,PAWG,Wrangell Airport,56.4843,-132.37
+United States of America ,Yakutat (AK),US,Alaska,YAK,PAYA,Yakutat Airport,59.5033,-139.66
+United States of America ,Fort Huachuca/Sierra Vista (AZ),US,Arizona,FHU,KFHU,Sierra Vista Municipal Airport (Libby Army Airfield),31.5885,-110.344
+United States of America ,Windhoek ,US,Arizona,FLG,KFLG,Flagstaff Pulliam Airport,35.1385,-111.671
+United States of America ,Grand Canyon (AZ),US,Arizona,GCN,KGCN,Grand Canyon National Park Airport,35.9524,-112.147
+United States of America ,Lake Havasu City (AZ),US,Arizona,HII,KHII,Lake Havasu City Airport,34.5711,-114.358
+United States of America ,Page/Lake Powell (AZ),US,Arizona,PGA,KPGA,Page Municipal Airport,36.9261,-111.448
+United States of America ,Phoenix (AZ) ,US,Arizona,PHX,KPHX,Phoenix Sky Harbor International Airport,33.4343,-112.012
+United States of America ,Scottsdale (AZ),US,Arizona,SCF,KSDL,Scottsdale Airport,33.6229,-111.911
+United States of America ,Tucson (AZ),US,Arizona,TUS,KTUS,Tucson International Airport,32.1161,-110.941
+United States of America ,Yuma (AZ),US,Arizona,YUM,KNYL,Yuma International Airport / MCAS Yuma,32.6566,-114.606
+United States of America ,Fort Smith (AR),US,Arkansas,FSM,KFSM,Fort Smith Regional Airport,35.3366,-94.3674
+United States of America ,Washington DC ,US,Arkansas,FYV,KFYV,Drake Field (Fayetteville Executive Airport),36.0051,-94.1701
+United States of America ,Jonesboro (AR)  Jonesboro Airport,US,Arkansas,JBR,KJBR,Jonesboro Municipal Airport,35.8317,-90.6464
+United States of America ,Little Rock (AR),US,Arkansas,LIT,KLIT,Clinton National Airport (Adams Field),34.7294,-92.2243
+United States of America ,Jacksonville (AR)  Little Rock AFB   ,US,Arkansas,LRF,KLRF,Little Rock Air Force Base,34.9169,-92.1497
+United States of America ,Texarkana (AR),US,Arkansas,TXK,KTXK,Texarkana Regional Airport (Webb Field),33.4537,-93.991
+United States of America ,Urubupunga ,US,California,ACV,KACV,Arcata-Eureka Airport,40.9781,-124.109
+United States of America ,Concord (NH) ,US,California,BFL,KBFL,Meadows Field Airport,35.4336,-119.057
+United States of America ,Kuala Lumpur ,US,California,BUR,KBUR,Bob Hope Airport,34.2007,-118.359
+United States of America ,Jefferson City (MO) ,US,California,BXS,,Borrego Valley Airport,33.259,-116.321
+United States of America ,Orkney ,US,California,CCR,KCCR,Buchanan Field Airport,37.9897,-122.057
+United States of America ,Pisa ,US,California,CEC,KCEC,Del Norte County Airport (Jack McNamara Field),41.7802,-124.237
+United States of America ,Mombasa ,US,California,CIC,KCIC,Chico Municipal Airport,39.7954,-121.858
+United States of America ,Lyon ,US,California,CLD,KCRQ,McClellan-Palomar Airport,33.1283,-117.28
+United States of America ,Fresno (CA),US,California,FAT,KFAT,Fresno Yosemite International Airport,36.7762,-119.718
+United States of America ,Imperial (CA),US,California,IPL,KIPL,Imperial County Airport (Boley Field),32.8342,-115.579
+United States of America ,Inykern (CA),US,California,IYK,KIYK,Inyokern Airport,35.6588,-117.83
+United States of America ,Los Angeles (CA) ,US,California,LAX,KLAX,Los Angeles International Airport,33.9425,-118.408
+United States of America ,Long Beach (CA),US,California,LGB,KLGB,Long Beach Airport,33.8177,-118.152
+United States of America ,Merced (CA),US,California,MCE,KMCE,Merced Regional Airport (MacReady Field),37.2847,-120.514
+United States of America ,Modesto (CA),US,California,MOD,KMOD,Modesto City-County Airport (Harry Sham Field),37.6258,-120.954
+United States of America ,Monterey (CA),US,California,MRY,KMRY,Monterey Regional Airport,36.587,-121.843
+United States of America ,Oakland (CA),US,California,OAK,KOAK,Oakland International Airport,37.7213,-122.221
+United States of America ,Ontario (CA),US,California,ONT,KONT,Ontario International Airport,34.056,-117.601
+United States of America ,Oxnard (CA),US,California,OXR,KOXR,Oxnard Airport,34.2008,-119.207
+United States of America ,Palmdale/Lancaster (CA),US,California,PMD,KPMD,Palmdale Regional Airport,34.6294,-118.085
+United States of America ,Palm Springs (CA),US,California,PSP,KPSP,Palm Springs International Airport,33.8297,-116.507
+United States of America ,Redding (CA),US,California,RDD,KRDD,Redding Municipal Airport,40.509,-122.293
+United States of America ,San Diego ,US,California,SAN,KSAN,San Diego International Airport,32.7336,-117.19
+United States of America ,Santa Barbara (CA),US,California,SBA,KSBA,Santa Barbara Municipal Airport,34.4262,-119.84
+United States of America ,San Luis Obisco (CA),US,California,SBP,KSBP,San Luis Obispo County Regional Airport (McChesney Field),35.2368,-120.642
+United States of America ,Stockton (CA),US,California,SCK,KSCK,Stockton Metropolitan Airport,37.8942,-121.238
+United States of America ,San Francisco ,US,California,SFO,KSFO,San Francisco International Airport,37.619,-122.375
+United States of America ,San Jose (CA),US,California,SJC,KSJC,San Jose International Airport,37.3626,-121.929
+United States of America ,Sacramento (CA),US,California,SMF,KSMF,Sacramento International Airport,38.6954,-121.591
+United States of America ,Santa Maria (CA),US,California,SMX,KSMX,Santa Maria Public Airport (Capt. G. Allan Hancock Field),34.8989,-120.457
+United States of America ,Orange County (Santa Ana) (CA),US,California,SNA,KSNA,John Wayne Airport (Orange County Airport),33.6757,-117.868
+United States of America ,Salinas (CA),US,California,SNS,KSNS,Salinas Municipal Airport,36.6628,-121.606
+United States of America ,Santa Rosa (CA),US,California,STS,KSTS,Charles M. Schulz-Sonoma County A,38.509,-122.813
+United States of America ,Amsterdam ,US,California,SUM,KSMS,Sumter Airport,33.995,-80.3613
+United States of America ,Lake Tahoe (CA),US,California,TVL,KTVL,Lake Tahoe Airport,38.8939,-119.995
+United States of America ,Ukiah (CA),US,California,UKI,KUKI,Ukiah Municipal Airport,39.126,-123.201
+United States of America ,Visalia (CA),US,California,VIS,KVIS,Visalia Municipal Airport,36.3187,-119.393
+United States of America ,Caracas ,US,Colorado,ASE,KASE,Aspen-Pitkin County Airport (Sardy Field),39.2232,-106.869
+United States of America ,Nuku'alofa ,US,Colorado,COS,KCOS,Colorado Springs Airport,38.8058,-104.701
+United States of America ,Rostov,US,Colorado,DEN,KDEN,Denver International Airport,39.8617,-104.673
+United States of America ,Strasbourg ,US,Colorado,DRO,KDRO,Durango-La Plata County Airport,37.1515,-107.754
+United States of America ,Vail (CO),US,Colorado,EGE,KEGE,Eagle County Regional Airport,39.6426,-106.918
+United States of America ,Grand Junction (CO),US,Colorado,GJT,KGJT,Grand Junction Regional Airport (Walker Field),39.1224,-108.527
+United States of America ,Gunnison/Crested Butte (CO),US,Colorado,GUC,KGUC,Gunnison-Crested Butte Regional Airport,38.5339,-106.933
+United States of America ,Steamboat Springs (CO),US,Colorado,HDN,KHDN,Yampa Valley Airport,40.4812,-107.218
+United States of America ,Montrose/Tellruide (CO),US,Colorado,MTJ,KMTJ,Montrose Regional Airport,38.5098,-107.894
+United States of America ,Pueblo (CO),US,Colorado,PUB,KPUB,Pueblo Memorial Airport,38.2891,-104.497
+United States of America ,Telluride (CO),US,Colorado,TEX,KTEX,Telluride Regional Airport,37.9538,-107.908
+United States of America ,Hartford (CT) /Springfield (MA),US,Connecticut,BDL,KBDL,Bradley International Airport,41.9392,-72.6833
+United States of America ,Joinville ,US,Connecticut,BDR,KBDR,Igor I. Sikorsky Memorial Airport,41.1635,-73.1262
+United States of America ,Groton/New London (CT),US,Connecticut,GON,KGON,Groton-New London Airport,41.3301,-72.0451
+United States of America ,New Haven (CT),US,Connecticut,HVN,KHVN,Tweed New Haven Airport,41.2637,-72.8868
+United States of America ,Naples (FL),US,Florida,APF,KAPF,Naples Municipal Airport,26.1526,-81.7753
+United States of America ,Jacksonville (FL) ,US,Florida,CRG,KCRG,Jacksonville Executive at Craig Airport,30.3363,-81.5144
+United States of America ,Rio Branco ,US,Florida,DAB,KDAB,Daytona Beach International Airport,29.1799,-81.0581
+United States of America ,Key West (FL),US,Florida,EYW,KEYW,Key West International Airport,24.5561,-81.7596
+United States of America ,Fort Lauderdale/Hollywood (FL),US,Florida,FLL,KFLL,Fort Lauderdale-Hollywood International Airport,26.0726,-80.1527
+United States of America ,Fort Myers: Metropolitan Area (FL),US,Florida,FMY,KFMY,Page Field,26.5866,-81.8633
+United States of America ,Gainesville (FL),US,Florida,GNV,KGNV,Gainesville Regional Airport,29.6901,-82.2718
+United States of America ,Jacksonville (FL) ,US,Florida,JAX,KJAX,Jacksonville International Airport,30.4941,-81.6879
+United States of America ,Orlando ,US,Florida,MCO,KMCO,Orlando International Airport,28.4294,-81.309
+United States of America ,Miami (FL),US,Florida,MIA,KMIA,Miami International Airport,25.7932,-80.2906
+United States of America ,Melbourne (FL),US,Florida,MLB,KMLB,Orlando Melbourne International Airport,28.1028,-80.6453
+United States of America ,Marathon (FL),US,Florida,MTH,KMTH,Florida Keys Marathon Airport,24.7261,-81.0514
+United States of America ,Jacksonville (FL) Jacksonville NAS   ,US,Florida,NIP,KNIP,NAS Jacksonville (Towers Field),30.2358,-81.6806
+United States of America ,Orlando Metropolitan Area (FL),US,Florida,ORL,KORL,Orlando Executive Airport,28.5455,-81.3329
+United States of America ,West Palm Beach (FL),US,Florida,PBI,KPBI,Palm Beach International Airport,26.6832,-80.0956
+United States of America ,Pensacola (FL),US,Florida,PNS,KPNS,Pensacola International Airport,30.4734,-87.1866
+United States of America ,Fort Myers: Southwest Florida Reg (FL),US,Florida,RSW,KRSW,Southwest Florida International Airport,26.5362,-81.7552
+United States of America ,Sarasota/Bradenton (FL),US,Florida,SRQ,KSRQ,Sarasota-Bradenton International Airport,27.3954,-82.5544
+United States of America ,Tallahassee (FL),US,Florida,TLH,KTLH,Tallahassee International Airport,30.3965,-84.3503
+United States of America ,Tampa ,US,Florida,TPA,KTPA,Tampa International Airport,27.9755,-82.5332
+United States of America ,Fort Walton Beach (FL),US,Florida,VPS,KVPS,Destin-Fort Walton Beach Airport / Eglin Air Force Base,30.4832,-86.5254
+United States of America ,Vero Beach/Ft. Pierce (FL),US,Florida,VRB,KVRB,Vero Beach Regional Airport,27.6556,-80.4179
+United States of America ,Asuncion ,US,Georgia,ABY,KABY,Southwest Georgia Regional Airport,31.5355,-84.1945
+United States of America ,Chihuahua ,US,Georgia,AGS,KAGS,Augusta Regional Airport at Bush Field,33.3699,-81.9645
+United States of America ,Cebu City ,US,Georgia,AHN,KAHN,Athens Ben Epps Airport,33.9486,-83.3263
+United States of America ,Chaoyang: Beijing ,US,Georgia,ATL,KATL,Hartsfield-Jackson Atlanta International Airport,33.6367,-84.4281
+United States of America ,Kathmandu ,US,Georgia,BQK,KBQK,Brunswick Golden Isles Airport,31.2588,-81.4665
+United States of America ,Okinawa: Ryukyo Island ,US,Georgia,CSG,KCSG,Columbus Airport,32.5163,-84.9389
+United States of America ,Macon (GA),US,Georgia,MCN,KMCN,Middle Georgia Regional Airport,32.6928,-83.6492
+United States of America ,Savannah (GA),US,Georgia,SAV,KSAV,Savannah/Hilton Head International Airport,32.1276,-81.2021
+United States of America ,Valdosta (GA),US,Georgia,VLD,KVLD,Valdosta Regional Airport,30.7825,-83.2767
+United States of America ,Honolulu (HI) ,US,Hawaii,HNL,PHNL,Daniel K. Inouye International Airport,21.3206,-157.924
+United States of America ,Hilo (HI),US,Hawaii,ITO,PHTO,Hilo International Airport,19.7214,-155.048
+United States of America ,Kapalua West (HI),US,Hawaii,JHM,PHJH,Kapalua Airport,20.9629,-156.673
+United States of America ,Kona (HI),US,Hawaii,KOA,PHKO,Kona International Airport at Keahole,19.7388,-156.046
+United States of America ,Lihue (HI),US,Hawaii,LIH,PHLI,Lihue Airport,21.976,-159.339
+United States of America ,Lanai City (HI),US,Hawaii,LNY,PHNY,Lanai Airport,20.7856,-156.951
+United States of America ,Midway Island ,US,Hawaii,MDY,PMDY,Henderson Field,28.2017,-177.381
+United States of America ,Kaunakakai (HI),US,Hawaii,MKK,PHMK,Molokai Airport,21.1529,-157.096
+United States of America ,Kamuela (HI),US,Hawaii,MUE,PHMU,Waimea-Kohala Airport,20.0013,-155.668
+United States of America ,Kahului (HI),US,Hawaii,OGG,PHOG,Kahului Airport,20.8986,-156.43
+United States of America ,Upolu Point (HI),US,Hawaii,UPP,PHUP,Upolu Airport,20.2653,-155.86
+United States of America ,Jambi ,US,Idaho,BOI,KBOI,Boise Air Terminal (Gowen Field),43.5644,-116.223
+United States of America ,Idaho Falls (ID),US,Idaho,IDA,KIDA,Idaho Falls Regional Airport,43.5136,-112.071
+United States of America ,Lewiston (ID),US,Idaho,LWS,KLWS,Lewiston-Nez Perce County Airport,46.3745,-117.015
+United States of America ,Pocatello (ID),US,Idaho,PIH,KPIH,Pocatello Regional Airport,42.9098,-112.596
+United States of America ,Sun Valley (ID),US,Idaho,SUN,KSUN,Friedman Memorial Airport,43.5044,-114.296
+United States of America ,Twin Falls (ID),US,Idaho,TWF,KTWF,Magic Valley Regional Airport (Joslin Field),42.4818,-114.488
+United States of America ,Jacksonville (FL) ,US,Illinois,BMI,KBMI,Central Illinois Regional Airport,40.4771,-88.9159
+United States of America ,Marseille ,US,Illinois,CMI,KCMI,University of Illinois Willard Airport,40.0392,-88.2781
+United States of America ,Rio de Janeiro ,US,Illinois,DEC,KDEC,Decatur Airport,39.8346,-88.8657
+United States of America ,Jacksonville (IL) ,US,Illinois,IJX,KIJX,Jacksonville Municipal Airport,39.7707,-90.238
+United States of America ,Milan ,US,Illinois,MDW,KMDW,Chicago Midway International Airport,41.7861,-87.7525
+United States of America ,Moline/Quad Cities (IL),US,Illinois,MLI,KMLI,Quad City International Airport,41.4485,-90.5075
+United States of America ,Mattoon (IL),US,Illinois,MTO,KMTO,Coles County Memorial Airport,39.4779,-88.2792
+United States of America ,Minneapolis ,US,Illinois,ORD,KORD,Chicago O'Hare International Airport,41.9786,-87.9047
+United States of America ,Peoria/Bloomington (IL),US,Illinois,PIA,KPIA,General Wayne A. Downing Peoria International Airport,40.6642,-89.6933
+United States of America ,Rockford (IL),US,Illinois,RFD,KRFD,Chicago Rockford International Airport,42.1953,-89.0972
+United States of America ,Springfield (IL),US,Illinois,SPI,KSPI,Abraham Lincoln Capital Airport,39.8441,-89.6779
+United States of America ,Quincy (IL),US,Illinois,UIN,KUIN,Quincy Regional Airport (Baldwin Field),39.9427,-91.1946
+United States of America ,Jacksonville (FL) ,US,Indiana,BMG,KBMG,Monroe County Airport,39.146,-86.6167
+United States of America ,Thessaloniki ,US,Indiana,EKI,KEKM,Elkhart Municipal Airport,41.7194,-86.0032
+United States of America ,Uruguaiana ,US,Indiana,EVV,KEVV,Evansville Regional Airport,38.037,-87.5324
+United States of America ,Fort Wayne (IN),US,Indiana,FWA,KFWA,Fort Wayne International Airport,40.9785,-85.1951
+United States of America ,Indianapolis (IN) International,US,Indiana,IND,KIND,Indianapolis International Airport,39.7173,-86.2944
+United States of America ,Lafayette (IN),US,Indiana,LAF,KLAF,Purdue University Airport,40.4123,-86.9369
+United States of America ,South Bend (IN),US,Indiana,SBN,KSBN,South Bend International Airport,41.7087,-86.3173
+United States of America ,Waterloo IA,US,Iowa,ALO,KALO,Waterloo Regional Airport,42.5571,-92.4003
+United States of America ,Kuwait ,US,Iowa,BRL,KBRL,Southeast Iowa Regional Airport,40.7832,-91.1255
+United States of America ,Manila ,US,Iowa,CID,KCID,The Eastern Iowa Airport,41.8847,-91.7108
+United States of America ,Singapore ,US,Iowa,DBQ,KDBQ,Dubuque Regional Airport,42.402,-90.7095
+United States of America ,Salvador ,US,Iowa,DSM,KDSM,Des Moines International Airport,41.534,-93.6631
+United States of America ,Fort Dodge IA,US,Iowa,FOD,KFOD,Fort Dodge Regional Airport,42.5515,-94.1926
+United States of America ,Mason City IA,US,Iowa,MCW,KMCW,Mason City Municipal Airport,43.1578,-93.3313
+United States of America ,Omaha (NE),US,Iowa,OMA,KOMA,Eppley Airfield,41.3032,-95.8941
+United States of America ,Sioux City IA,US,Iowa,SUX,KSUX,Sioux Gateway Airport (Colonel Bud Day Field),42.4026,-96.3844
+United States of America ,Fort Riley (KS) ,US,Kansas,FRI,KFRI,Marshall Army Airfield,39.0553,-96.7645
+United States of America ,Wichita (KS),US,Kansas,ICT,KICT,Wichita Dwight D. Eisenhower National Airport,37.6499,-97.4331
+United States of America ,Lyons (KS) ,US,Kansas,LYO,KLYO,Lyons-Rice County Municipal Airport,38.3428,-98.2269
+United States of America ,Moscow ,US,Kentucky,CVG,KCVG,Cincinnati/Northern Kentucky International Airport,39.0488,-84.6678
+United States of America ,Lexington (KY),US,Kentucky,LEX,KLEX,Blue Grass Airport,38.0365,-84.6059
+United States of America ,Owensboro (KY),US,Kentucky,OWB,KOWB,Owensboro-Daviess County Airport,37.7401,-87.1668
+United States of America ,Paducah (KY),US,Kentucky,PAH,KPAH,Barkley Regional Airport,37.0608,-88.7738
+United States of America ,Louisville (KY),US,Kentucky,SDF,KSDF,Louisville International Airport (Standiford Field),38.1744,-85.736
+United States of America ,Faroer ,US,Louisiana,BTR,KBTR,Baton Rouge Metropolitan Airport (Ryan Field),30.5332,-91.1496
+United States of America ,Bahrain ,US,Louisiana,ESF,KESF,Esler Airfield (Esler Regional Airport),31.3949,-92.2958
+United States of America ,Lake Charles (LA),US,Louisiana,LCH,KLCH,Lake Charles Regional Airport,30.1261,-93.2233
+United States of America ,Lafayette: La,US,Louisiana,LFT,KLFT,Lafayette Regional Airport,30.2053,-91.9876
+United States of America ,Monroe (LA),US,Louisiana,MLU,KMLU,Monroe Regional Airport,32.5109,-92.0377
+United States of America ,New Orleans: La,US,Louisiana,MSY,KMSY,Louis Armstrong New Orleans International Airport,29.9934,-90.258
+United States of America ,Shreveport: La,US,Louisiana,SHV,KSHV,Shreveport Regional Airport,32.4466,-93.8256
+United States of America ,Chisinau ,US,Maine,AUG,KAUG,Augusta State Airport,44.3206,-69.7973
+United States of America ,Denver (CO) ,US,Maine,BGR,KBGR,Bangor International Airport,44.8074,-68.8281
+United States of America ,Presque Island (ME),US,Maine,PQI,KPQI,Northern Maine Regional Airport at Presque Isle,46.689,-68.0448
+United States of America ,Portland (ME),US,Maine,PWM,KPWM,Portland International Jetport,43.6462,-70.3093
+United States of America ,Rockland (ME),US,Maine,RKD,KRKD,Knox County Regional Airport,44.0601,-69.0992
+United States of America ,Cotonou ,US,Maryland,BWI,KBWI,Baltimore/Washington International Airport,39.1753,-76.6683
+United States of America ,Salisbury (MD),US,Maryland,SBY,KSBY,Salisbury-Ocean City-Wicomico Regional Airport,38.3405,-75.5103
+United States of America ,Nantucket (MA),US,Massachusetts,ACK,KACK,Nantucket Memorial Airport,41.2531,-70.0602
+United States of America ,Jeremie ,US,Massachusetts,BOS,KBOS,Logan International Airport,42.3643,-71.0052
+United States of America ,Ancona ,US,Massachusetts,BQN,TJBQ,Rafael Hernandez Airport,18.4949,-67.1294
+United States of America ,Hyannis (MA),US,Massachusetts,HYA,KHYA,Barnstable Municipal Airport (Boardman/Polando Field),41.6693,-70.2804
+United States of America ,Mayaguez,US,Massachusetts,MAZ,TJMZ,Eugenio Maria de Hostos Airport,18.2557,-67.1485
+United States of America ,Martha's Vineyard (MA),US,Massachusetts,MVY,KMVY,Martha's Vineyard Airport,41.3931,-70.6143
+United States of America ,Worcester (MA),US,Massachusetts,ORH,KORH,Worcester Regional Airport,42.2673,-71.8757
+United States of America ,Bogota ,US,Michigan,ARB,KARB,Ann Arbor Municipal Airport,42.223,-83.7456
+United States of America ,Kalamazoo/Battle Creek (MI),US,Michigan,AZO,KAZO,Kalamazoo/Battle Creek International Airport,42.2349,-85.5521
+United States of America ,Sao Paulo ,US,Michigan,BEH,KBEH,Southwest Michigan Regional Airport,42.1286,-86.4285
+United States of America ,Hancock (MI),US,Michigan,CMX,KCMX,Houghton County Memorial Airport,47.1684,-88.4891
+United States of America ,Samara ,US,Michigan,DTW,KDTW,Detroit Metro Wayne County Airport,42.2125,-83.3533
+United States of America ,Ulan,US,Michigan,ESC,KESC,Delta County Airport,45.7227,-87.0937
+United States of America ,Yangon (Rangoon) ,US,Michigan,FNT,KFNT,Bishop International Airport,42.9654,-83.7436
+United States of America ,Grand Rapids (MI),US,Michigan,GRR,KGRR,Gerald R. Ford International Airport,42.8808,-85.5228
+United States of America ,Jackson (MI) ,US,Michigan,JXN,KJXN,Jackson County Airport (Reynolds Field),42.2598,-84.4594
+United States of America ,Lansing (MI),US,Michigan,LAN,KLAN,Capital Region International Airport,42.7787,-84.5874
+United States of America ,Saginaw/Bay City/Midland (MI),US,Michigan,MBS,KMBS,MBS International Airport,43.5329,-84.0796
+United States of America ,Muskegon (MI),US,Michigan,MKG,KMKG,Muskegon County Airport,43.1695,-86.2382
+United States of America ,Marquette (MI),US,Michigan,MQT,KSAW,Sawyer International Airport,46.3536,-87.3954
+United States of America ,Pellston (MI),US,Michigan,PLN,KPLN,Pellston Regional Airport (Emmet County),45.5709,-84.7967
+United States of America ,Traverse City (MI),US,Michigan,TVC,KTVC,Cherry Capital Airport,44.7414,-85.5822
+United States of America ,Grenada ,US,Minnesota,BJI,KBJI,Bemidji Regional Airport,47.5094,-94.9337
+United States of America ,Jinghong ,US,Minnesota,BRD,KBRD,Brainerd Lakes Regional Airport,46.3983,-94.1381
+United States of America ,Southampton ,US,Minnesota,DLH,KDLH,Duluth International Airport,46.8421,-92.1936
+United States of America ,Grand Rapids (MN),US,Minnesota,GPZ,KGPZ,Grand Rapids-Itasca County Airport (Gordon Newstrom Field),47.2111,-93.5098
+United States of America ,Hibbing (MN),US,Minnesota,HIB,KHIB,Range Regional Airport,47.3866,-92.839
+United States of America ,International Falls (MN),US,Minnesota,INL,KINL,Falls International Airport,48.5662,-93.4031
+United States of America ,Jackson:  MN  ,US,Minnesota,MJQ,KMJQ,Jackson Municipal Airport,43.65,-94.9867
+United States of America ,Minneapolis ,US,Minnesota,MSP,KMSP,Minneapolis-Saint Paul International Airport (Wold-Chamberlain Field),44.882,-93.2218
+United States of America ,Rochester (MN),US,Minnesota,RST,KRST,Rochester International Airport,43.9083,-92.5
+United States of America ,Thief River Falls (MN),US,Minnesota,TVF,KTVF,Thief River Falls Regional Airport,48.0657,-96.185
+United States of America ,Greenville (MS),US,Mississippi,GLH,KGLH,Mid-Delta Regional Airport,33.4829,-90.9856
+United States of America ,Gulfport/Biloxi (MS),US,Mississippi,GPT,KGPT,Gulfport-Biloxi International Airport,30.4073,-89.0701
+United States of America ,Jackson (MS) ,US,Mississippi,HKS,KHKS,Hawkins Field,32.3345,-90.2222
+United States of America ,Jackson (MS) ,US,Mississippi,JAN,KJAN,Jackson-Evers International Airport,32.3112,-90.0759
+United States of America ,Meridian (MS),US,Mississippi,MEI,KMEI,Meridian Regional Airport (Key Field),32.3326,-88.7519
+United States of America ,Laurel/Hattisburg (MS),US,Mississippi,PIB,KPIB,Hattiesburg-Laurel Regional Airport,31.4671,-89.3371
+United States of America ,Tulepo (MS),US,Mississippi,TUP,KTUP,Tupelo Regional Airport,34.2681,-88.7699
+United States of America ,Jefferson City (MO) ,US,Missouri,JEF,KJEF,Jefferson City Memorial Airport,38.5912,-92.1561
+United States of America ,Joplin (MO),US,Missouri,JLN,KJLN,Joplin Regional Airport,37.1518,-94.4983
+United States of America ,Kansas City (MO) ,US,Missouri,MCI,KMCI,Kansas City International Airport,39.2976,-94.7139
+United States of America ,Springfield (MO),US,Missouri,SGF,KSGF,Springfield-Branson National Airport,37.2457,-93.3886
+United States of America ,St. Louis (MO) Lambert–St. Louis International Airport,US,Missouri,STL,KSTL,Lambert-St. Louis International Airport,38.7487,-90.37
+United States of America ,Houston: TX ,US,Montana,BIL,KBIL,Billings Logan International Airport,45.8077,-108.543
+United States of America ,La Paz ,US,Montana,BTM,KBTM,Bert Mooney Airport,45.9548,-112.497
+United States of America ,Jiamusi ,US,Montana,BZN,KBZN,Bozeman Yellowstone International Airport (Gallatin Field),45.7775,-111.153
+United States of America ,Kalispell (MT),US,Montana,FCA,KGPI,Glacier Park International Airport,48.3105,-114.256
+United States of America ,Glendive (MT),US,Montana,GDV,KGDV,Dawson Community Airport,47.1387,-104.807
+United States of America ,Glasgow (MT),US,Montana,GGW,KGGW,Glasgow Airport (Wokal Field),48.2125,-106.615
+United States of America ,Great Falls (MT),US,Montana,GTF,KGTF,Great Falls International Airport,47.482,-111.371
+United States of America ,Helena (MT),US,Montana,HLN,KHLN,Helena Regional Airport,46.6068,-111.983
+United States of America ,Havre (MT),US,Montana,HVR,KHVR,Havre City-County Airport,48.543,-109.762
+United States of America ,Lewistown (MT),US,Montana,LWT,KLWT,Lewistown Municipal Airport,47.0493,-109.467
+United States of America ,Miles City (MT),US,Montana,MLS,KMLS,Miles City Airport (Frank Wiley Field),46.428,-105.886
+United States of America ,Missula (MT),US,Montana,MSO,KMSO,Missoula International Airport,46.9163,-114.091
+United States of America ,Wolf Point (MT),US,Montana,OLF,KOLF,L. M. Clayton Airport,48.0945,-105.575
+United States of America ,Sidney (MT),US,Montana,SDY,KSDY,Sidney-Richland Municipal Airport,47.7069,-104.193
+United States of America ,West Yellowstone (MT),US,Montana,WYS,KWYS,Yellowstone Airport,44.6884,-111.118
+United States of America ,Lincoln (NE),US,Nebraska,LNK,KLNK,Lincoln Airport,40.851,-96.7592
+United States of America ,Macau ,US,Nevada,CSN,KCXP,Carson Airport,39.1922,-119.734
+United States of America ,Tijuana ,US,Nevada,EKO,KEKO,Elko Regional Airport,40.8249,-115.792
+United States of America ,Toronto ,US,Nevada,ELY,KELY,Ely Airport,39.2997,-114.842
+United States of America ,Las Vegas (NV),US,Nevada,LAS,KLAS,Harry Reid International Airport,36.0801,-115.152
+United States of America ,Reno (NV),US,Nevada,RNO,KRNO,Reno-Tahoe International Airport,39.4991,-119.768
+United States of America ,Orlando ,US,New Hampshire,CON,KCON,Concord Municipal Airport,43.2027,-71.5023
+United States of America ,Lebanon (NH),US,New Hampshire,LEB,KLEB,Lebanon Municipal Airport,43.6261,-72.3042
+United States of America ,Manchester (NH),US,New Hampshire,MHT,KMHT,Manchester-Boston Regional Airport,42.9326,-71.4357
+United States of America ,Charleston (WV) ,US,New Jersey,ACY,KACY,Atlantic City International Airport,39.4576,-74.5772
+United States of America ,New York ,US,New Jersey,EWR,KEWR,Newark Liberty International Airport,40.6925,-74.1686
+United States of America ,Trenton/Princeton (NJ),US,New Jersey,TTN,KTTN,Trenton-Mercer Airport,40.2767,-74.8135
+United States of America ,Atlantic City (NJ) ,US,New Mexico,ABQ,KABQ,Albuquerque International Sunport,35.0402,-106.609
+United States of America ,Vitoria ,US,New Mexico,FMN,KFMN,Four Corners Regional Airport,36.7412,-108.23
+United States of America ,Aswan ,US,New York,ALB,KALB,Albany International Airport,42.7483,-73.8017
+United States of America ,Johnson City (NY) ,US,New York,BGM,KBGM,Greater Binghamton Airport (Edwin A. Link Field),42.2087,-75.9798
+United States of America ,Kinshasa ,US,New York,BUF,KBUF,Buffalo Niagara International Airport,42.9405,-78.7322
+United States of America ,Tokyo ,US,New York,ELM,KELM,Elmira/Corning Regional Airport,42.1599,-76.8916
+United States of America ,White Plains (NY),US,New York,HPN,KHPN,Westchester County Airport,41.067,-73.7076
+United States of America ,Niagara Falls International,US,New York,IAG,KIAG,Niagara Falls International Airport,43.1073,-78.9462
+United States of America ,Long Island: Islip (NY) ,US,New York,ISP,KISP,Long Island MacArthur Airport,40.7952,-73.1002
+United States of America ,Ithaca/Cortland (NY),US,New York,ITH,KITH,Ithaca Tompkins Regional Airport,42.491,-76.4584
+United States of America ,New York ,US,New York,JFK,KJFK,John F. Kennedy International Airport,40.6397,-73.7789
+United States of America ,Jamestown (NY),US,New York,JHW,KJHW,Chautauqua County-Jamestown Airport,42.1534,-79.258
+United States of America ,New York ,US,New York,LGA,KLGA,LaGuardia Airport,40.775,-73.875
+United States of America ,Poughkeepsie (NY),US,New York,POU,KPOU,Dutchess County Airport,41.6266,-73.8842
+United States of America ,Rochester (NY),US,New York,ROC,KROC,Greater Rochester International Airport,43.1189,-77.6724
+United States of America ,Newburgh (NY),US,New York,SWF,KSWF,New York Stewart International Airport,41.5042,-74.1047
+United States of America ,Syracuse (NY),US,New York,SYR,KSYR,Syracuse Hancock International Airport,43.1112,-76.1063
+United States of America ,Canberra ,US,North Carolina,AVL,KAVL,Asheville Regional Airport,35.4362,-82.5418
+United States of America ,Metz ,US,North Carolina,CLT,KCLT,Charlotte Douglas International Airport,35.214,-80.9431
+United States of America ,New Bern (NC),US,North Carolina,EWN,KEWN,Coastal Carolina Regional Airport,35.073,-77.0429
+United States of America ,Washington DC ,US,North Carolina,FAY,KFAY,Fayetteville Regional Airport (Grannis Field),34.9912,-78.8803
+United States of America ,Greensboro/Winston Salem (NC),US,North Carolina,GSO,KGSO,Piedmont Triad International Airport,36.0978,-79.9373
+United States of America ,Hickory (NC),US,North Carolina,HKY,KHKY,Hickory Regional Airport,35.7411,-81.3895
+United States of America ,Wilmington (NC),US,North Carolina,ILM,KILM,Wilmington International Airport,34.2706,-77.9026
+United States of America ,Kingston (NC),US,North Carolina,ISO,KISO,Kinston Regional Jetport (Stallings Field),35.3314,-77.6088
+United States of America ,Jacksonville (NC),US,North Carolina,OAJ,KOAJ,Albert J. Ellis Airport,34.8292,-77.6121
+United States of America ,Greenville (NC),US,North Carolina,PGV,KPGV,Pitt-Greenville Airport,35.6352,-77.3853
+United States of America ,Raleigh/Durham (NC),US,North Carolina,RDU,KRDU,Raleigh-Durham International Airport,35.8776,-78.7875
+United States of America ,Rocky Mount ,US,North Carolina,RWI,KRWI,Rocky Mount-Wilson Regional Airport,35.8563,-77.8919
+United States of America ,Istanbul ,US,North Dakota,BIS,KBIS,Bismarck Municipal Airport,46.7727,-100.746
+United States of America ,San Diego ,US,North Dakota,DVL,KDVL,Devils Lake Regional Airport (Devils Lake Municipal Airport),48.1142,-98.9088
+United States of America ,Vientiane ,US,North Dakota,FAR,KFAR,Hector International Airport,46.9207,-96.8158
+United States of America ,Grand Forks (ND),US,North Dakota,GFK,KGFK,Grand Forks International Airport,47.9493,-97.1761
+United States of America ,Jamestown (ND),US,North Dakota,JMS,KJMS,Jamestown Regional Airport,46.9297,-98.6782
+United States of America ,Minot (ND),US,North Dakota,MOT,KMOT,Minot International Airport,48.2594,-101.28
+United States of America ,Chandigarh ,US,Ohio,ATO,KUNI,Ohio University Airport (Snyder Field),39.211,-82.2314
+United States of America ,Natal ,US,Ohio,BKL,KBKL,Cleveland Burke Lakefront Airport,41.5175,-81.6833
+United States of America ,Aruba ,US,Ohio,CAK,KCAK,Akron-Canton Airport,40.9161,-81.4422
+United States of America ,Naxos ,US,Ohio,CLE,KCLE,Cleveland Hopkins International Airport,41.4117,-81.8498
+United States of America ,Oklahoma City (OK) ,US,Ohio,CMH,KCMH,John Glenn Columbus International Airport,39.998,-82.8919
+United States of America ,Reykjavik ,US,Ohio,DAY,KDAY,Dayton International Airport,39.9024,-84.2194
+United States of America ,Toledo (OH),US,Ohio,TOL,KTOL,Toledo Express Airport,41.5868,-83.8078
+United States of America ,Belem ,US,Oklahoma,AXS,KAXS,Altus/Quartz Mountain Regional Airport,34.698,-99.3385
+United States of America ,Lawton (OK),US,Oklahoma,LAW,KLAW,Lawton-Fort Sill Regional Airport,34.5677,-98.4166
+United States of America ,Oklahoma City (OK) ,US,Oklahoma,OKC,KOKC,Will Rogers World Airport,35.3931,-97.6007
+United States of America ,Tulsa (OK),US,Oklahoma,TUL,KTUL,Tulsa International Airport,36.1984,-95.8881
+United States of America ,Upernavik ,US,Oregon,EUG,KEUG,Eugene Airport (Mahlon Sweet Airport),44.1246,-123.212
+United States of America ,Klamath Fall (OR),US,Oregon,LMT,KLMT,Klamath Falls Airport,42.1561,-121.733
+United States of America ,Medford (OR),US,Oregon,MFR,KMFR,Rogue Valley International-Medford Airport,42.3742,-122.873
+United States of America ,North Bend (OR),US,Oregon,OTH,KOTH,Southwest Oregon Regional Airport,43.4171,-124.246
+United States of America ,Pendelton (OR),US,Oregon,PDT,KPDT,Eastern Oregon Regional Airport,45.6951,-118.841
+United States of America ,Portland International (OR),US,Oregon,PDX,KPDX,Portland International Airport,45.5887,-122.598
+United States of America ,Redmond (OR),US,Oregon,RDM,KRDM,Roberts Field,44.2541,-121.15
+United States of America ,Salem (OR),US,Oregon,SLE,KSLE,McNary Field,44.9095,-123.003
+United States of America ,Basse,US,Pennsylvania,ABE,KABE,Lehigh Valley International Airport,40.6521,-75.4408
+United States of America ,Beirut ,US,Pennsylvania,AOO,KAOO,Altoona-Blair County Airport,40.2964,-78.32
+United States of America ,Wilkes Barre/Scranton (PA),US,Pennsylvania,AVP,KAVP,Wilkes-Barre/Scranton International Airport,41.3385,-75.7234
+United States of America ,Jiayuguan ,US,Pennsylvania,BFD,KBFD,Bradford Regional Airport,41.8031,-78.6401
+United States of America ,Singapore ,US,Pennsylvania,DUJ,KDUJ,DuBois Regional Airport,41.1783,-78.8987
+United States of America ,Ubon Ratchathani ,US,Pennsylvania,ERI,KERI,Erie International Airport (Tom Ridge Field),42.0831,-80.1739
+United States of America ,Franklin/Oil City (PA),US,Pennsylvania,FKL,KFKL,Venango Regional Airport (Chess Lamberton Field),41.3779,-79.8604
+United States of America ,Harrisburg (PA) ,US,Pennsylvania,HAR,KCXY,Capital City Airport,40.2171,-76.8515
+United States of America ,Williamsport (PA),US,Pennsylvania,IPT,KIPT,Williamsport Regional Airport,41.2418,-76.9211
+United States of America ,Johnstown (PA),US,Pennsylvania,JST,KJST,John Murtha Johnstown-Cambria County Airport,40.3161,-78.8339
+United States of America ,Latrobe (PA),US,Pennsylvania,LBE,KLBE,Arnold Palmer Regional Airport,40.2759,-79.4048
+United States of America ,Lancaster (PA),US,Pennsylvania,LNS,KLNS,Lancaster Airport,40.1217,-76.2961
+United States of America ,Harrisburg (PA) ,US,Pennsylvania,MDT,KMDT,Harrisburg International Airport,40.1935,-76.7634
+United States of America ,Philadelphia (PA) ,US,Pennsylvania,PHL,KPHL,Philadelphia International Airport,39.8719,-75.2411
+United States of America ,Pittsburgh International Airport (PA),US,Pennsylvania,PIT,KPIT,Pittsburgh International Airport,40.4915,-80.2329
+United States of America ,Reading (PA),US,Pennsylvania,RDG,KRDG,Reading Regional Airport (Carl A. Spaatz Field),40.3785,-75.9652
+United States of America ,State College/Belefonte (PA),US,Pennsylvania,SCE,KUNV,University Park Airport,40.8493,-77.8487
+United States of America ,Providence (RI),US,Rhode Island,PVD,KPVD,Theodore Francis Green State Airport,41.7326,-71.4204
+United States of America ,Oaxaca ,US,South Carolina,CAE,KCAE,Columbia Metropolitan Airport,33.9388,-81.1195
+United States of America ,Medellin ,US,South Carolina,CHS,KCHS,Charleston International Airport / Charleston Air Force Base,32.8986,-80.0405
+United States of America ,Myrtle Beach (SC) ,US,South Carolina,CRE,KCRE,Grand Strand Airport,33.8117,-78.7239
+United States of America ,Zagreb ,US,South Carolina,FLO,KFLO,Florence Regional Airport,34.1854,-79.7239
+United States of America ,Greenville/Spartanburg (SC),US,South Carolina,GSP,KGSP,Greenville-Spartanburg International Airport,34.8957,-82.2189
+United States of America ,Hilton Head Island (SC),US,South Carolina,HHH,KHXD,Hilton Head Airport,32.2244,-80.6975
+United States of America ,Myrtle Beach (SC) ,US,South Carolina,MYR,KMYR,Myrtle Beach International Airport,33.6797,-78.9283
+United States of America ,Aberdeen (SD),US,South Dakota,ABR,KABR,Aberdeen Regional Airport,45.4491,-98.4218
+United States of America ,Watertown (SD),US,South Dakota,ATY,KATY,Watertown Regional Airport,44.914,-97.1547
+United States of America ,Karachi ,US,South Dakota,BKX,KBKX,Brookings Regional Airport,44.3048,-96.8169
+United States of America ,Sioux Falls (SD),US,South Dakota,FSD,KFSD,Sioux Falls Regional Airport (Joe Foss Field),43.582,-96.7419
+United States of America ,Huron (SD),US,South Dakota,HON,KHON,Huron Regional Airport,44.3852,-98.2285
+United States of America ,Mitchell (SD),US,South Dakota,MHE,KMHE,Mitchell Municipal Airport,43.7748,-98.0386
+United States of America ,Pierre (SD),US,South Dakota,PIR,KPIR,Pierre Regional Airport,44.3827,-100.286
+United States of America ,Rapid City (SD),US,South Dakota,RAP,KRAP,Rapid City Regional Airport,44.0453,-103.057
+United States of America ,Nashville (TN),US,Tennessee,BNA,KBNA,Nashville International Airport,36.1245,-86.6782
+United States of America ,Mexico City ,US,Tennessee,CHA,KCHA,Chattanooga Metropolitan Airport (Lovell Field),35.0353,-85.2038
+United States of America ,Memphis (TN),US,Tennessee,MEM,KMEM,Memphis International Airport,35.0424,-89.9767
+United States of America ,Jackson (TN) ,US,Tennessee,MKL,KMKL,McKellar-Sipes Regional Airport,35.5999,-88.9156
+United States of America ,Tri,US,Tennessee,TRI,KTRI,Tri-Cities Regional Airport,36.4752,-82.4074
+United States of America ,Knoxville (TN),US,Tennessee,TYS,KTYS,McGhee Tyson Airport,35.811,-83.994
+United States of America ,Abilene (TX),US,Texas,ABI,KABI,Abilene Regional Airport,32.4113,-99.6819
+United States of America ,Waco (TX),US,Texas,ACT,KACT,Waco Regional Airport,31.6113,-97.2305
+United States of America ,Belfast ,US,Texas,AMA,KAMA,Rick Husband Amarillo International Airport,35.2194,-101.706
+United States of America ,Chongqing ,US,Texas,AUS,KAUS,Austin-Bergstrom International Airport,30.1945,-97.6699
+United States of America ,Fortaleza ,US,Texas,BPT,KBPT,Jack Brooks Regional Airport,29.9508,-94.0207
+United States of America ,Nice ,US,Texas,CLL,KCLL,Easterwood Airport (Easterwood Field),30.5886,-96.3638
+United States of America ,Paris ,US,Texas,CRP,KCRP,Corpus Christi International Airport,27.7704,-97.5012
+United States of America ,Pu San (Busan) ,US,Texas,DAL,KDAL,Dallas Love Field,32.8471,-96.8518
+United States of America ,Pyongyang ,US,Texas,DFW,KDFW,Dallas/Fort Worth International Airport,32.8968,-97.038
+United States of America ,Toronto ,US,Texas,ELP,KELP,El Paso International Airport,31.8072,-106.378
+United States of America ,Longview/Kilgore (TX),US,Texas,GGG,KGGG,East Texas Regional Airport,32.384,-94.7115
+United States of America ,Houston (TX) : Hobby,US,Texas,HOU,KHOU,William P. Hobby Airport,29.6454,-95.2789
+United States of America ,Harlingen/South Padre Island (TX),US,Texas,HRL,KHRL,Valley International Airport,26.2285,-97.6544
+United States of America ,Houston: TX ,US,Texas,IAH,KIAH,George Bush Intercontinental Airport,29.9844,-95.3414
+United States of America ,Killeem (TX),US,Texas,ILE,KILE,Skylark Field,31.0858,-97.6865
+United States of America ,Jacksonville (TX),US,Texas,JKV,KJSO,Cherokee County Airport,31.8693,-95.2174
+United States of America ,Lubbock (TX),US,Texas,LBB,KLBB,Lubbock Preston Smith International Airport,33.6636,-101.823
+United States of America ,Laredo (TX),US,Texas,LRD,KLRD,Laredo International Airport,27.5438,-99.4616
+United States of America ,Midland/Odessa (TX),US,Texas,MAF,KMAF,Midland International Air and Space Port,31.9425,-102.202
+United States of America ,McAllen (TX),US,Texas,MFE,KMFE,McAllen Miller International Airport,26.1758,-98.2386
+United States of America ,San Antonio (TX),US,Texas,SAT,KSAT,San Antonio International Airport,29.5337,-98.4698
+United States of America ,San Angelo (TX),US,Texas,SJT,KSJT,San Angelo Regional Airport (Mathis Field),31.3577,-100.496
+United States of America ,Wichita Falls (TX),US,Texas,SPS,KSPS,Sheppard Air Force Base / Wichita Falls Municipal Airport,33.9888,-98.4919
+United States of America ,Tyler (TX),US,Texas,TYR,KTYR,Tyler Pounds Regional Airport,32.3541,-95.4024
+United States of America ,Mandalay ,US,Utah,CDC,KCDC,Cedar City Regional Airport,37.701,-113.099
+United States of America ,St. George (UT),US,Utah,SGU,KSGU,St. George Regional Airport,37.0364,-113.51
+United States of America ,Salt Lake City (UT),US,Utah,SLC,KSLC,Salt Lake City International Airport,40.7884,-111.978
+United States of America ,Vernal (UT),US,Utah,VEL,KVEL,Vernal Regional Airport,40.4409,-109.51
+United States of America ,Lae ,US,Vermont,BTV,KBTV,Burlington International Airport,44.4719,-73.1533
+United States of America ,Metz/Nancy Metz,US,Virginia,CHO,KCHO,Charlottesville-Albemarle Airport,38.1386,-78.4529
+United States of America ,Rahim Yar Khan ,US,Virginia,DAN,KDAN,Danville Regional Airport,36.5729,-79.3361
+United States of America ,Washington DC ,US,Virginia,DCA,KDCA,Ronald Reagan Washington National Airport,38.8522,-77.0378
+United States of America ,Washington DC ,US,Virginia,IAD,KIAD,Washington Dulles International Airport,38.9445,-77.4558
+United States of America ,Lynchburg (VA),US,Virginia,LYH,KLYH,Lynchburg Regional Airport (Preston Glenn Field),37.3267,-79.2004
+United States of America ,Norfolk/Virginia Beach (VA),US,Virginia,ORF,KORF,Norfolk International Airport,36.8946,-76.2012
+United States of America ,Newport News/Williamsburg (VA),US,Virginia,PHF,KPHF,Newport News/Williamsburg International Airport,37.1319,-76.493
+United States of America ,Richmond (VA),US,Virginia,RIC,KRIC,Richmond International Airport,37.5052,-77.3197
+United States of America ,Roanoke (VA),US,Virginia,ROA,KROA,Roanoke-Blacksburg Regional Airport (Woodrum Field),37.3255,-79.9754
+United States of America ,Shenandoah Valley/Stauton (VA),US,Virginia,SHD,KSHD,Shenandoah Valley Regional Airport,38.2638,-78.8964
+United States of America ,Walla Walla (WA),US,Washington,ALW,KALW,Walla Walla Regional Airport,46.0949,-118.288
+United States of America ,Gothenburg (Göteborg) ,US,Washington,BLI,KBLI,Bellingham International Airport,48.7928,-122.538
+United States of America ,Port Angeles (WA),US,Washington,CLM,KCLM,William R. Fairchild International Airport,48.1202,-123.5
+United States of America ,Wenatchee (WA),US,Washington,EAT,KEAT,Pangborn Memorial Airport,47.3989,-120.207
+United States of America ,Spokane (WA),US,Washington,GEG,KGEG,Spokane International Airport,47.6199,-117.534
+United States of America ,Moses Lake (WA),US,Washington,MWH,KMWH,Grant County International Airport,47.2077,-119.32
+United States of America ,Pasco (WA),US,Washington,PSC,KPSC,Tri-Cities Airport,46.2647,-119.119
+United States of America ,Pullman (WA),US,Washington,PUW,KPUW,Pullman-Moscow Regional Airport,46.7439,-117.11
+United States of America ,Seattle/Tacoma (WA),US,Washington,SEA,KSEA,Seattle-Tacoma International Airport,47.449,-122.309
+United States of America ,Yakima (WA),US,Washington,YKM,KYKM,Yakima Air Terminal (McAllister Field),46.5682,-120.544
+United States of America ,Fort de France ,US,West Virginia,BKW,KBKW,Raleigh County Memorial Airport,37.7873,-81.1242
+United States of America ,Jacksonville (IL) ,US,West Virginia,BLF,KBLF,Mercer County Airport,37.2958,-81.2077
+United States of America ,Nagoya ,US,West Virginia,CKB,KCKB,North Central West Virginia Airport,39.2966,-80.2281
+United States of America ,Melbourne ,US,West Virginia,CRW,KCRW,Yeager Airport,38.3731,-81.5932
+United States of America ,Huntington (WV),US,West Virginia,HTS,KHTS,Tri-State Airport (Milton J. Ferguson Field),38.3667,-82.558
+United States of America ,Greenbrier/Lewisburg (WV),US,West Virginia,LWB,KLWB,Greenbrier Valley Airport,37.8583,-80.3995
+United States of America ,Morgantown (WV),US,West Virginia,MGW,KMGW,Morgantown Municipal Airport (Walter L. Bill Hart Field),39.6429,-79.9163
+United States of America ,Martinsburg (WV),US,West Virginia,MRB,KMRB,Eastern WV Regional Airport (Shepherd Field),39.4019,-77.9846
+United States of America ,Pakersburg (WV) /Marietta (OH),US,West Virginia,PKB,KPKB,Mid-Ohio Valley Regional Airport,39.3451,-81.4392
+United States of America ,Bridgetown ,US,Wisconsin,ATW,KATW,Appleton International Airport,44.2581,-88.5191
+United States of America ,Wausau/Stevens Point (WI),US,Wisconsin,CWA,KCWA,Central Wisconsin Airport,44.7776,-89.6668
+United States of America ,Tallinn ,US,Wisconsin,EAU,KEAU,Chippewa Valley Regional Airport,44.8658,-91.4843
+United States of America ,Green Bay (WI),US,Wisconsin,GRB,KGRB,Austin Straubel International Airport,44.4851,-88.1296
+United States of America ,Janesville (WI) ,US,Wisconsin,JVL,KJVL,Southern Wisconsin Regional Airport,42.6203,-89.0416
+United States of America ,La Crosse (WI),US,Wisconsin,LSE,KLSE,La Crosse Regional Airport,43.879,-91.2567
+United States of America ,Milwaukee (WI),US,Wisconsin,MKE,KMKE,General Mitchell International Airport,42.9472,-87.8966
+United States of America ,Madison (WI) ,US,Wisconsin,MSN,KMSN,Dane County Regional Airport (Truax Field),43.1399,-89.3375
+United States of America ,Oshkosh (WI),US,Wisconsin,OSH,KOSH,Wittman Regional Airport,43.9844,-88.557
+United States of America ,Rhinelander (WI),US,Wisconsin,RHI,KRHI,Rhinelander-Oneida County Airport,45.6312,-89.4675
+United States of America ,New York ,US,Wyoming,COD,KCOD,Yellowstone Regional Airport,44.5202,-109.024
+United States of America ,Madras (Chennai) ,US,Wyoming,CPR,KCPR,Casper-Natrona County International Airport,42.908,-106.464
+United States of America ,Midway Island ,US,Wyoming,CYS,KCYS,Cheyenne Regional Airport (Jerry Olson Field),41.1557,-104.812
+United States of America ,Gilette (WY),US,Wyoming,GCC,KGCC,Gillette-Campbell County Airport,44.3489,-105.539
+United States of America ,Jackson Hole (WY),US,Wyoming,JAC,KJAC,Jackson Hole Airport,43.6073,-110.738
+United States of America ,Laramie (WY),US,Wyoming,LAR,KLAR,Laramie Regional Airport,41.3121,-105.675
+United States of America ,Rock Springs (WY),US,Wyoming,RKS,KRKS,Southwest Wyoming Regional Airport,41.5942,-109.065
+United States of America ,Sheridan (WY),US,Wyoming,SHR,KSHR,Sheridan County Airport,44.7692,-106.98
+United States of America ,Worland (WY),US,Wyoming,WRL,KWRL,Worland Municipal Airport,43.9657,-107.951
 Uruguay,Montevideo ,UY,Montevideo,MVD,SUMU,Carrasco Gral. Cesareo L. Berisso International Airport,-34.8384,-56.0308
 Uzbekistan,Samarkand ,UZ,Samarqand,SKD,UTSS,Samarkand International Airport,39.7005,66.9838
 Uzbekistan,Tashkent ,UZ,Toshkent,TAS,UTTT,Tashkent International Airport,41.2579,69.2812
@@ -1797,11 +1797,11 @@ Venezuela (Bolivarian Republic of),Valencia,VE,Carabobo,VLN,SVVA,Arturo Michelen
 Venezuela (Bolivarian Republic of),Margerita,VE,Nueva Esparta,PMV,SVMG,Santiago Marino Caribbean International Airport,10.9126,-63.9666
 Venezuela (Bolivarian Republic of),Luxi ,VE,Vargas,CCS,SVMI,Simon Bolivar International Airport,10.6012,-66.9912
 Venezuela (Bolivarian Republic of),Maracaibo ,VE,Zulia,MAR,SVMC,La Chinita International Airport,10.5582,-71.7279
-Virgin Islands (British),Fort Riley (KS) ,VG,"Virgin Islands, British",EIS,TUPJ,Terrance B. Lettsome International Airport,18.4448,-64.543
-Virgin Islands (British),Tortola,VG,"Virgin Islands, British",TOV,,West End Seaplane Base,18.45,-64.5833
-Virgin Islands (British),Virgin Gorda,VG,"Virgin Islands, British",VIJ,TUPW,Virgin Gorda Airport,18.4464,-64.4275
-Virgin Islands (U.S.),St. Thomas,VI,"Virgin Islands, U.S.",STT,TIST,Cyril E. King Airport,18.3373,-64.9734
-Virgin Islands (U.S.),St. Croix,VI,"Virgin Islands, U.S.",STX,TISX,Henry E. Rohlsen Airport,17.7019,-64.7986
+Virgin Islands (British),Fort Riley (KS) ,VG,Virgin Islands,EIS,TUPJ,Terrance B. Lettsome International Airport,18.4448,-64.543
+Virgin Islands (British),Tortola,VG,Virgin Islands,TOV,,West End Seaplane Base,18.45,-64.5833
+Virgin Islands (British),Virgin Gorda,VG,Virgin Islands,VIJ,TUPW,Virgin Gorda Airport,18.4464,-64.4275
+Virgin Islands (U.S.),St. Thomas,VI,Virgin Islands,STT,TIST,Cyril E. King Airport,18.3373,-64.9734
+Virgin Islands (U.S.),St. Croix,VI,Virgin Islands,STX,TISX,Henry E. Rohlsen Airport,17.7019,-64.7986
 Viet Nam,Hanoi ,VN,Ha Noi,HAN,VVNB,Noi Bai International Airport,21.2212,105.807
 Viet Nam,Ho Chi Minh City (Saigon) ,VN,Ho Chi Minh,SGN,VVTS,Tan Son Nhat International Airport,10.8188,106.652
 Viet Nam,Hue ,VN,Thua Thien-Hue,HUI,VVPB,Phu Bai International Airport,16.4015,107.703

@@ -46,7 +46,8 @@ public class FlightAPIService {
                                 segment.getDeparture().getIataCode(),
                                 segment.getArrival().getIataCode(),// Distance not needed
                                 totalPrice/offer.getItineraries()[0].getSegments().length,  // Store total price
-                                totalDuration/offer.getItineraries()[0].getSegments().length  // Store total duration
+                                totalDuration/offer.getItineraries()[0].getSegments().length,// Store total duration
+                                AirlineLoader.getInstance().getAirline(segment.getCarrierCode())
                         );
                         flights.add(flight);
                     }

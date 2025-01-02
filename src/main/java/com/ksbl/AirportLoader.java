@@ -1,9 +1,8 @@
 package com.ksbl;
 
-import com.amadeus.resources.TripDetail;
+
 
 import java.io.BufferedReader;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.*;
@@ -12,13 +11,14 @@ public class AirportLoader {
 
     final static String filePath = "airports.csv";
 
-    final static Map<String, Airport> airports = new HashMap<>();
+    final Map<String, Airport> airports;
 
     private static AirportLoader instance;
 
 
 
     private AirportLoader() {
+         airports = new HashMap<>();
         loadAirports();
     }
 
@@ -40,20 +40,20 @@ public class AirportLoader {
             line = br.readLine();
             while ((line = br.readLine()) != null) {
                 String[] values = line.split(",");
-                String iata = values[3];
+                String iata = values[4];
+                if (iata=="PPP"){
+                    continue;
+                }
                 double lat = Double.parseDouble(values[values.length-2]);
                 double lon = Double.parseDouble(values[values.length-1]);
-                String airport = values[5];
-                airports.put(iata, new Airport(iata, lat, lon,airport));
+                airports.put(iata, new Airport(values[0],values[1],values[2],values[3],values[4],values[5],values[6],lat,lon));
             }
         } catch (IOException e) {
-            e.printStackTrace();
+            System.out.println(e.getCause());
         }
     }
 
-    public Airport getAirport(String code) {
-        return airports.get(code);
+    public Map<String, Airport> getAirports(){
+        return this.airports;
     }
-
-
 }
