@@ -23,7 +23,7 @@ public class FlightAPIService {
         this.airportLoader = AirportLoader.getInstance();
     }
 
-    public List<Flight> searchFlights(String origin, String destination, LocalDate date,int routes) {
+    public List<Flight> searchFlights(String origin, String destination, LocalDate date,LocalDate returnDate,int routes) {
         List<Flight> flights = new ArrayList<>();
 
         try {
@@ -54,7 +54,7 @@ public class FlightAPIService {
                 }
             }
         } catch (ResponseException e) {
-            e.printStackTrace();
+            System.out.println(e.getMessage());
         }
 
         return flights;

@@ -44,7 +44,7 @@ public class AirlineLoader {
                 airlines.put(iata, new Airline(values[0],values[1]));
             }
         } catch (IOException e) {
-            System.out.println(e.getCause());
+            System.out.println(e.getMessage());
         }
     }
 

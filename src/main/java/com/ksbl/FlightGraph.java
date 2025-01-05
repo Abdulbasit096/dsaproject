@@ -1,12 +1,9 @@
 package com.ksbl;
 
-import java.util.HashMap;
-import java.util.Map;
-import java.util.PriorityQueue;
-import java.util.Stack;
+import java.util.*;
 
 public class FlightGraph {
-    private Map<String, Map<String, Flight>> adjacencyList;
+    private final Map<String, Map<String, Flight>> adjacencyList;
 
     public FlightGraph() {
         this.adjacencyList = new HashMap<>();
@@ -42,7 +39,7 @@ public class FlightGraph {
         Map<String, Double> distances = new HashMap<>();
         Map<String, String> previousNodes = new HashMap<>();
         PriorityQueue<String> queue = new PriorityQueue<>(
-                (a, b) -> Double.compare(distances.get(a), distances.get(b))
+                Comparator.comparingDouble(distances::get)
         );
 
         // Initialize distances

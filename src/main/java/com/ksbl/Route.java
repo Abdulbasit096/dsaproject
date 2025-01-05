@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.ArrayList;
 
 public class Route {
-    private List<Flight> flights;
+    private final List<Flight> flights;
     private double totalPrice;
     private int totalDuration;
 
@@ -22,7 +22,7 @@ public class Route {
     }
 
     // Getters
-    public List<Flight> getFlights() { return flights; }
+    public List<Flight>  getFlights() { return flights; }
     public double getTotalPrice() { return totalPrice; }
 
     public int getTotalDuration() { return totalDuration; }
@@ -47,7 +47,7 @@ public class Route {
         }
         
 
-        sb.append("\nTotal Price: EUR").append(String.format("%.2f", totalPrice));
+        sb.append("\nTotal Price: EUR ").append(String.format("%.2f", totalPrice));
 
 
         // Format duration as HH:MM

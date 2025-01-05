@@ -41,15 +41,12 @@ public class AirportLoader {
             while ((line = br.readLine()) != null) {
                 String[] values = line.split(",");
                 String iata = values[4];
-                if (iata=="PPP"){
-                    continue;
-                }
                 double lat = Double.parseDouble(values[values.length-2]);
                 double lon = Double.parseDouble(values[values.length-1]);
                 airports.put(iata, new Airport(values[0],values[1],values[2],values[3],values[4],values[5],values[6],lat,lon));
             }
         } catch (IOException e) {
-            System.out.println(e.getCause());
+            System.out.println(e.getMessage());
         }
     }
 
