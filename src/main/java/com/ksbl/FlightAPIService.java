@@ -23,7 +23,7 @@ public class FlightAPIService {
         this.airportLoader = AirportLoader.getInstance();
     }
 
-    public List<Flight> searchFlights(String origin, String destination, LocalDate date,LocalDate returnDate,int routes) {
+    public List<Flight> searchFlights(String origin, String destination, LocalDate date,int routes) {
         List<Flight> flights = new ArrayList<>();
 
         try {

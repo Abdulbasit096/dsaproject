@@ -1,5 +1,6 @@
 package com.ksbl;
 
+import java.io.IOException;
 import java.util.List;
 import java.util.ArrayList;
 
@@ -29,6 +30,7 @@ public class Route {
 
     @Override
     public String toString() {
+        CurrencyConversion currencyConversion = new CurrencyConversion();
         if (flights.isEmpty()){
             return "";
         }
@@ -45,9 +47,13 @@ public class Route {
                 sb.append(" -> ");
             }
         }
-        
 
-        sb.append("\nTotal Price: EUR ").append(String.format("%.2f", totalPrice));
+
+        try {
+            sb.append("\nTotal Price: PKR ").append(String.format("%.2f", currencyConversion.convertEurToPkr(totalPrice)));
+        } catch (IOException | InterruptedException e) {
+            throw new RuntimeException(e);
+        }
 
 
         // Format duration as HH:MM
